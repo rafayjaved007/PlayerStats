@@ -1,0 +1,13 @@
+setup.py
+playerstatistics/__init__.py
+playerstatistics/items.py
+playerstatistics/middlewares.py
+playerstatistics/pipelines.py
+playerstatistics/settings.py
+playerstatistics/spiders/__init__.py
+playerstatistics/spiders/player_stats.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

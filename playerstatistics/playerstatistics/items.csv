@@ -1,0 +1,1953 @@
+age,apps,first_name,full_name,height,last_name,played_positions,position,ranking,rating,team_name,team_region_name,weight
+23,1,Ben,Ben Chilwell,178,Chilwell,-DL-ML-,Defender,1,9.16,Chelsea,England,77
+27,1,Serge,Serge Aurier,176,Aurier,-DC-DL-DR-MR-,Defender,2,8.92,Tottenham,England,76
+33,2,Dries,Dries Mertens,169,Mertens,-AMC-AML-AMR-FW-,Forward,3,8.9,Napoli,Italy,61
+21,3,Kylian,Kylian Mbappé,178,Mbappé,-AML-AMR-FW-,Forward,4,8.839999999999998,Paris Saint-Germain,France,73
+39,1,Zlatan,Zlatan Ibrahimovic,195,Ibrahimovic,-FW-,Forward,5,8.72,AC Milan,Italy,95
+32,3,Alejandro,Alejandro Gómez,167,Gómez,-FW-MC-ML-,Midfielder,6,8.696666666666667,Atalanta,Italy,68
+27,1,Willi,Willi Orban,186,Orban,-DC-,Defender,7,8.62,RasenBallsport Leipzig,Germany,87
+25,3,Jack,Jack Grealish,175,Grealish,-AMC-AML-,Midfielder,8,8.543333333333333,Aston Villa,England,68
+28,4,Heung-Min,Son Heung-Min,183,Son,-FW-MC-ML-MR-,Forward,9,8.4275,Tottenham,England,78
+29,4,James,James Rodríguez,180,Rodríguez,-AMC-AML-AMR-,Midfielder,10,8.412500000000001,Everton,England,75
+23,1,Gabriel Fernando,Gabriel Jesus,175,de Jesus,-AML-AMR-FW-,Forward,11,8.38,Manchester City,England,73
+23,4,Dominic,Dominic Calvert-Lewin,187,Calvert-Lewin,-AML-FW-,Forward,12,8.325,Everton,England,71
+26,1,Ross,Ross Barkley,189,Barkley,-MC-ML-MR-,Midfielder,13,8.32,Aston Villa,England,76
+27,4,Harry,Harry Kane,188,Kane,-AMC-FW-,Forward,14,8.3125,Tottenham,England,86
+23,3,Theo,Theo Hernández,184,Hernández,-DL-,Defender,15,8.296666666666667,AC Milan,Italy,81
+32,3,Robert,Robert Lewandowski,184,Lewandowski,-FW-,Forward,16,8.24,Bayern Munich,Germany,80
+29,3,Andrej,Andrej Kramaric,177,Kramaric,-AMC-AML-AMR-FW-,Forward,17,8.176666666666668,Hoffenheim,Germany,73
+25,2,Hirving,Hirving Lozano,175,Lozano,-AML-AMR-FW-,Forward,18,8.17,Napoli,Italy,70
+18,1,Adrien,Adrien Truffert,173,Truffert,,Defender,19,8.16,Rennes,France,61
+17,3,Giovanni,Giovanni Reyna,185,Reyna,,Midfielder,20,8.136666666666667,Borussia Dortmund,Germany,79
+28,4,Mohamed,Mohamed Salah,175,Salah Ghaly,-AMC-AML-AMR-FW-,Forward,21,8.135,Liverpool,England,71
+17,3,Anssumane,Ansu Fati,178,Fati,-AML-,Forward,22,8.13,Barcelona,Spain,66
+25,3,John,John McGinn,178,McGinn,-DMC-,Midfielder,23,8.12,Aston Villa,England,68
+28,3,Sadio,Sadio Mané,175,Mané,-AMC-AML-AMR-FW-,Forward,24,8.116666666666665,Liverpool,England,69
+24,5,Mikel,Mikel Merino,188,Merino,-MC-,Midfielder,25,8.106,Real Sociedad,Spain,83
+35,2,Cristiano Ronaldo,Cristiano Ronaldo,187,dos Santos Aveiro,-FW-ML-,Forward,26,8.08,Juventus,Italy,83
+20,3,Erling,Erling Haaland,194,Haaland,-FW-,Forward,27,8.07,Borussia Dortmund,Germany,88
+31,3,Bas,Bas Dost,196,Dost,-FW-,Forward,28,8.066666666666666,Eintracht Frankfurt,Germany,78
+24,3,Ollie,Ollie Watkins,180,Watkins,-AML-AMR-FW-,Forward,29,8.053333333333333,Aston Villa,England,70
+21,3,Matheus,Matheus Cunha,183,Santos Carneiro Da Cunha,-AMC-FW-,Forward,30,8.049999999999999,Hertha Berlin,Germany,76
+26,2,Piotr,Piotr Zielinski,180,Zielinski,-MC-ML-,Midfielder,31,8.035,Napoli,Italy,75
+31,3,Thomas,Thomas Müller,186,Müller,-FW-MC-ML-MR-,Forward,32,8.01,Bayern Munich,Germany,75
+29,2,Marcel,Marcel Halstenberg,188,Halstenberg,-DC-DL-ML-,Defender,33,7.99,RasenBallsport Leipzig,Germany,87
+26,3,Domenico,Domenico Berardi,183,Berardi,-AMR-FW-,Forward,34,7.946666666666668,Sassuolo,Italy,72
+23,3,Sasa,Sasa Kalajdzic,200,Kalajdzic,-FW-,Forward,35,7.93,VfB Stuttgart,Germany,76
+20,2,Nico,Nico Schlotterbeck,191,Schlotterbeck,-DC-,Defender,36,7.92,Union Berlin,Germany,86
+27,6,Zinedine,Zinedine Ferhat,183,Ferhat,-AMR-,Midfielder,37,7.91,Nimes,France,77
+29,5,Andy,Andy Delort,181,Delort,-AMR-FW-,Forward,38,7.906000000000001,Montpellier,France,83
+24,2,Leroy,Leroy Sané,184,Sané,-FW-MC-ML-MR-,Forward,39,7.89,Bayern Munich,Germany,75
+23,4,Richarlison,Richarlison,184,de Andrade,-AMC-AML-AMR-FW-,Forward,40,7.8875,Everton,England,83
+23,5,Romain,Romain Perraud,173,Perraud,-DL-,Defender,41,7.878,Brest,France,68
+20,2,Dejan,Dejan Kulusevski,186,Kulusevski,-AMC-AMR-,Midfielder,42,7.859999999999999,Juventus,Italy,0
+26,3,Emre,Emre Can,186,Can,-DC-DL-DMC-DR-,Midfielder,43,7.81,Borussia Dortmund,Germany,86
+26,2,Roberto,Roberto Gagliardini,190,Gagliardini,-DMC-,Midfielder,44,7.805,Inter,Italy,77
+29,3,Duván,Duván Zapata,189,Zapata,-FW-,Forward,45,7.786666666666666,Atalanta,Italy,88
+33,1,Scott,Scott Dann,188,Dann,-DC-,Defender,46,7.77,Crystal Palace,England,76
+26,2,Yussuf,Yussuf Poulsen,192,Poulsen,-AMR-FW-,Forward,47,7.765000000000001,RasenBallsport Leipzig,Germany,84
+28,6,Téji,Téji Savanier,172,Savanier,-MC-,Midfielder,48,7.761666666666668,Montpellier,France,69
+27,2,Giovanni,Giovanni Di Lorenzo,183,Di Lorenzo,-DC-DR-MR-,Defender,49,7.76,Napoli,Italy,83
+27,3,Tyrone,Tyrone Mings,196,Mings,-DC-DL-,Defender,50,7.743333333333333,Aston Villa,England,77
+34,1,Diego,Diego Godín,187,Godín,-DC-,Defender,51,7.74,Cagliari,Italy,78
+26,3,Mahmoud Ahmed Ibrahim,Trézéguet,180,Hassan,-AML-AMR-,Midfielder,52,7.736666666666667,Aston Villa,England,71
+25,3,Joshua,Joshua Kimmich,176,Kimmich,-DC-DMC-DR-,Midfielder,53,7.73,Bayern Munich,Germany,73
+20,3,João Félix,João Félix,181,Sequeira,-AML-FW-,Forward,54,7.72,Atletico Madrid,Spain,70
+23,3,Davide,Davide Calabria,177,Calabria,-DL-DR-MR-,Defender,55,7.713333333333334,AC Milan,Italy,70
+33,3,Francesco,Francesco Caputo,180,Caputo,-FW-,Forward,56,7.706666666666667,Sassuolo,Italy,75
+23,3,Franck,Franck Kessié,183,Kessié,-DMC-,Midfielder,57,7.7,AC Milan,Italy,74
+32,4,Ángel,Ángel Di María,180,Di María,-FW-MC-ML-MR-,Midfielder,58,7.692500000000001,Paris Saint-Germain,France,75
+29,3,Kevin,Kevin De Bruyne,181,De Bruyne,-FW-MC-ML-MR-,Midfielder,59,7.683333333333334,Manchester City,England,68
+27,3,Romelu,Romelu Lukaku,190,Lukaku,-AMR-FW-,Forward,60,7.683333333333333,Inter,Italy,94
+21,3,Roger,Ibañez,185,Ibañez da Silva,-DC-,Defender,61,7.68,Roma,Italy,73
+26,6,Gaetan,Gaetan Laborde,181,Laborde,-AMC-FW-,Forward,62,7.671666666666667,Montpellier,France,78
+28,3,Neymar da Silva,Neymar,175,Santos Júnior,-AMC-AML-AMR-FW-,Forward,63,7.663333333333334,Paris Saint-Germain,France,68
+20,3,Reece,Reece James,182,James,-DMC-DR-MR-,Defender,64,7.653333333333333,Chelsea,England,82
+26,3,Robin,Robin Gosens,183,Gosens,-DL-MC-ML-,Defender,65,7.646666666666667,Atalanta,Italy,76
+27,2,Jeffrey,Jeffrey Schlupp,178,Schlupp,-DL-MC-ML-,Midfielder,66,7.64,Crystal Palace,England,72
+28,3,Filip,Filip Djuricic,176,Djuricic,-AMC-AML-AMR-FW-,Midfielder,67,7.633333333333334,Sassuolo,Italy,69
+22,3,Amadou,Amadou Haidara,175,Haidara,-MC-MR-,Midfielder,68,7.63,RasenBallsport Leipzig,Germany,72
+28,5,Gerard,Gerard Moreno,180,Moreno,-AMC-AMR-FW-,Forward,69,7.626,Villarreal,Spain,77
+26,3,Koray,Koray Günter,184,Günter,-DC-,Defender,70,7.6066666666666665,Verona,Italy,79
+33,4,Jamie,Jamie Vardy,179,Vardy,-AML-FW-,Forward,71,7.605,Leicester,England,74
+22,3,Ezri,Ezri Konsa,183,Konsa Ngoyo,-DC-DR-,Defender,72,7.603333333333333,Aston Villa,England,77
+23,3,Felix,Felix Uduokhai,193,Uduokhai,-DC-,Defender,73,7.603333333333333,Augsburg,Germany,87
+29,2,Kalidou,Kalidou Koulibaly,195,Koulibaly,-DC-,Defender,74,7.6,Napoli,Italy,89
+33,3,Lionel,Lionel Messi,170,Messi,-AMC-AMR-FW-,Forward,75,7.593333333333334,Barcelona,Spain,72
+35,6,Laurent,Laurent Koscielny,186,Koscielny,-DC-,Defender,76,7.573333333333333,Bordeaux,France,75
+25,3,Serge,Serge Gnabry,175,Gnabry,-AMC-AML-AMR-FW-,Forward,77,7.573333333333333,Bayern Munich,Germany,75
+22,3,Manuel,Manuel Locatelli,185,Locatelli,-MC-,Midfielder,78,7.57,Sassuolo,Italy,75
+30,4,Karl,Karl Darlow,190,Darlow,-GK-,Goalkeeper,79,7.5625,Newcastle United,England,88
+22,6,Romain,Romain Faivre,180,Faivre,,Midfielder,80,7.561666666666667,Brest,France,75
+26,4,Steve,Steve Mounie,190,Mounie,-FW-,Forward,81,7.56,Brest,France,83
+29,2,Conor,Conor Hourihane,180,Hourihane,-DMC-,Midfielder,82,7.555,Aston Villa,England,62
+20,2,Jadon,Jadon Sancho,180,Sancho,-AMC-AML-AMR-,Midfielder,83,7.555,Borussia Dortmund,Germany,76
+33,2,Facundo,Facundo Roncaglia,179,Roncaglia,-DC-DL-DR-,Defender,84,7.550000000000001,Osasuna,Spain,76
+28,1,Vladimir,Vladimir Coufal,179,Coufal,-DR-,Defender,85,7.55,West Ham,England,76
+32,3,Daniel,Daniel Caligiuri,182,Caligiuri,-DR-FW-MC-ML-MR-,Midfielder,86,7.546666666666667,Augsburg,Germany,80
+29,2,Danilo Luiz,Danilo,184,da Silva,-DL-DR-,Defender,87,7.54,Juventus,Italy,78
+20,2,Maxence,Maxence Lacroix,190,Lacroix,,Defender,88,7.54,Wolfsburg,Germany,88
+30,4,Michail,Michail Antonio,180,Antonio,-DR-FW-MC-ML-MR-,Forward,89,7.54,West Ham,England,82
+28,3,Philippe,Philippe Coutinho,172,Coutinho Correia,-MC-ML-MR-,Midfielder,90,7.536666666666666,Barcelona,Spain,68
+29,2,Fabián,Fabián Balbuena,188,Balbuena,-DC-,Defender,91,7.535,West Ham,England,82
+29,6,Gaël,Gaël Kakuta,173,Kakuta,-MC-ML-MR-,Midfielder,92,7.533333333333334,Lens,France,64
+21,3,Achraf,Achraf Hakimi,181,Hakimi,-DL-DR-MR-,Defender,93,7.53,Inter,Italy,73
+21,2,Victor,Victor Osimhen,185,Osimhen,-FW-,Forward,94,7.525,Napoli,Italy,78
+26,2,Andrea,Andrea Belotti,181,Belotti,-FW-,Forward,95,7.52,Torino,Italy,72
+27,3,Niclas,Niclas Füllkrug,189,Füllkrug,-FW-,Forward,96,7.52,Werder Bremen,Germany,83
+31,3,Simon,Simon Kjaer,190,Kjaer,-DC-,Defender,97,7.516666666666667,AC Milan,Italy,86
+33,2,Antonio,Antonio Candreva,180,Candreva,-MC-ML-MR-,Midfielder,98,7.51,Sampdoria,Italy,70
+25,3,Kurt,Kurt Zouma,190,Zouma,-DC-DR-,Defender,99,7.506666666666667,Chelsea,England,96
+24,6,Jonathan,Jonathan Bamba,175,Bamba,-AMC-AML-AMR-FW-,Forward,100,7.501666666666668,Lille,France,72
+34,1,Cristián,Cristián Zapata,187,Zapata,-DC-,Defender,101,7.5,Genoa,Italy,82
+29,3,Roberto,Roberto Soriano,182,Soriano,-AMC-AML-,Midfielder,102,7.5,Bologna,Italy,76
+24,3,André Miguel,André Silva,184,Valente Silva,-FW-,Forward,103,7.493333333333333,Eintracht Frankfurt,Germany,78
+29,2,Aaron,Aaron Ramsey,178,Ramsey,-MC-ML-MR-,Midfielder,104,7.49,Juventus,Italy,76
+23,3,Matthew,Matthew Cash,185,Cash,-DR-MC-ML-MR-,Defender,105,7.483333333333334,Aston Villa,England,0
+26,3,Dennis,Dennis Praet,181,Praet,-AMC-AMR-,Midfielder,106,7.47,Leicester,England,78
+31,1,Jasmin,Jasmin Kurtic,186,Kurtic,-MC-ML-,Midfielder,107,7.47,Parma Calcio 1913,Italy,88
+20,6,Amine,Amine Gouiri,180,Gouiri,,Forward,108,7.468333333333334,Nice,France,72
+32,3,Rafal,Rafal Gikiewicz,190,Gikiewicz,-GK-,Goalkeeper,109,7.466666666666668,Augsburg,Germany,82
+26,4,Luis,Luis Milla,175,Milla,,Midfielder,110,7.465,Granada,Spain,67
+29,3,Marten,Marten de Roon,185,de Roon,-DMC-,Midfielder,111,7.460000000000001,Atalanta,Italy,76
+32,4,Karim,Karim Benzema,185,Benzema,-FW-,Forward,112,7.459999999999999,Real Madrid,Spain,81
+23,3,Jose Angel,Angeliño,175,Esmoris Tasende,-DL-ML-,Defender,113,7.456666666666666,RasenBallsport Leipzig,Germany,69
+20,2,Jean-Manuel,Jean-Manuel Mbom,183,Mbom,,Midfielder,114,7.455,Werder Bremen,Germany,80
+28,3,Emil,Emil Forsberg,177,Forsberg,-AMC-AML-AMR-,Forward,115,7.449999999999999,RasenBallsport Leipzig,Germany,76
+37,2,Franck,Franck Ribéry,170,Ribéry,-AMC-AML-FW-,Midfielder,116,7.44,Fiorentina,Italy,72
+24,3,Daichi,Daichi Kamada,180,Kamada,-AMC-AMR-FW-,Midfielder,117,7.436666666666667,Eintracht Frankfurt,Germany,72
+21,6,Ignatius,Ignatius Ganago,179,Ganago,-AML-AMR-FW-,Forward,118,7.433333333333334,Lens,France,82
+20,6,Sven,Sven Botman,193,Botman,-DC-,Defender,119,7.4316666666666675,Lille,France,81
+24,6,Fabien,Fabien Centonze,182,Centonze,-DR-,Defender,120,7.428333333333332,Metz,France,75
+24,2,Fabián,Fabián Ruiz,189,Ruiz,-MC-ML-,Midfielder,121,7.42,Napoli,Italy,70
+27,4,Mauro,Mauro Icardi,181,Icardi,-FW-,Forward,122,7.42,Paris Saint-Germain,France,75
+26,3,Arthur,Arthur Masuaku,179,Masuaku,-DL-ML-,Defender,123,7.416666666666667,West Ham,England,70
+21,2,Rafael Alexandre,Rafael Leão,188,da Conceição Leão,-FW-,Forward,124,7.415,AC Milan,Italy,81
+26,3,Hans,Hans Hateboer,185,Hateboer,-DR-MR-,Defender,125,7.413333333333333,Atalanta,Italy,72
+21,3,Mason,Mason Mount,178,Mount,-AMC-AML-AMR-,Midfielder,126,7.413333333333333,Chelsea,England,70
+30,2,Josuha,Josuha Guilavogui,188,Guilavogui,-DC-MC-,Midfielder,127,7.405,Wolfsburg,Germany,77
+34,4,Sergio,Sergio Ramos,184,Ramos,-DC-DR-,Defender,128,7.4,Real Madrid,Spain,82
+23,3,Iago Amaral,Iago,181,Borduchi,-DL-,Defender,129,7.3999999999999995,Augsburg,Germany,67
+22,3,Gabriel,Gabriel Magalhães,190,dos Santos Magalhães,-DC-,Defender,130,7.3933333333333335,Arsenal,England,78
+26,3,Ludwig,Ludwig Augustinsson,181,Augustinsson,-DL-ML-,Defender,131,7.3933333333333335,Werder Bremen,Germany,76
+22,4,Federico,Federico Valverde,182,Valverde,-MC-ML-,Midfielder,132,7.3875,Real Madrid,Spain,78
+23,3,Gaetano,Gaetano Castrovilli,176,Castrovilli,-MC-,Midfielder,133,7.386666666666667,Fiorentina,Italy,71
+29,5,Sergio,Sergio Canales,176,Canales,-AMC-AML-AMR-,Midfielder,134,7.386,Real Betis,Spain,65
+30,4,Jose Luis,Joselu,192,Mato Sanmartín,-FW-,Forward,135,7.385,Deportivo Alaves,Spain,80
+21,3,Gianluigi,Gianluigi Donnarumma,196,Donnarumma,-GK-,Goalkeeper,136,7.383333333333334,AC Milan,Italy,90
+23,3,Lautaro,Lautaro Martínez,174,Martínez,-FW-,Forward,137,7.383333333333333,Inter,Italy,72
+24,4,Timothy,Timothy Castagne,185,Castagne,-DR-ML-MR-,Defender,138,7.3825,Leicester,England,80
+25,3,Baptiste,Baptiste Santamaría,183,Santamaría,-DMC-,Midfielder,139,7.376666666666666,Angers,France,73
+26,4,Solly,Solly March,180,March,-MC-ML-MR-,Midfielder,140,7.375,Brighton,England,88
+28,3,Jannik,Jannik Vestergaard,199,Vestergaard,-DC-,Defender,141,7.37,Southampton,England,96
+35,4,Luka,Luka Modric,172,Modric,-MC-,Midfielder,142,7.37,Real Madrid,Spain,66
+21,4,Declan,Declan Rice,185,Rice,-DC-DMC-,Midfielder,143,7.3675,West Ham,England,76
+23,3,Jerdy,Jerdy Schouten,185,Schouten,-DMC-,Midfielder,144,7.363333333333333,Bologna,Italy,72
+32,1,Pavao,Pavao Pervan,194,Pervan,-GK-,Goalkeeper,145,7.36,Wolfsburg,Germany,88
+26,3,Rodrigo,Rodrigo de Paul,180,de Paul,-AMC-AML-AMR-FW-,Midfielder,146,7.359999999999999,Udinese,Italy,70
+21,2,Eljif,Eljif Elmas,182,Elmas,-MC-ML-,Midfielder,147,7.3549999999999995,Napoli,Italy,68
+26,3,Leonardo,Leonardo Bittencourt,171,Bittencourt,-FW-MC-ML-MR-,Midfielder,148,7.353333333333334,Werder Bremen,Germany,63
+30,6,Benjamin,Benjamin André,180,André,-DR-MC-ML-MR-,Midfielder,149,7.353333333333332,Lille,France,76
+21,6,Ibrahima,Ibrahima Niane,187,Niane,-AML-FW-,Forward,150,7.345,Metz,France,73
+25,3,Raphael,Raphael Framberger,179,Framberger,-DR-,Defender,151,7.343333333333334,Augsburg,Germany,76
+28,3,Jonas,Jonas Hofmann,176,Hofmann,-MC-ML-MR-,Midfielder,152,7.34,Borussia M.Gladbach,Germany,70
+29,2,Lorenzo,Lorenzo Insigne,163,Insigne,-AMC-AML-FW-,Forward,153,7.34,Napoli,Italy,59
+31,3,Felipe Augusto,Felipe,190,de Almeida Monteiro,-DC-,Defender,154,7.336666666666666,Atletico Madrid,Spain,83
+27,4,Lucas,Lucas Digne,178,Digne,-DC-DL-ML-,Defender,155,7.3325,Everton,England,74
+25,5,Birger,Birger Meling,173,Meling,-DL-DMC-DR-,Defender,156,7.331999999999999,Nimes,France,64
+22,3,Dani,Dani Olmo,179,Olmo,-AMC-AMR-,Midfielder,157,7.326666666666667,RasenBallsport Leipzig,Germany,68
+22,6,Yvann,Yvann Maçon,176,Maçon,-DL-,Defender,158,7.326666666666667,Saint-Etienne,France,74
+34,3,Jesús,Jesús Navas,172,Navas,-DR-MR-,Defender,159,7.323333333333333,Sevilla,Spain,60
+27,3,Wataru,Wataru Endo,178,Endo,-DMC-,Midfielder,160,7.323333333333333,VfB Stuttgart,Germany,73
+30,4,Aaron,Aaron Cresswell,170,Cresswell,-DC-DL-ML-,Defender,161,7.3175,West Ham,England,66
+26,4,Yerry,Yerry Mina,195,Mina,-DC-,Defender,162,7.3175,Everton,England,94
+24,3,Marvin,Marvin Friedrich,193,Friedrich,-DC-,Defender,163,7.316666666666667,Union Berlin,Germany,81
+28,3,Emiliano,Emiliano Martínez,195,Martínez,-GK-,Goalkeeper,164,7.316666666666666,Aston Villa,England,88
+30,3,Kieran,Kieran Trippier,178,Trippier,-DR-MR-,Defender,165,7.313333333333333,Atletico Madrid,Spain,71
+29,4,Andros,Andros Townsend,181,Townsend,-AML-AMR-FW-,Midfielder,166,7.3100000000000005,Crystal Palace,England,77
+27,4,Patrick,Patrick Bamford,185,Bamford,-AMC-AML-AMR-FW-,Forward,167,7.3100000000000005,Leeds,England,71
+27,2,Berat,Berat Djimsiti,190,Djimsiti,-DC-,Defender,168,7.305,Atalanta,Italy,83
+28,4,Carlos Henrique,Casemiro,185,Casimiro,-DMC-,Midfielder,169,7.305,Real Madrid,Spain,84
+24,5,Matthieu,Matthieu Udol,178,Udol,-DL-,Defender,170,7.304,Metz,France,79
+31,6,Gaëtan,Gaëtan Charbonnier,188,Charbonnier,-AMC-FW-,Forward,171,7.301666666666667,Brest,France,80
+22,3,Amos,Amos Pieper,192,Pieper,-DC-,Defender,172,7.296666666666667,Arminia Bielefeld,Germany,86
+24,5,Maximiliano,Maxi Gómez,186,Gómez,-FW-,Forward,173,7.296000000000001,Valencia,Spain,91
+24,5,Serhou,Serhou Guirassy,187,Guirassy,-AML-FW-,Forward,174,7.296000000000001,Rennes,France,82
+27,6,Ruben,Ruben Aguilar,172,Aguilar,-DR-MR-,Defender,175,7.295000000000001,Monaco,France,71
+27,3,Jan,Jan Oblak,188,Oblak,-GK-,Goalkeeper,176,7.293333333333333,Atletico Madrid,Spain,87
+21,3,Silas,Silas Wamangituka,189,Wamangituka,-FW-ML-MR-,Forward,177,7.293333333333333,VfB Stuttgart,Germany,79
+23,3,Maximilian,Maximilian Mittelstädt,180,Mittelstädt,-DL-ML-,Defender,178,7.289999999999999,Hertha Berlin,Germany,71
+29,3,Alexandre,Alexandre Lacazette,175,Lacazette,-FW-ML-MR-,Forward,179,7.28,Arsenal,England,73
+26,6,Léo,Léo Dubois,178,Dubois,-DL-DR-MR-,Defender,180,7.28,Lyon,France,65
+23,6,Toma,Toma Basic,189,Basic,-MC-,Midfielder,181,7.278333333333333,Bordeaux,France,80
+29,4,Alessandro,Alessandro Florenzi,173,Florenzi,-DR-MC-ML-MR-,Defender,182,7.2775,Paris Saint-Germain,France,67
+29,6,Florian,Florian Sotoca,187,Sotoca,,Forward,183,7.276666666666666,Lens,France,81
+28,3,Sergi,Sergi Roberto,178,Roberto,-DR-MC-MR-,Defender,184,7.276666666666666,Barcelona,Spain,68
+25,5,Javier,Javi Galán,172,Galán Gil,-DL-ML-,Defender,185,7.275999999999999,SD Huesca,Spain,70
+23,2,Onyinye Wilfred,Onyinye Wilfred Ndidi,183,Ndidi,-DMC-,Midfielder,186,7.275,Leicester,England,74
+31,2,Sidnei Rechel,Sidnei,185,da Silva Júnior,-DC-,Defender,187,7.275,Real Betis,Spain,80
+27,6,Florian,Florian Thauvin,179,Thauvin,-AMC-AML-AMR-FW-,Midfielder,188,7.273333333333333,Marseille,France,70
+26,3,Christopher,Christopher Lenz,181,Lenz,-DL-ML-,Defender,189,7.2700000000000005,Union Berlin,Germany,81
+26,2,Elseid,Elseid Hysaj,182,Hysaj,-DL-DR-,Defender,190,7.27,Napoli,Italy,75
+24,4,André-Frank,André-Frank Zambo Anguissa,184,Zambo Anguissa,-DMC-,Midfielder,191,7.265,Fulham,England,78
+28,3,Jorge Luiz,Jorginho,180,Frello Filho,-DMC-,Midfielder,192,7.263333333333333,Chelsea,England,65
+26,4,Marcos,Marquinhos,183,Aoas Correa,-DC-DMC-DR-,Defender,193,7.2625,Paris Saint-Germain,France,75
+29,3,Luis,Luis Muriel,179,Muriel,-AMC-AML-FW-,Forward,194,7.260000000000001,Atalanta,Italy,79
+31,3,Mats,Mats Hummels,191,Hummels,-DC-,Defender,195,7.256666666666668,Borussia Dortmund,Germany,94
+23,3,Tammy,Tammy Abraham,190,Abraham,-FW-,Forward,196,7.243333333333333,Chelsea,England,80
+29,3,Luca,Luca Caldirola,189,Caldirola,-DC-DL-,Defender,197,7.239999999999999,Benevento,Italy,79
+24,4,Neal,Neal Maupay,173,Maupay,-FW-,Forward,198,7.237500000000001,Brighton,England,69
+22,3,Federico,Federico Chiesa,175,Chiesa,-FW-MC-ML-MR-,Forward,199,7.236666666666667,Fiorentina,Italy,70
+28,3,Gian Marco,Gian Marco Ferrari,189,Ferrari,-DC-,Defender,200,7.233333333333333,Sassuolo,Italy,82
+27,2,Jeremías,Jeremías Ledesma,186,Ledesma,-GK-,Goalkeeper,201,7.225,Cadiz,Spain,70
+24,6,Duje,Duje Caleta-Car,192,Caleta-Car,-DC-,Defender,202,7.223333333333334,Marseille,France,89
+32,1,David,David Ospina,183,Ospina,-GK-,Goalkeeper,203,7.22,Napoli,Italy,80
+22,4,Harvey,Harvey Barnes,174,Barnes,-AMC-AML-,Midfielder,204,7.219999999999999,Leicester,England,66
+23,3,Jack,Jack Harrison,175,Harrison,-AML-AMR-,Midfielder,205,7.216666666666668,Leeds,England,70
+22,3,Federico,Federico Dimarco,175,Dimarco,-DL-ML-,Defender,206,7.213333333333334,Verona,Italy,75
+29,4,Luke,Luke Ayling,185,Ayling,-DC-DR-MR-,Defender,207,7.2125,Leeds,England,72
+24,4,Adama,Adama Traoré,178,Traoré,-FW-ML-MR-,Forward,208,7.2124999999999995,Wolverhampton Wanderers,England,72
+24,2,Lucas,Lucas Hernández,182,Hernández,-DC-DL-,Defender,209,7.21,Bayern Munich,Germany,76
+33,1,Marwin,Marwin Hitz,194,Hitz,-GK-,Goalkeeper,210,7.21,Borussia Dortmund,Germany,89
+27,4,José,José Campaña,179,Campaña,-MC-ML-MR-,Midfielder,211,7.2075000000000005,Levante,Spain,70
+27,3,Leonardo,Leonardo Spinazzola,186,Spinazzola,-DL-DR-ML-,Defender,212,7.206666666666666,Roma,Italy,75
+19,2,Bukayo,Bukayo Saka,178,Saka,-DL-ML-,Midfielder,213,7.205,Arsenal,England,65
+23,4,Jarrod,Jarrod Bowen,175,Bowen,-AMC-AML-AMR-FW-,Forward,214,7.204999999999999,West Ham,England,70
+32,4,Dimitrios,Dimitrios Siovas,192,Siovas,-DC-,Defender,215,7.202500000000001,SD Huesca,Spain,83
+39,4,Joaquín,Joaquín,179,Sánchez Rodríguez,-FW-MC-ML-MR-,Midfielder,216,7.202500000000001,Real Betis,Spain,75
+33,4,José Luis,José Luis Morales,180,Morales,-DR-FW-MC-ML-MR-,Midfielder,217,7.200000000000001,Levante,Spain,70
+27,3,Alassane,Alassane Plea,181,Plea,-AML-AMR-FW-,Forward,218,7.2,Borussia M.Gladbach,Germany,79
+30,2,Ermin,Ermin Bicakcic,185,Bicakcic,-DC-,Defender,219,7.199999999999999,Hoffenheim,Germany,85
+33,6,Marcelo Antonio,Marcelo,191,Guedes Filho,-DC-,Defender,220,7.198333333333333,Lyon,France,85
+25,4,Tomas,Tomas Soucek,192,Soucek,-DMC-,Midfielder,221,7.197500000000001,West Ham,England,86
+27,5,Geoffrey,Geoffrey Kondogbia,188,Kondogbia,-DMC-,Midfielder,222,7.192,Valencia,Spain,80
+27,6,Walter,Walter Benítez,191,Benítez,-GK-,Goalkeeper,223,7.1883333333333335,Nice,France,91
+27,3,Kerem,Kerem Demirbay,183,Demirbay,-MC-,Midfielder,224,7.186666666666667,Bayer Leverkusen,Germany,74
+33,5,Iago,Iago Aspas,176,Aspas,-AMC-AMR-FW-,Forward,225,7.186,Celta Vigo,Spain,67
+36,2,Pedro,Pedro López,174,López,-DR-MR-,Defender,226,7.1850000000000005,SD Huesca,Spain,72
+29,3,Allan,Allan,173,Marques Loureiro,-DMC-,Midfielder,227,7.183333333333334,Everton,England,73
+24,4,Dani,Dani Ceballos,179,Ceballos,-MC-ML-,Midfielder,228,7.180000000000001,Arsenal,England,70
+27,1,Diego,Diego Llorente,186,Llorente,-DC-DMC-,Defender,229,7.18,Real Sociedad,Spain,75
+30,3,Daniel,Daniel Didavi,180,Didavi,-AMC-AMR-FW-,Midfielder,230,7.176666666666667,VfB Stuttgart,Germany,77
+33,3,Pedro,Pedro,169,Rodríguez Ledesma,-MC-ML-MR-,Forward,231,7.176666666666667,Roma,Italy,65
+25,3,Raheem,Raheem Sterling,170,Sterling,-FW-MC-ML-MR-,Forward,232,7.176666666666667,Manchester City,England,69
+32,4,Allan-Roméo,Allan-Roméo Nyom,188,Nyom,-DL-DR-MR-,Defender,233,7.175000000000001,Getafe,Spain,78
+34,4,Raúl,Raúl García,184,García,-FW-MC-ML-MR-,Midfielder,234,7.175000000000001,Athletic Bilbao,Spain,83
+24,3,José Manuel,Josema,184,Sánchez Guillén,,Defender,235,7.173333333333333,Elche,Spain,81
+29,3,Liam,Liam Cooper,180,Cooper,-DC-,Defender,236,7.173333333333333,Leeds,England,73
+27,3,Ruslan,Ruslan Malinovskiy,181,Malinovskiy,-MC-,Midfielder,237,7.170000000000001,Atalanta,Italy,79
+27,4,Farid,Farid Boulaya,179,Boulaya,-AMR-,Midfielder,238,7.169999999999999,Metz,France,70
+27,3,Jordan,Jordan Veretout,177,Veretout,-MC-,Midfielder,239,7.163333333333334,Roma,Italy,67
+36,6,José Miguel,José Fonte,187,da Rocha Fonte,-DC-,Defender,240,7.163333333333333,Lille,France,81
+25,3,Sergej,Sergej Milinkovic-Savic,191,Milinkovic-Savic,-AMC-,Midfielder,241,7.163333333333333,Lazio,Italy,76
+31,4,Séamus,Séamus Coleman,177,Coleman,-DR-MR-,Defender,242,7.1625000000000005,Everton,England,67
+33,4,Keylor,Keylor Navas,185,Navas,-GK-,Goalkeeper,243,7.1625,Paris Saint-Germain,France,80
+25,1,Mario,Mario Hermoso,184,Hermoso,-DC-,Defender,244,7.16,Atletico Madrid,Spain,75
+23,6,Mehmet,Mehmet Zeki Çelik,180,Zeki Çelik,-DR-,Defender,245,7.158333333333332,Lille,France,78
+29,3,Marco,Marco Silvestri,191,Silvestri,-GK-,Goalkeeper,246,7.153333333333333,Verona,Italy,80
+22,3,Christopher,Christopher Nkunku,175,Nkunku,-FW-MC-ML-MR-,Midfielder,247,7.150000000000001,RasenBallsport Leipzig,Germany,73
+27,6,Renaud,Renaud Ripart,181,Ripart,-DR-FW-ML-MR-,Forward,248,7.150000000000001,Nimes,France,73
+24,4,Kalvin,Kalvin Phillips,178,Phillips,-DC-DMC-,Midfielder,249,7.15,Leeds,England,72
+23,6,Raphael,Raphinha,176,Dias Belloli,-AML-AMR-,Forward,250,7.1450000000000005,Rennes,France,68
+30,4,Romain,Romain Saïss,190,Saïss,-DC-DMC-,Midfielder,251,7.145,Wolverhampton Wanderers,England,80
+24,2,Diadie,Diadie Samassékou,177,Samassékou,-DMC-,Midfielder,252,7.140000000000001,Hoffenheim,Germany,68
+29,4,Roberto Firmino,Roberto Firmino,181,Barbosa de Oliveira,-FW-MC-ML-MR-,Forward,253,7.140000000000001,Liverpool,England,76
+31,1,Fernando,Marçal,178,Marçal de Oliveira,-DC-DL-,Defender,254,7.14,Lyon,France,74
+32,1,Marcelo Vieira,Marcelo,174,Da Silva Junior,-DL-,Defender,255,7.14,Real Madrid,Spain,75
+22,6,Mahdi,Mahdi Camara,178,Camara,-DMC-,Midfielder,256,7.136666666666668,Saint-Etienne,France,66
+25,3,Ángel,Ángel Correa,171,Correa,-AML-AMR-FW-,Forward,257,7.13,Atletico Madrid,Spain,70
+25,3,Mario,Mario Pasalic,188,Pasalic,-MC-,Midfielder,258,7.13,Atalanta,Italy,82
+27,5,Isaac,Iza,170,Carcelén,,Defender,259,7.128,Cadiz,Spain,69
+28,5,Loris,Loris Benito,184,Benito,-DC-DL-ML-,Defender,260,7.128,Bordeaux,France,80
+29,4,N'Golo,N'Golo Kanté,168,Kanté,-DMC-,Midfielder,261,7.1274999999999995,Chelsea,England,68
+26,3,Bruno Miguel,Bruno Fernandes,179,Borges Fernandes,-MC-ML-MR-,Midfielder,262,7.123333333333332,Manchester United,England,69
+32,3,Francesco,Francesco Acerbi,192,Acerbi,-DC-,Defender,263,7.123333333333332,Lazio,Italy,88
+30,4,Mateusz,Mateusz Klich,183,Klich,-MC-,Midfielder,264,7.1225000000000005,Leeds,England,75
+31,3,Jordi,Jordi Alba,170,Alba,-DL-ML-,Defender,265,7.12,Barcelona,Spain,68
+24,2,Aleksandr,Aleksandr Golovin,180,Golovin,-MC-ML-MR-,Midfielder,266,7.119999999999999,Monaco,France,69
+23,3,Frenkie,Frenkie de Jong,180,de Jong,-DC-DMC-,Midfielder,267,7.116666666666666,Barcelona,Spain,74
+24,2,Almamy,Almamy Touré,183,Touré,-DC-DR-MR-,Defender,268,7.115,Eintracht Frankfurt,Germany,72
+26,5,Otávio Henrique,Otávio,176,Passos Santos,-DMC-,Midfielder,269,7.114,Bordeaux,France,73
+25,3,Leon,Leon Goretzka,189,Goretzka,-MC-MR-,Midfielder,270,7.113333333333334,Bayern Munich,Germany,76
+28,3,Edgar,Edgar Badía,180,Badía,,Goalkeeper,271,7.113333333333333,Elche,Spain,79
+17,6,Eduardo,Eduardo Camavinga,182,Camavinga,-MC-,Midfielder,272,7.113333333333333,Rennes,France,68
+26,3,Hakan,Hakan Calhanoglu,178,Calhanoglu,-FW-MC-ML-MR-,Midfielder,273,7.113333333333333,AC Milan,Italy,76
+28,4,Jonathan,Jonathan Clauss,178,Clauss,-DR-MR-,Defender,274,7.112500000000001,Lens,France,69
+24,1,Álvaro,Álvaro Odriozola,176,Odriozola,-DR-,Defender,275,7.11,Real Madrid,Spain,66
+24,2,Marco,Marco Asensio,182,Asensio,-AMC-AML-AMR-,Forward,276,7.109999999999999,Real Madrid,Spain,76
+31,3,Nils,Nils Petersen,188,Petersen,-FW-,Forward,277,7.109999999999999,Freiburg,Germany,82
+28,4,Thibaut,Thibaut Courtois,199,Courtois,-GK-,Goalkeeper,278,7.1075,Real Madrid,Spain,96
+26,6,Memphis,Memphis Depay,176,Depay,-AMC-AML-FW-,Forward,279,7.105,Lyon,France,78
+33,4,James,James McArthur,178,McArthur,-MC-ML-MR-,Midfielder,280,7.1000000000000005,Crystal Palace,England,75
+24,1,Lukas,Lukas Haraslin,182,Haraslin,-AML-,Forward,281,7.1,Sassuolo,Italy,71
+27,3,Gianluca,Gianluca Caprari,176,Caprari,-AMC-AML-AMR-FW-,Forward,282,7.099999999999999,Benevento,Italy,72
+25,3,Kevin,Kevin Akpoguma,192,Akpoguma,-DC-,Defender,283,7.096666666666667,Hoffenheim,Germany,85
+24,3,Marcus,Marcus Ingvartsen,187,Ingvartsen,-AMC-AMR-,Forward,284,7.096666666666667,Union Berlin,Germany,82
+21,3,Brahim,Brahim Díaz,171,Díaz,-AML-,Forward,285,7.093333333333334,AC Milan,Italy,59
+30,3,Luuk,Luuk de Jong,188,de Jong,-AMC-FW-,Forward,286,7.093333333333334,Sevilla,Spain,86
+27,3,Thomas,Thomas Partey,185,Partey,-DR-MC-MR-,Midfielder,287,7.090000000000001,Atletico Madrid,Spain,77
+33,4,Cesc,Cesc Fàbregas,180,Fàbregas,-FW-MC-ML-,Midfielder,288,7.09,Monaco,France,77
+32,3,Romain,Romain Philippoteaux,170,Philippoteaux,-AML-AMR-,Midfielder,289,7.09,Nimes,France,67
+31,5,Daniel,Daniel Wass,181,Wass,-DL-DR-MC-ML-MR-,Midfielder,290,7.087999999999999,Valencia,Spain,74
+26,3,Lucas,Lucas Höler,184,Höler,-AMC-AML-AMR-FW-,Forward,291,7.086666666666667,Freiburg,Germany,83
+27,5,Julian,Julian Draxler,185,Draxler,-AMC-AML-AMR-FW-,Midfielder,292,7.0840000000000005,Paris Saint-Germain,France,72
+26,3,Alessio,Alessio Cragno,184,Cragno,-GK-,Goalkeeper,293,7.083333333333333,Cagliari,Italy,78
+23,3,Lucas,Lucas Tousart,185,Tousart,-DMC-,Midfielder,294,7.083333333333333,Hertha Berlin,Germany,83
+26,1,Joel,Joel Pohjanpalo,186,Pohjanpalo,-FW-,Forward,295,7.08,Union Berlin,Germany,84
+29,2,Riyad,Riyad Mahrez,179,Mahrez,-AMC-AML-AMR-,Forward,296,7.08,Manchester City,England,67
+19,6,Benoit,Benoit Badiashile Mukinayi,194,Badiashile Mukinayi,-DC-,Defender,297,7.078333333333334,Monaco,France,75
+31,3,Andrej,Andrej Galabinov,190,Galabinov,-FW-,Forward,298,7.076666666666667,Spezia,Italy,88
+28,3,Munas,Munas Dabbur,182,Dabbur,-FW-,Forward,299,7.076666666666665,Hoffenheim,Germany,76
+24,6,Adrián,Adrián Cubas,163,Cubas,-DMC-,Midfielder,300,7.075,Nimes,France,60
+24,4,Timo,Timo Werner,180,Werner,-AML-FW-,Forward,301,7.075,Chelsea,England,76
+30,2,Toni,Toni Kroos,183,Kroos,-MC-,Midfielder,302,7.074999999999999,Real Madrid,Spain,76
+26,2,Gaetan,Gaetan Paquiez,182,Paquiez,-DL-DR-,Defender,303,7.07,Nimes,France,72
+27,2,Pablo,Pablo Ínsua,187,Ínsua,-DC-,Defender,304,7.07,SD Huesca,Spain,80
+25,4,Pierre-Emile,Pierre-Emile Højbjerg,185,Højbjerg,-MC-,Midfielder,305,7.07,Tottenham,England,84
+19,4,Wesley,Wesley Fofana,190,Fofana,-DC-,Defender,306,7.07,Saint-Etienne,France,0
+23,4,Youri,Youri Tielemans,176,Tielemans,-MC-,Midfielder,307,7.07,Leicester,England,72
+31,4,Pierre-Emerick,Pierre-Emerick Aubameyang,187,Aubameyang,-FW-MC-ML-MR-,Forward,308,7.0675,Arsenal,England,80
+29,3,Jeffrey,Jeffrey Gouweleeuw,188,Gouweleeuw,-DC-,Defender,309,7.066666666666666,Augsburg,Germany,83
+27,3,Mike,Mike van der Hoorn,190,van der Hoorn,-DC-,Defender,310,7.066666666666666,Arminia Bielefeld,Germany,82
+19,2,Alphonso,Alphonso Davies,181,Davies,-DL-ML-MR-,Defender,311,7.0649999999999995,Bayern Munich,Germany,72
+26,3,Joan,Joan Jordán,184,Jordán,-MC-,Midfielder,312,7.0633333333333335,Sevilla,Spain,74
+17,3,Jude,Jude Bellingham,180,Bellingham,-MC-ML-,Midfielder,313,7.0633333333333335,Borussia Dortmund,Germany,75
+30,3,Vladimír,Vladimír Darida,172,Darida,-FW-MC-,Midfielder,314,7.0633333333333335,Hertha Berlin,Germany,67
+30,6,Wissam,Wissam Ben Yedder,170,Ben Yedder,-AMC-FW-,Forward,315,7.0633333333333335,Monaco,France,68
+29,4,Oriol,Oriol Romeu,183,Romeu,-DMC-,Midfielder,316,7.0625,Southampton,England,83
+33,2,Leonardo,Leonardo Bonucci,190,Bonucci,-DC-,Defender,317,7.0600000000000005,Juventus,Italy,85
+22,1,Ademola,Ademola Lookman,174,Lookman,-AMC-AML-AMR-FW-,Forward,318,7.06,Fulham,England,71
+31,1,Andrea,Andrea Poli,182,Poli,-MC-ML-,Midfielder,319,7.06,Bologna,Italy,77
+24,3,Daniel,Daniel Podence,165,Castelo Podence,-AMC-AML-AMR-FW-,Midfielder,320,7.06,Wolverhampton Wanderers,England,58
+30,5,Enrique,Kike García,186,García Martínez,-FW-,Forward,321,7.06,Eibar,Spain,79
+27,3,John,John Brooks,193,Brooks,-DC-,Defender,322,7.056666666666666,Wolfsburg,Germany,78
+29,4,Stuart,Stuart Dallas,183,Dallas,-DL-DR-MC-ML-MR-,Midfielder,323,7.052499999999999,Leeds,England,81
+28,2,Stefan,Stefan de Vrij,189,de Vrij,-DC-,Defender,324,7.050000000000001,Inter,Italy,78
+29,1,Denis,Denis Cheryshev,179,Cheryshev,-AML-FW-,Midfielder,325,7.05,Valencia,Spain,74
+30,1,Emmanuel,Emmanuel Rivière,182,Rivière,-FW-,Forward,326,7.05,Crotone,Italy,76
+23,1,Maximilian,Maximilian Kilman,0,Kilman,-DC-,Defender,327,7.05,Wolverhampton Wanderers,England,0
+25,3,Ferland,Ferland Mendy,180,Mendy,-DL-ML-,Defender,328,7.046666666666667,Real Madrid,Spain,73
+27,4,Abdoulaye,Abdoulaye Doucouré,184,Doucouré,-MC-,Midfielder,329,7.045,Everton,England,75
+25,2,Niklas,Niklas Süle,195,Süle,-DC-,Defender,330,7.045,Bayern Munich,Germany,97
+23,2,Scott,Scott McTominay,193,McTominay,-DMC-,Midfielder,331,7.045,Manchester United,England,88
+27,5,Marco,Marco Verratti,165,Verratti,-DMC-,Midfielder,332,7.042,Paris Saint-Germain,France,60
+29,5,Jaume,Jaume Doménech,185,Doménech,-GK-,Goalkeeper,333,7.039999999999999,Valencia,Spain,73
+20,5,Mitchel,Mitchel Bakker,185,Bakker,-DL-,Defender,334,7.034000000000001,Paris Saint-Germain,France,74
+30,3,André,André Hahn,185,Hahn,-AMR-FW-,Midfielder,335,7.033333333333334,Augsburg,Germany,80
+29,1,Roberto,Roberto Pereyra,182,Pereyra,-FW-MC-ML-MR-,Midfielder,336,7.03,Udinese,Italy,77
+23,3,Allan,Allan Saint-Maximin,173,Saint-Maximin,-AMC-AML-AMR-FW-,Forward,337,7.026666666666666,Newcastle United,England,67
+33,3,Luis,Luis Suárez,182,Suárez,-AMC-AML-AMR-FW-,Forward,338,7.026666666666666,Atletico Madrid,Spain,86
+31,3,Maxime,Maxime Gonalons,187,Gonalons,-DC-MC-,Midfielder,339,7.026666666666666,Granada,Spain,76
+24,6,Yoane,Yoane Wissa,176,Wissa,-AML-,Midfielder,340,7.026666666666666,Lorient,France,74
+31,2,Fernando,Marçal,178,Marçal de Oliveira,-DC-DL-,Defender,341,7.025,Wolverhampton Wanderers,England,74
+23,1,Antonee,Antonee Robinson,183,Robinson,-DL-ML-,Defender,342,7.02,Fulham,England,70
+22,2,Jimmy,Jimmy Dunne,183,Dunne,-DC-,Defender,343,7.02,Burnley,England,75
+31,2,Lars,Lars Bender,185,Bender,-DC-DR-MC-MR-,Defender,344,7.02,Bayer Leverkusen,Germany,78
+20,3,Phil,Phil Foden,171,Foden,-AMC-AML-AMR-,Midfielder,345,7.016666666666666,Manchester City,England,70
+24,6,Angelo,Angelo Fulgini,183,Fulgini,-AMC-AML-AMR-,Midfielder,346,7.015,Angers,France,71
+27,4,Raphael,Raphael Varane,191,Varane,-DC-,Defender,347,7.015,Real Madrid,Spain,81
+22,3,Renan Augusto,Renan Lodi,173,Lodi dos Santos,-DL-,Defender,348,7.013333333333333,Atletico Madrid,Spain,68
+28,4,Callum,Callum Wilson,180,Wilson,-FW-,Forward,349,7.012499999999999,Newcastle United,England,66
+24,4,Pablo,Pablo Fornals,178,Fornals,-MC-ML-MR-,Midfielder,350,7.012499999999999,West Ham,England,67
+30,3,Fidel,Fidel,180,Chaves de la Torre,-AML-AMR-,Midfielder,351,7.010000000000001,Elche,Spain,74
+31,2,Aridane,Aridane Hernández,186,Hernández,-DC-,Defender,352,7.01,Osasuna,Spain,77
+19,2,Rodrygo,Rodrygo,174,Silva de Goes,-AMC-AML-AMR-,Forward,353,7.01,Real Madrid,Spain,64
+32,4,Angelo,Angelo Ogbonna,191,Ogbonna,-DC-,Defender,354,7.0075,West Ham,England,86
+27,4,Darwin,Darwin Machís,170,Machís,-AML-AMR-,Forward,355,7.0075,Granada,Spain,68
+21,4,Kai,Kai Havertz,189,Havertz,-FW-MC-MR-,Midfielder,356,7.0075,Chelsea,England,82
+28,3,Marco,Marco Faraoni,180,Faraoni,-DR-MR-,Defender,357,7.003333333333333,Verona,Italy,71
+27,2,Ante,Ante Rebic,185,Rebic,-AMC-AML-AMR-FW-,Forward,358,7.0,AC Milan,Italy,78
+37,2,Claudio,Claudio Bravo,184,Bravo,-GK-,Goalkeeper,359,7.0,Real Betis,Spain,80
+22,2,Giuseppe,Giuseppe Pezzella,185,Pezzella,-DL-ML-,Defender,360,7.0,Parma Calcio 1913,Italy,81
+20,1,Jessic,Jessic Ngankam,184,Ngankam,,Forward,361,7.0,Hertha Berlin,Germany,84
+21,1,Pascal,Pascal Struijk,0,Struijk,,Defender,362,7.0,Leeds,England,0
+32,3,Sergio,Sergio Busquets,189,Busquets,-DMC-,Midfielder,363,7.0,Barcelona,Spain,76
+24,6,Luiz,Luiz Araújo,175,de Araújo Guimarães Neto,-AML-AMR-,Forward,364,6.993333333333333,Lille,France,70
+27,3,Marius,Marius Bülter,188,Bülter,-DR-MC-ML-MR-,Forward,365,6.993333333333333,Union Berlin,Germany,85
+27,3,Yannick,Yannick Carrasco,180,Carrasco,-FW-ML-MR-,Midfielder,366,6.993333333333333,Atletico Madrid,Spain,71
+20,6,Domagoj,Domagoj Bradaric,178,Bradaric,-DL-,Defender,367,6.991666666666667,Lille,France,69
+28,1,Armando,Armando Izzo,183,Izzo,-DC-,Defender,368,6.99,Torino,Italy,78
+28,2,Djibril,Djibril Sidibé,182,Sidibé,-DL-DR-MR-,Defender,369,6.99,Monaco,France,71
+21,4,Emerson Aparecido,Emerson,181,Leite de Souza Junior,-DR-MR-,Defender,370,6.99,Real Betis,Spain,79
+34,2,Ignacio,Nacho Monreal,179,Monreal,-DC-DL-ML-,Defender,371,6.99,Real Sociedad,Spain,72
+23,3,Dodi,Dodi Lukébakio,187,Lukébakio,-AML-AMR-FW-,Forward,372,6.989999999999999,Hertha Berlin,Germany,77
+20,4,Tariq,Tariq Lamptey,0,Lamptey,-MR-,Defender,373,6.9875,Brighton,England,0
+28,3,Martin,Martin Hinteregger,184,Hinteregger,-DC-,Defender,374,6.986666666666667,Eintracht Frankfurt,Germany,83
+20,3,Matteo,Matteo Gabbia,185,Gabbia,-DC-,Midfielder,375,6.986666666666667,AC Milan,Italy,78
+26,4,David,David García,185,García,-DC-,Defender,376,6.985,Osasuna,Spain,72
+24,6,Nayef,Nayef Aguerd,188,Aguerd,-DC-,Defender,377,6.985,Rennes,France,76
+28,3,Ryan,Ryan Fredericks,181,Fredericks,-DR-MR-,Defender,378,6.983333333333334,West Ham,England,74
+32,3,Lars,Lars Stindl,181,Stindl,-FW-MC-MR-,Midfielder,379,6.983333333333333,Borussia M.Gladbach,Germany,80
+29,3,Steven,Steven Zuber,182,Zuber,-DL-MC-ML-MR-,Midfielder,380,6.983333333333333,Eintracht Frankfurt,Germany,72
+26,6,Hassane,Hassane Kamara,168,Kamara,-DL-ML-,Defender,381,6.983333333333332,Nice,France,67
+22,4,Mathías,Mathías Olivera,184,Olivera,-DL-ML-,Defender,382,6.9825,Getafe,Spain,78
+30,5,Fabio Pereira,Fabio,172,da Silva,-DL-DR-MR-,Defender,383,6.981999999999999,Nantes,France,74
+29,1,Alberto,Alberto Perea,177,Perea,-AMR-,Forward,384,6.98,Cadiz,Spain,74
+37,3,Fabio,Fabio Quagliarella,180,Quagliarella,-FW-,Forward,385,6.98,Sampdoria,Italy,79
+29,2,Kostas,Kostas Manolas,189,Manolas,-DC-,Defender,386,6.98,Napoli,Italy,83
+24,2,Sofyan,Sofyan Amrabat,185,Amrabat,-DMC-,Midfielder,387,6.98,Fiorentina,Italy,70
+20,4,Yacine,Yacine Adli,186,Adli,-AMC-,Midfielder,388,6.9799999999999995,Bordeaux,France,73
+33,2,Fernando Francisco,Fernando,183,Reges,-DMC-,Midfielder,389,6.975,Sevilla,Spain,76
+26,4,Jorge,Jorge Pombo,177,Pombo,,Midfielder,390,6.975,Cadiz,Spain,76
+27,4,Rubén,Rubén García,171,García,-AMC-AML-AMR-FW-,Midfielder,391,6.975,Osasuna,Spain,72
+31,3,Axel,Axel Witsel,186,Witsel,-MC-,Midfielder,392,6.973333333333334,Borussia Dortmund,Germany,81
+31,3,Charles,Charles Aránguiz,171,Aránguiz,-MC-,Midfielder,393,6.973333333333334,Bayer Leverkusen,Germany,70
+34,3,Luca,Luca Cigarini,175,Cigarini,-MC-,Midfielder,394,6.973333333333334,Crotone,Italy,72
+22,4,Yangel,Yangel Herrera,184,Herrera,-MC-,Midfielder,395,6.9725,Granada,Spain,78
+29,3,Gregoire,Gregoire Defrel,180,Defrel,-AMC-AMR-FW-,Forward,396,6.9700000000000015,Sassuolo,Italy,79
+29,2,Mattia,Mattia Destro,181,Destro,-FW-,Forward,397,6.970000000000001,Genoa,Italy,73
+31,3,Pablo,Pablo Martinez,182,Martinez,-DC-DL-,Defender,398,6.97,Nimes,France,77
+29,3,Sebastian,Sebastian Rode,179,Rode,-DR-MC-,Midfielder,399,6.97,Eintracht Frankfurt,Germany,75
+23,4,Kyle,Kyle Walker-Peters,173,Walker-Peters,-DR-,Defender,400,6.9675,Southampton,England,62
+23,3,Yildirim Mert,Yildirim Mert Çetin,189,Çetin,-DC-,Defender,401,6.966666666666666,Verona,Italy,90
+20,6,Sofiane,Sofiane Diop,165,Diop,-AMC-,Midfielder,402,6.965000000000001,Monaco,France,55
+27,5,Alfred,Alfred Gomis,196,Gomis,-GK-,Goalkeeper,403,6.964,Dijon,France,83
+22,6,Bruno,Bruno Guimarães,182,Guimarães Rodriguez Moura,-DMC-,Midfielder,404,6.963333333333334,Lyon,France,74
+28,3,Gastón,Gastón Brugman,178,Brugman,-MC-,Midfielder,405,6.963333333333334,Parma Calcio 1913,Italy,75
+33,3,Gerard,Gerard Piqué,194,Piqué,-DC-,Defender,406,6.963333333333334,Barcelona,Spain,85
+23,3,Marcus,Marcus Thuram,192,Thuram,-AML-FW-,Forward,407,6.963333333333334,Borussia M.Gladbach,Germany,88
+24,3,Patrik,Patrik Schick,187,Schick,-AMR-FW-,Forward,408,6.963333333333334,Bayer Leverkusen,Germany,73
+22,4,James,James Justin,183,Justin,-DR-,Defender,409,6.9625,Leicester,England,80
+27,5,Nabil,Nabil Fekir,173,Fekir,-AMC-AML-AMR-FW-,Forward,410,6.962000000000001,Real Betis,Spain,72
+28,3,João Pedro,João Pedro,184,Geraldino dos Santos Galvão,-AMC-AML-FW-,Midfielder,411,6.960000000000001,Cagliari,Italy,73
+29,5,Mario Gaspar,Mario Gaspar,182,Pérez Martínez,-DC-DR-MR-,Defender,412,6.959999999999999,Villarreal,Spain,74
+28,4,Hamari,Hamari Traoré,175,Traoré,-DR-MR-,Defender,413,6.9575000000000005,Rennes,France,73
+25,3,Carlos,Carlos Gruezo,173,Gruezo,-DMC-,Midfielder,414,6.956666666666666,Augsburg,Germany,71
+30,3,José Luis,José Luis Palomino,188,Palomino,-DC-,Defender,415,6.956666666666666,Atalanta,Italy,87
+26,2,Joao Victor,Joao Victor,178,Santos Sa,-AMC-AML-AMR-,Midfielder,416,6.955,Wolfsburg,Germany,72
+20,3,Joshua,Joshua Sargent,185,Sargent,-FW-,Forward,417,6.953333333333333,Werder Bremen,Germany,79
+25,3,Rob,Rob Holding,189,Holding,-DC-DR-,Defender,418,6.953333333333333,Arsenal,England,75
+25,4,Leandro,Leandro Trossard,172,Trossard,-AMC-AML-,Forward,419,6.952500000000001,Brighton,England,61
+27,1,James,James Tarkowski,185,Tarkowski,-DC-,Defender,420,6.95,Burnley,England,81
+23,1,Sergio,Sergio Reguilón,178,Reguilón,-DL-,Defender,421,6.95,Tottenham,England,68
+20,3,Andreas,Andreas Skov Olsen,187,Skov Olsen,-AMR-,Forward,422,6.946666666666666,Bologna,Italy,0
+35,6,Daniel,Daniel Congré,185,Congré,-DC-DL-DR-,Defender,423,6.946666666666666,Montpellier,France,80
+18,6,Adil,Adil Aouchiche,181,Aouchiche,-AML-,Midfielder,424,6.945,Saint-Etienne,France,72
+18,4,Brandon,Brandon Soppy,0,Soppy,,Defender,425,6.9425,Rennes,France,0
+22,1,Konstantinos,Konstantinos Mavropanos,194,Mavropanos,-DC-,Defender,426,6.94,VfB Stuttgart,Germany,88
+26,5,Morgan,Morgan Sanson,180,Sanson,-MC-ML-MR-,Midfielder,427,6.94,Marseille,France,73
+28,1,Thomas,Thomas Delaine,180,Delaine,-DL-,Defender,428,6.94,Metz,France,72
+30,5,Morgan,Morgan Schneiderlin,181,Schneiderlin,-DMC-,Midfielder,429,6.938000000000001,Nice,France,75
+26,3,Michael,Michael Gregoritsch,193,Gregoritsch,-AMC-AMR-FW-,Forward,430,6.936666666666667,Augsburg,Germany,87
+20,3,Vinicius José,Vinícius Júnior,176,Paixão de Oliveira Júnior,-AML-,Forward,431,6.936666666666667,Real Madrid,Spain,73
+26,5,Aritz,Aritz Elustondo,180,Elustondo,-DC-DR-,Defender,432,6.936,Real Sociedad,Spain,71
+32,4,Willian,Willian,175,Borges Da Silva,-AMC-AML-AMR-,Forward,433,6.9350000000000005,Arsenal,England,77
+31,5,Idrissa,Idrissa Gueye,174,Gueye,-MC-,Midfielder,434,6.934,Paris Saint-Germain,France,66
+21,3,Christoph,Christoph Baumgartner,180,Baumgartner,-AMC-FW-,Midfielder,435,6.933333333333334,Hoffenheim,Germany,71
+35,6,Burak,Burak Yilmaz,188,Yilmaz,-AML-FW-,Forward,436,6.9316666666666675,Lille,France,80
+31,3,Alexis,Alexis Sánchez,169,Sánchez,-FW-MC-ML-MR-,Forward,437,6.93,Inter,Italy,62
+29,5,Cristian,Cristian Tello,178,Tello,-ML-MR-,Forward,438,6.93,Real Betis,Spain,65
+28,1,Diego,Diego Demme,172,Demme,-DMC-,Midfielder,439,6.93,Napoli,Italy,71
+34,2,Edin,Edin Dzeko,193,Dzeko,-FW-,Forward,440,6.93,Roma,Italy,80
+21,3,Takehiro,Takehiro Tomiyasu,188,Tomiyasu,-DC-DR-,Defender,441,6.93,Bologna,Italy,70
+28,1,Unai,Unai García,186,García,-DC-,Defender,442,6.93,Osasuna,Spain,81
+24,6,Mihailo,Mihailo Ristic,180,Ristic,-ML-,Defender,443,6.928333333333334,Montpellier,France,79
+25,3,Marc Oliver,Marc Oliver Kempf,186,Kempf,-DC-,Defender,444,6.926666666666667,VfB Stuttgart,Germany,87
+22,2,Uros,Uros Racic,193,Racic,-DMC-,Midfielder,445,6.925000000000001,Valencia,Spain,81
+24,6,Habib,Habib Maïga,181,Maïga,-DMC-,Midfielder,446,6.921666666666667,Metz,France,80
+20,4,Pedro,Pedro Neto,172,Lomba Neto,-AMC-AML-AMR-,Forward,447,6.92,Wolverhampton Wanderers,England,69
+22,1,Timothy,Timothy Fosu-Mensah,190,Fosu-Mensah,-DC-DR-,Defender,448,6.92,Manchester United,England,78
+26,3,Maximilian,Maximilian Arnold,184,Arnold,-MC-MR-,Midfielder,449,6.919999999999999,Wolfsburg,Germany,74
+23,4,Robin,Robin Le Normand,187,Le Normand,-DC-,Defender,450,6.9175,Real Sociedad,Spain,80
+28,4,Danny,Danny Ings,178,Ings,-AMC-FW-,Forward,451,6.9174999999999995,Southampton,England,73
+27,4,Sergio,Sergio Herrera,192,Herrera,-GK-,Goalkeeper,452,6.9174999999999995,Osasuna,Spain,82
+23,3,José Antonio,Tete Morente,180,Morente Oliva,,Midfielder,453,6.916666666666667,Elche,Spain,76
+26,3,Matteo,Matteo Ricci,175,Ricci,,Midfielder,454,6.916666666666667,Spezia,Italy,63
+23,6,Paul,Paul Bernardoni,190,Bernardoni,-GK-,Goalkeeper,455,6.916666666666667,Angers,France,78
+23,3,Roland,Roland Sallai,183,Sallai,-AMC-AML-AMR-FW-,Midfielder,456,6.916666666666667,Freiburg,Germany,76
+36,2,Giorgio,Giorgio Chiellini,187,Chiellini,-DC-,Defender,457,6.915,Juventus,Italy,85
+32,2,Juan,Juan Cuadrado,179,Cuadrado,-DR-FW-MC-ML-MR-,Midfielder,458,6.915,Juventus,Italy,72
+29,3,Yassine,Yassine Bounou,192,Bounou,-GK-,Goalkeeper,459,6.913333333333334,Sevilla,Spain,78
+25,4,Anthony,Anthony Briancon,185,Briancon,-DC-,Defender,460,6.9125000000000005,Nimes,France,79
+21,3,Dayot,Dayot Upamecano,186,Upamecano,-DC-,Defender,461,6.91,RasenBallsport Leipzig,Germany,90
+22,2,Weston,Weston McKennie,185,McKennie,-DC-MC-,Midfielder,462,6.904999999999999,Juventus,Italy,84
+32,4,Damián,Damián Suárez,172,Suárez,-DR-,Defender,463,6.9025,Getafe,Spain,61
+26,1,Emil,Emil Krafth,184,Krafth,-DC-DR-,Defender,464,6.9,Newcastle United,England,83
+22,1,Jeff,Jeff Reine-Adélaïde,183,Reine-Adélaïde,-AMC-AMR-FW-,Midfielder,465,6.9,Lyon,France,75
+22,4,Marc,Marc Cucurella,172,Cucurella,-DL-ML-,Midfielder,466,6.9,Getafe,Spain,66
+31,4,Lucas,Lucas Deaux,188,Deaux,-DC-DMC-,Midfielder,467,6.8975,Nimes,France,82
+28,2,Koen,Koen Casteels,197,Casteels,-GK-,Goalkeeper,468,6.895,Wolfsburg,Germany,78
+22,5,Ronaël,Ronaël Pierre-Gabriel,177,Pierre-Gabriel,-DL-DR-,Defender,469,6.894,Brest,France,76
+34,6,Jessy,Jessy Moulin,185,Moulin,-GK-,Goalkeeper,470,6.8933333333333335,Saint-Etienne,France,88
+23,4,Renato Júnior,Renato Sanches,176,Luz Sanches,-MC-MR-,Midfielder,471,6.8925,Lille,France,70
+24,2,Robert,Robert Skov,185,Skov,-DL-ML-MR-,Forward,472,6.890000000000001,Hoffenheim,Germany,78
+26,3,Adrien,Adrien Tameze,180,Tameze,-MC-,Midfielder,473,6.886666666666667,Verona,Italy,78
+25,5,Alejandro,Álex Remiro,191,Remiro,-GK-,Goalkeeper,474,6.886000000000001,Real Sociedad,Spain,79
+25,4,Héctor,Héctor Bellerín,178,Bellerín,-DR-MR-,Defender,475,6.885000000000001,Arsenal,England,74
+25,3,Leander,Leander Dendoncker,188,Dendoncker,-DC-DMC-,Midfielder,476,6.883333333333334,Wolverhampton Wanderers,England,76
+33,3,Andrea,Andrea Consigli,189,Consigli,-GK-,Goalkeeper,477,6.883333333333333,Sassuolo,Italy,82
+24,3,Gianluca,Gianluca Mancini,190,Mancini,-DC-DMC-,Defender,478,6.883333333333333,Roma,Italy,77
+21,4,Juan Camilo,Cucho Hernández,176,Hernández Suárez,-AML-FW-,Forward,479,6.8825,Getafe,Spain,73
+23,5,Mikel,Mikel Oyarzabal,181,Oyarzabal,-AMC-AML-AMR-FW-,Forward,480,6.882000000000001,Real Sociedad,Spain,78
+32,3,Ivan,Ivan Rakitic,184,Rakitic,-MC-,Midfielder,481,6.88,Sevilla,Spain,78
+28,1,Joël,Joël Veltman,184,Veltman,-DC-DR-,Defender,482,6.88,Brighton,England,75
+27,2,Matteo,Matteo Politano,171,Politano,-AMC-AML-AMR-FW-,Forward,483,6.88,Napoli,Italy,67
+26,2,Nélson,Nélson Semedo,177,Cabral Semedo,-DR-,Defender,484,6.88,Wolverhampton Wanderers,England,67
+33,6,Nicolas,Nicolas Pallois,189,Pallois,-DC-,Defender,485,6.88,Nantes,France,89
+28,1,Nikola,Nikola Maksimovic,193,Maksimovic,-DC-DR-MR-,Defender,486,6.88,Napoli,Italy,82
+29,3,Pablo,Pablo,188,Nascimento de Castro,-DC-,Defender,487,6.88,Bordeaux,France,86
+23,6,Samuel,Samuel Kalu,176,Kalu,-ML-MR-,Forward,488,6.88,Bordeaux,France,74
+28,5,Arnaud,Arnaud Souquet,179,Souquet,-DC-DR-MR-,Defender,489,6.878,Montpellier,France,74
+25,6,Denis,Denis Bouanga,180,Bouanga,-FW-MC-ML-MR-,Forward,490,6.876666666666668,Saint-Etienne,France,71
+24,3,Lorenzo,Lorenzo Pellegrini,186,Pellegrini,-MC-,Midfielder,491,6.876666666666666,Roma,Italy,77
+29,4,Willy,Willy Boly,195,Boly,-DC-,Defender,492,6.875,Wolverhampton Wanderers,England,92
+27,4,Wilfried,Wilfried Zaha,180,Zaha,-AML-AMR-FW-,Forward,493,6.874999999999999,Crystal Palace,England,66
+31,5,Daniel,Daniel Parejo,182,Parejo,-MC-,Midfielder,494,6.872,Villarreal,Spain,74
+25,4,Adnan,Adnan Januzaj,186,Januzaj,-AMC-AML-AMR-,Midfielder,495,6.87,Real Sociedad,Spain,76
+24,2,Giovani,Giovani Lo Celso,177,Lo Celso,-FW-MC-MR-,Midfielder,496,6.87,Tottenham,England,68
+31,3,Henrikh,Henrikh Mkhitaryan,177,Mkhitaryan,-FW-MC-ML-MR-,Midfielder,497,6.87,Roma,Italy,75
+31,2,Moussa,Moussa Sissoko,187,Sissoko,-MC-MR-,Midfielder,498,6.869999999999999,Tottenham,England,83
+25,6,Jason,Jason Denayer,184,Denayer,-DC-DMC-DR-,Defender,499,6.868333333333335,Lyon,France,70
+28,5,William,William Carvalho,187,Silva de Carvalho,-DMC-,Midfielder,500,6.868,Real Betis,Spain,79
+27,3,Jhon,Jhon Córdoba,188,Córdoba,-FW-,Forward,501,6.866666666666667,Hertha Berlin,Germany,85
+26,3,Rani,Rani Khedira,188,Khedira,-DC-DMC-,Midfielder,502,6.866666666666666,Augsburg,Germany,84
+30,5,Vincent,Vincent Pajot,180,Pajot,-MC-,Midfielder,503,6.866000000000001,Metz,France,68
+25,3,Marcos,Marcos Llorente,184,Llorente,-FW-MC-,Midfielder,504,6.863333333333333,Atletico Madrid,Spain,74
+22,1,Iñigo,Iñigo Vicente,178,Vicente,,Forward,505,6.86,Athletic Bilbao,Spain,67
+28,1,Sergi,Sergi Gómez,185,Gómez,-DC-DR-,Defender,506,6.86,Sevilla,Spain,80
+21,3,Edmond,Edmond Tapsoba,192,Tapsoba,-DC-,Defender,507,6.859999999999999,Bayer Leverkusen,Germany,80
+25,2,Kenny,Kenny Tete,180,Tete,-DR-MR-,Defender,508,6.859999999999999,Fulham,England,71
+26,6,Benjamin,Benjamin Bourigeaud,178,Bourigeaud,-MC-ML-MR-,Midfielder,509,6.858333333333333,Rennes,France,68
+23,3,Aihen,Aihen Muñoz,175,Muñoz,-DL-,Defender,510,6.8566666666666665,Real Sociedad,Spain,72
+37,3,Antonio,Antonio Mirante,193,Mirante,-GK-,Goalkeeper,511,6.8566666666666665,Roma,Italy,79
+27,3,Dominique,Dominique Heintz,190,Heintz,-DC-DL-,Defender,512,6.8566666666666665,Freiburg,Germany,89
+27,3,Stefan,Stefan Ortega Moreno,185,Ortega Moreno,-GK-,Goalkeeper,513,6.853333333333333,Arminia Bielefeld,Germany,88
+31,6,Steven,Steven Nzonzi,196,Nzonzi,-MC-,Midfielder,514,6.853333333333333,Rennes,France,75
+23,4,Martin,Martin Terrier,184,Terrier,-AML-FW-,Forward,515,6.852499999999999,Rennes,France,71
+24,4,Matheus Fellipe,Matheus Pereira,175,Costa Pereira,-AMC-AML-AMR-,Forward,516,6.8500000000000005,West Bromwich Albion,England,69
+28,3,Robin,Robin Knoche,190,Knoche,-DC-,Defender,517,6.8500000000000005,Union Berlin,Germany,77
+22,1,Fikayo,Fikayo Tomori,185,Tomori,-DC-DR-,Defender,518,6.85,Chelsea,England,75
+29,2,Gabriel Armando,Gabriel Paulista,185,de Abreu,-DC-DR-,Defender,519,6.85,Valencia,Spain,72
+20,2,Marash,Marash Kumbulla,191,Kumbulla,-DC-,Defender,520,6.85,Roma,Italy,78
+32,6,Damien,Damien Da Silva,184,Da Silva,-DC-,Defender,521,6.848333333333334,Rennes,France,82
+26,4,Kévin Manuel,Kévin Rodrigues,170,Rodrigues,-DL-ML-,Defender,522,6.8475,Eibar,Spain,70
+28,4,Paulo André,Paulo Oliveira,187,Rodrigues de Oliveira,-DC-,Defender,523,6.8475,Eibar,Spain,81
+19,3,Callum,Callum Hudson-Odoi,182,Hudson-Odoi,-AML-AMR-,Forward,524,6.846666666666667,Chelsea,England,76
+20,6,Cheick Oumar,Cheick Oumar Doucoure,180,Doucoure,-MC-,Midfielder,525,6.846666666666667,Lens,France,73
+29,3,Christoph,Christoph Kramer,191,Kramer,-DMC-,Midfielder,526,6.846666666666667,Borussia M.Gladbach,Germany,76
+22,3,Josip,Josip Brekalo,175,Brekalo,-AMC-AML-AMR-,Midfielder,527,6.846666666666667,Wolfsburg,Germany,70
+32,2,Felipe,Felipe Caicedo,183,Caicedo,-FW-,Forward,528,6.845000000000001,Lazio,Italy,84
+25,4,James,James Ward-Prowse,173,Ward-Prowse,-MC-MR-,Midfielder,529,6.845000000000001,Southampton,England,66
+29,2,Stefan,Stefan Savic,187,Savic,-DC-,Defender,530,6.845,Atletico Madrid,Spain,81
+28,5,Marko,Marko Dmitrovic,194,Dmitrovic,-GK-,Goalkeeper,531,6.843999999999999,Eibar,Spain,94
+32,6,Alexandre,Alexandre Oukidja,184,Oukidja,-GK-,Goalkeeper,532,6.843333333333334,Metz,France,79
+25,6,Mike,Mike Maignan,191,Maignan,-GK-,Goalkeeper,533,6.843333333333334,Lille,France,89
+32,5,David,David Ferreiro,170,Ferreiro,-AML-AMR-,Midfielder,534,6.8420000000000005,SD Huesca,Spain,63
+33,3,Anaitz,Anaitz Arbilla,178,Arbilla,-DC-DL-DR-,Defender,535,6.840000000000001,Eibar,Spain,76
+28,2,Charles,Charles Traoré,180,Traoré,-DL-,Defender,536,6.84,Nantes,France,74
+22,3,Harold,Harold Moukoudi,191,Moukoudi,-DC-,Defender,537,6.84,Saint-Etienne,France,74
+38,2,Rafael De Andrade,Rafael,187,Bittencourt Pinheiro,-GK-,Goalkeeper,538,6.84,Spezia,Italy,80
+27,3,Vincenzo,Vincenzo Grifo,180,Grifo,-AMC-AML-,Midfielder,539,6.84,Freiburg,Germany,76
+24,6,Romain,Romain Del Castillo,172,Del Castillo,-AML-AMR-FW-,Midfielder,540,6.838333333333335,Rennes,France,60
+27,6,Pierre,Pierre Lees-Melou,185,Lees-Melou,-MC-ML-MR-,Midfielder,541,6.836666666666667,Nice,France,69
+23,3,Fode,Fode Ballo-Toure,182,Ballo-Toure,-DL-ML-,Defender,542,6.836666666666666,Monaco,France,70
+31,3,Giacomo,Giacomo Bonaventura,180,Bonaventura,-MC-ML-MR-,Midfielder,543,6.836666666666666,Fiorentina,Italy,75
+26,3,Jordan,Jordan Amavi,176,Amavi,-DL-ML-,Defender,544,6.836666666666666,Marseille,France,70
+35,3,Mathieu,Mathieu Debuchy,176,Debuchy,-DC-DR-MR-,Defender,545,6.836666666666666,Saint-Etienne,France,76
+30,6,Hiroki,Hiroki Sakai,183,Sakai,-DL-DR-MR-,Defender,546,6.835000000000001,Marseille,France,70
+28,4,Sergio,Sergio Álvarez,183,Álvarez,-DC-MC-,Midfielder,547,6.835,Eibar,Spain,74
+30,3,Kevin,Kevin Trapp,189,Trapp,-GK-,Goalkeeper,548,6.833333333333333,Eintracht Frankfurt,Germany,88
+25,3,Sheraldo,Sheraldo Becker,180,Becker,-AML-AMR-,Forward,549,6.833333333333333,Union Berlin,Germany,70
+26,6,Ludovic,Ludovic Ajorque,197,Ajorque,-FW-,Forward,550,6.830000000000001,Strasbourg,France,92
+28,3,Stefan,Stefan Lainer,175,Lainer,-DR-MR-,Defender,551,6.830000000000001,Borussia M.Gladbach,Germany,73
+28,2,Renato,Renato Steffen,170,Steffen,-ML-MR-,Midfielder,552,6.83,Wolfsburg,Germany,65
+30,4,Enda,Enda Stevens,183,Stevens,-DC-DL-ML-,Defender,553,6.8275,Sheffield United,England,78
+22,3,Orel,Orel Mangala,178,Mangala,-DMC-,Midfielder,554,6.826666666666667,VfB Stuttgart,Germany,78
+29,3,Sebastian,Sebastian Andersson,190,Andersson,-FW-,Forward,555,6.826666666666667,FC Koln,Germany,86
+24,6,Maxwel,Maxwel Cornet,179,Cornet,-FW-ML-MR-,Forward,556,6.825,Lyon,France,69
+28,3,Alisson,Alisson,191,Ramses Becker,-GK-,Goalkeeper,557,6.823333333333334,Liverpool,England,91
+36,6,Dante Bonfim,Dante,188,Costa Santos,-DC-,Defender,558,6.82,Nice,France,89
+32,3,Jérôme,Jérôme Boateng,192,Boateng,-DC-DR-,Defender,559,6.82,Bayern Munich,Germany,90
+26,2,Raphael Adelino José,Raphael Guerreiro,170,Guerreiro,-DL-MC-ML-,Defender,560,6.82,Borussia Dortmund,Germany,71
+23,2,Stefan,Stefan Posch,188,Posch,-DC-DR-,Defender,561,6.82,Hoffenheim,Germany,82
+20,5,Maxence,Maxence Caqueret,174,Caqueret,-DMC-,Midfielder,562,6.8180000000000005,Lyon,France,63
+25,4,Antonin,Antonin Bobichon,170,Bobichon,-AMC-AML-,Midfielder,563,6.8175,Angers,France,72
+31,3,Andy,Andy Carroll,193,Carroll,-FW-,Forward,564,6.816666666666666,Newcastle United,England,79
+20,5,Loic,Loic Bade,191,Bade,-DC-,Defender,565,6.816000000000001,Lens,France,89
+23,2,Gleison Bremer,Bremer,188,Silva Nascimento,-DC-,Defender,566,6.8149999999999995,Torino,Italy,80
+26,3,Ihlas,Ihlas Bebou,183,Bebou,-AMC-AML-AMR-FW-,Forward,567,6.8133333333333335,Hoffenheim,Germany,72
+26,4,Hélder Wander,Hélder Costa,178,Sousa de Azevedo e Costa,-AMC-AML-AMR-,Forward,568,6.812500000000001,Leeds,England,73
+22,5,Lamine,Lamine Fomba,188,Fomba,-DMC-,Midfielder,569,6.812,Nimes,France,68
+30,2,Rafael,Rafael Tolói,185,Toloi,-DC-,Defender,570,6.8100000000000005,Atalanta,Italy,75
+21,6,Alban,Alban Lafont,193,Lafont,-GK-,Goalkeeper,571,6.81,Nantes,France,82
+27,1,Massadio,Massadio Haidara,179,Haidara,-DL-,Defender,572,6.81,Lens,France,76
+27,4,Michael,Michael Keane,191,Keane,-DC-DR-,Defender,573,6.81,Everton,England,82
+19,5,Melvin,Melvin Bard,173,Bard,,Defender,574,6.808000000000002,Lyon,France,65
+23,3,Unai,Unai Núñez,186,Núñez,-DC-,Defender,575,6.8066666666666675,Athletic Bilbao,Spain,80
+28,6,Andrei,Andrei Girotto,186,Girotto,-DC-DMC-,Midfielder,576,6.805,Nantes,France,79
+26,3,Cédric,Cédric Brunner,180,Brunner,-DR-,Defender,577,6.803333333333334,Arminia Bielefeld,Germany,75
+23,3,Clement,Clement Michelin,178,Michelin,-DR-MR-,Defender,578,6.803333333333334,Lens,France,63
+38,3,Rodrigo,Rodrigo Palacio,176,Palacio,-AMC-AML-AMR-FW-,Forward,579,6.803333333333334,Bologna,Italy,70
+25,6,Valentin,Valentin Rongier,172,Rongier,-MC-,Midfielder,580,6.803333333333334,Marseille,France,70
+24,3,Yves,Yves Bissouma,182,Bissouma,-MC-,Midfielder,581,6.803333333333334,Brighton,England,80
+28,4,Jonjo,Jonjo Shelvey,184,Shelvey,-MC-,Midfielder,582,6.8025,Newcastle United,England,80
+32,6,Bruno,Bruno Ecuele Manga,186,Ecuele Manga,-DC-DR-,Defender,583,6.801666666666667,Dijon,France,76
+23,6,Jean-Kevin,Jean-Kevin Duverne,184,Duverne,-DC-,Defender,584,6.801666666666666,Brest,France,71
+25,3,Manuel,Manuel Akanji,187,Akanji,-DC-,Defender,585,6.8,Borussia Dortmund,Germany,91
+31,1,Sergio,Sergio Escudero,176,Escudero,-DL-ML-,Defender,586,6.8,Sevilla,Spain,65
+26,4,Fabio Henrique,Fabinho,188,Tavares,-DMC-DR-,Midfielder,587,6.7975,Liverpool,England,78
+29,6,Nicolas,Nicolas de Preville,177,de Preville,-AMC-AML-AMR-FW-,Forward,588,6.796666666666666,Bordeaux,France,77
+19,5,Kévin,Kévin Denkey,181,Denkey,-FW-,Forward,589,6.795999999999999,Nimes,France,81
+34,2,Aleksandar,Aleksandar Kolarov,187,Kolarov,-DC-DL-ML-,Defender,590,6.795,Inter,Italy,81
+26,4,Aleksandar,Aleksandar Mitrovic,189,Mitrovic,-FW-,Forward,591,6.795,Fulham,England,90
+22,2,Cristian,Cristian Romero,185,Romero,-DC-,Defender,592,6.795,Atalanta,Italy,79
+28,2,Esteban,Esteban Burgos,190,Burgos,-DC-,Defender,593,6.795,Eibar,Spain,80
+34,4,Oier,Oier Sanjurjo,178,Sanjurjo,-DC-DR-MC-,Defender,594,6.795,Osasuna,Spain,72
+33,3,Sebastien,Sebastien De Maio,190,De Maio,-DC-,Defender,595,6.793333333333333,Udinese,Italy,90
+28,4,Jeff,Jeff Hendrick,185,Hendrick,-MC-MR-,Midfielder,596,6.79,Newcastle United,England,79
+25,4,Nemanja,Nemanja Maksimovic,189,Maksimovic,-DMC-,Midfielder,597,6.789999999999999,Getafe,Spain,78
+29,4,Florian,Florian Lejeune,189,Lejeune,-DC-,Defender,598,6.7875,Deportivo Alaves,Spain,89
+27,3,Diego Carlos,Diego Carlos,185,Santos Silva,-DC-,Defender,599,6.786666666666666,Sevilla,Spain,79
+21,3,Martín,Martín Zubimendi,180,Zubimendi,-DMC-,Midfielder,600,6.786666666666666,Real Sociedad,Spain,74
+24,3,Souleyman,Souleyman Doumbia,177,Doumbia,-DL-,Defender,601,6.786666666666666,Angers,France,73
+22,5,Jordan,Jordan Lotomba,177,Lotomba,-DL-DR-,Defender,602,6.784000000000001,Nice,France,67
+33,6,Pierrick,Pierrick Capelle,181,Capelle,-DL-MC-ML-MR-,Midfielder,603,6.783333333333334,Angers,France,73
+28,3,Remo,Remo Freuler,180,Freuler,-DMC-,Midfielder,604,6.783333333333334,Atalanta,Italy,80
+25,4,Miguel Angelo,Xeka,186,da Silva Rocha,-MC-,Midfielder,605,6.782500000000001,Lille,France,80
+26,5,Guido,Guido Rodríguez,185,Rodríguez,-DMC-,Midfielder,606,6.782000000000001,Real Betis,Spain,78
+26,4,Lucas,Lucas Torró,190,Torró,-DMC-,Midfielder,607,6.78,Osasuna,Spain,77
+24,3,Morten,Morten Thorsby,189,Thorsby,-MC-ML-MR-,Midfielder,608,6.78,Sampdoria,Italy,79
+22,1,Nahuel,Nahuel Molina,175,Molina,-DR-,Defender,609,6.78,Udinese,Italy,70
+33,3,Stefan,Stefan Radu,183,Radu,-DC-DL-,Defender,610,6.78,Lazio,Italy,79
+24,4,Jan,Jan Bednarek,189,Bednarek,-DC-,Defender,611,6.779999999999999,Southampton,England,77
+27,5,Francisco,Paco Alcácer,175,Alcácer,-AMR-FW-,Forward,612,6.7780000000000005,Villarreal,Spain,72
+25,3,Marko,Marko Rog,180,Rog,-DMC-,Midfielder,613,6.776666666666667,Cagliari,Italy,73
+33,3,Christopher,Christopher Trimmel,189,Trimmel,-DC-DR-MR-,Defender,614,6.776666666666666,Union Berlin,Germany,82
+24,6,Ghislain,Ghislain Konan,176,Konan,-DL-,Defender,615,6.776666666666666,Reims,France,71
+33,6,Benoît,Benoît Costil,187,Costil,-GK-,Goalkeeper,616,6.773333333333333,Bordeaux,France,88
+22,3,Ismael,Ismael Bennacer,175,Bennacer,-DMC-,Midfielder,617,6.773333333333333,AC Milan,Italy,70
+30,4,Cheikhou,Cheikhou Kouyaté,189,Kouyaté,-DC-DMC-DR-,Midfielder,618,6.7725,Crystal Palace,England,83
+28,3,Mohamed Naser,Mohamed Elneny,180,El Sayed Elneny,-DMC-,Midfielder,619,6.7700000000000005,Arsenal,England,70
+25,4,Isaac,Isaac Hayden,185,Hayden,-DMC-,Midfielder,620,6.77,Newcastle United,England,79
+27,4,Joe,Joe Bryan,173,Bryan,-DL-MC-ML-,Defender,621,6.77,Fulham,England,75
+30,3,José Antonio,Josan,175,Ferrández Pomares,,Midfielder,622,6.77,Elche,Spain,68
+31,2,Milan,Milan Badelj,186,Badelj,-MC-,Midfielder,623,6.77,Genoa,Italy,76
+29,6,Baptiste,Baptiste Reynet,185,Reynet,-GK-,Goalkeeper,624,6.7683333333333335,Nimes,France,85
+25,6,Sada,Sada Thioub,179,Thioub,-AMR-,Forward,625,6.7683333333333335,Angers,France,75
+24,3,Marcel,Marcel Hartel,177,Hartel,-MC-ML-,Midfielder,626,6.766666666666667,Arminia Bielefeld,Germany,68
+23,6,Remi,Remi Oudin,185,Oudin,-AMC-AMR-,Forward,627,6.766666666666666,Bordeaux,France,79
+29,5,Jorge,Jorge Pulido,186,Pulido,-DC-,Defender,628,6.766,SD Huesca,Spain,72
+24,4,Çaglar,Çaglar Söyüncü,185,Söyüncü,-DC-,Defender,629,6.765,Leicester,England,82
+24,4,Unai,Unai López,170,López,-MC-MR-,Midfielder,630,6.765,Athletic Bilbao,Spain,68
+24,3,Davinson,Davinson Sánchez,187,Sánchez,-DC-,Defender,631,6.763333333333333,Tottenham,England,81
+31,4,Ryan,Ryan Bertrand,179,Bertrand,-DC-DL-ML-,Defender,632,6.7625,Southampton,England,85
+22,4,Christ-Emmanuel Faitout,Faitout Maouassa,170,Maouassa,-DL-ML-,Defender,633,6.760000000000001,Rennes,France,73
+27,3,Jonathan,Jonathan Calleri,181,Calleri,-FW-,Forward,634,6.760000000000001,Osasuna,Spain,72
+25,3,Munir,Munir El Haddadi,175,El Haddadi,-AML-AMR-FW-,Forward,635,6.760000000000001,Sevilla,Spain,69
+19,3,Rayan,Rayan Aït-Nouri,179,Aït-Nouri,-DL-,Defender,636,6.760000000000001,Angers,France,70
+28,4,Djené,Djené Dakonam,187,Dakonam,-DC-,Defender,637,6.7575,Getafe,Spain,72
+22,4,Grady,Grady Diangana,180,Diangana,-AML-AMR-,Midfielder,638,6.757499999999999,West Bromwich Albion,England,73
+21,3,Alexis,Alexis Saelemaekers,180,Saelemaekers,-AMR-,Defender,639,6.756666666666667,AC Milan,Italy,72
+30,3,Karim,Karim Bellarabi,184,Bellarabi,-FW-MC-ML-MR-,Forward,640,6.756666666666667,Bayer Leverkusen,Germany,81
+23,3,Kieran,Kieran Tierney,178,Tierney,-DC-DL-ML-,Defender,641,6.756666666666667,Arsenal,England,70
+22,2,Ruben,Ruben Vargas,174,Vargas,-AML-,Midfielder,642,6.755,Augsburg,Germany,67
+24,5,Andoni,Andoni Gorosabel,174,Gorosabel,-DR-,Defender,643,6.7540000000000004,Real Sociedad,Spain,73
+25,5,Joseph,Joseph Aidoo,180,Aidoo,-DC-,Defender,644,6.754,Celta Vigo,Spain,80
+17,3,Florian,Florian Wirtz,175,Wirtz,,Midfielder,645,6.753333333333334,Bayer Leverkusen,Germany,68
+29,4,Raúl,Raúl Jiménez,190,Jiménez,-FW-,Forward,646,6.7524999999999995,Wolverhampton Wanderers,England,76
+27,5,Alexandre,Álex Moreno,179,Moreno Lopera,-DL-ML-,Defender,647,6.752,Real Betis,Spain,68
+29,5,Salvador,Salvi Sánchez,175,Sánchez Ponce,,Midfielder,648,6.752,Cadiz,Spain,64
+25,6,Presnel,Presnel Kimpembe,183,Kimpembe,-DC-,Defender,649,6.751666666666666,Paris Saint-Germain,France,77
+28,3,Chris,Chris Wood,191,Wood,-FW-,Forward,650,6.75,Burnley,England,81
+22,3,Douglas Luiz,Douglas Luiz,175,Soares de Paulo,-MC-,Midfielder,651,6.75,Aston Villa,England,66
+24,3,Rodrigo,Rodrigo,191,Hernández Cascante,-DMC-,Midfielder,652,6.75,Manchester City,England,82
+33,6,Romain,Romain Hamouma,178,Hamouma,-FW-MC-ML-MR-,Forward,653,6.748333333333334,Saint-Etienne,France,76
+25,5,Renato,Renato Tapia,185,Tapia,-DC-DMC-,Midfielder,654,6.748,Celta Vigo,Spain,78
+33,4,Ángel,Ángel Rodríguez,172,Rodríguez,-FW-,Forward,655,6.7475000000000005,Getafe,Spain,68
+33,3,Arturo,Arturo Vidal,180,Vidal,-MC-MR-,Midfielder,656,6.746666666666667,Inter,Italy,75
+30,3,Oliver,Oliver Baumann,187,Baumann,-GK-,Goalkeeper,657,6.746666666666667,Hoffenheim,Germany,80
+28,5,Cristian,Portu,178,Portugués Manzanera,-AMC-AML-AMR-FW-,Forward,658,6.746,Real Sociedad,Spain,70
+31,2,Raúl,Raúl García,180,García,-DC-DL-ML-,Defender,659,6.745,Real Valladolid,Spain,74
+23,5,Boulaye,Boulaye Dia,180,Dia,-FW-,Forward,660,6.744,Reims,France,75
+30,3,Yuri,Yuri,181,Berchiche Izeta,-DL-ML-,Defender,661,6.743333333333333,Athletic Bilbao,Spain,79
+24,5,Rubén,Rubén Duarte,180,Duarte,-DL-,Defender,662,6.742,Deportivo Alaves,Spain,75
+22,3,Elvis,Elvis Rexhbecaj,182,Rexhbecaj,-MC-,Midfielder,663,6.739999999999999,FC Koln,Germany,73
+25,3,Laureano Antonio,Toni Villa,172,Villa Suárez,-AML-,Midfielder,664,6.739999999999999,Real Valladolid,Spain,63
+22,6,Arnaud,Arnaud Nordin,170,Nordin,-AMC-AML-AMR-,Forward,665,6.738333333333332,Saint-Etienne,France,69
+32,4,Chris,Chris Basham,190,Basham,-DC-DR-MC-MR-,Defender,666,6.7375,Sheffield United,England,80
+28,3,Jorge,Koke,176,Resurrección,-MC-ML-MR-,Midfielder,667,6.736666666666667,Atletico Madrid,Spain,77
+27,6,Youssouf,Youssouf Sabaly,173,Sabaly,-DL-DR-MR-,Defender,668,6.734999999999999,Bordeaux,France,67
+28,3,Christophe,Christophe Herelle,188,Herelle,-DC-DR-,Defender,669,6.733333333333333,Brest,France,75
+21,6,Facundo,Facundo Medina,184,Medina,-DC-DL-,Defender,670,6.733333333333333,Lens,France,76
+33,4,Julien,Julien Faussurier,173,Faussurier,-DL-DR-MR-,Defender,671,6.7325,Brest,France,70
+23,1,Alex,Alex Meret,190,Meret,-GK-,Goalkeeper,672,6.73,Napoli,Italy,82
+23,3,Emil,Emil Audero,190,Audero,-GK-,Goalkeeper,673,6.73,Sampdoria,Italy,83
+34,6,Ismael,Ismael Traoré,184,Traoré,-DC-DR-,Defender,674,6.73,Angers,France,87
+29,1,Mathew,Mathew Leckie,181,Leckie,-AMC-AML-AMR-,Midfielder,675,6.73,Hertha Berlin,Germany,82
+27,2,Omar,Omar Colley,192,Colley,-DC-,Defender,676,6.73,Sampdoria,Italy,88
+33,3,Andreas,Andreas Luthe,195,Luthe,-GK-,Goalkeeper,677,6.7299999999999995,Union Berlin,Germany,85
+28,3,Pavel,Pavel Kaderábek,182,Kaderábek,-DR-ML-MR-,Defender,678,6.7299999999999995,Hoffenheim,Germany,81
+23,3,Sergio,Sergio Córdova,188,Córdova,-FW-,Forward,679,6.7299999999999995,Arminia Bielefeld,Germany,87
+23,5,Emre,Emre Mor,169,Mor,-AML-AMR-,Forward,680,6.728,Celta Vigo,Spain,64
+29,5,Marc,Marc Bartra,184,Bartra,-DC-DMC-DR-,Defender,681,6.728,Real Betis,Spain,70
+23,3,Anderson-Lenda,Anderson-Lenda Lucoqui,180,Lucoqui,-DL-,Defender,682,6.726666666666667,Arminia Bielefeld,Germany,75
+28,3,Daniel,Daniel Carvajal,173,Carvajal,-DR-,Defender,683,6.726666666666667,Real Madrid,Spain,73
+22,4,Steven,Steven Alzate,180,Alzate,-DMC-,Midfielder,684,6.7250000000000005,Brighton,England,75
+22,2,Felix,Felix Passlack,170,Passlack,-DR-MC-MR-,Midfielder,685,6.725,Borussia Dortmund,Germany,74
+25,4,Mauro,Mauro Arambarri,175,Arambarri,-DMC-,Midfielder,686,6.725,Getafe,Spain,74
+23,2,Paolo,Paolo Ghiglione,187,Ghiglione,-DR-MR-,Defender,687,6.725,Genoa,Italy,80
+31,3,Gonzalo,Gonzalo Verdú,185,Verdú,,Defender,688,6.723333333333334,Elche,Spain,80
+30,5,Edgar,Edgar Méndez,187,Méndez,-ML-MR-,Midfielder,689,6.720000000000001,Deportivo Alaves,Spain,80
+26,5,Pierre-Yves,Pierre-Yves Hamel,189,Hamel,,Forward,690,6.720000000000001,Lorient,France,76
+29,3,Florian,Florian Niederlechner,187,Niederlechner,-AMC-AMR-FW-,Forward,691,6.72,Augsburg,Germany,86
+25,6,Moses,Moses Simon,168,Simon,-FW-MC-ML-MR-,Forward,692,6.716666666666666,Nantes,France,66
+31,4,Federico,Federico Fernández,190,Fernández,-DC-,Defender,693,6.715,Newcastle United,England,83
+22,4,Trent,Trent Alexander-Arnold,175,Alexander-Arnold,-DR-MR-,Defender,694,6.715,Liverpool,England,69
+30,3,Gaetano,Gaetano Letizia,173,Letizia,-DL-DR-ML-MR-,Defender,695,6.713333333333334,Benevento,Italy,63
+26,3,Matthias,Matthias Ginter,191,Ginter,-DC-DMC-DR-,Defender,696,6.713333333333334,Borussia M.Gladbach,Germany,89
+31,3,Norberto,Neto,190,Murara Neto,-GK-,Goalkeeper,697,6.713333333333334,Barcelona,Spain,84
+33,3,Peter,Peter Pekarík,177,Pekarík,-DL-DR-,Defender,698,6.713333333333334,Hertha Berlin,Germany,73
+35,6,Steve,Steve Mandanda,185,Mandanda,-GK-,Goalkeeper,699,6.713333333333334,Marseille,France,82
+23,3,Xaver,Xaver Schlager,174,Schlager,-MC-,Midfielder,700,6.713333333333334,Wolfsburg,Germany,76
+25,5,Gelson Dany,Gelson Martins,173,Batalha Martins,-MR-,Midfielder,701,6.712000000000001,Monaco,France,72
+31,2,Dale,Dale Stephens,169,Stephens,-MC-,Midfielder,702,6.710000000000001,Burnley,England,71
+33,5,Manuel,Nolito,175,Agudo Durán,-AML-,Forward,703,6.710000000000001,Celta Vigo,Spain,65
+20,2,Chris,Chris Richards,188,Richards,,Defender,704,6.71,Bayern Munich,Germany,81
+28,1,Frederik,Frederik Rönnow,190,Rönnow,-GK-,Goalkeeper,705,6.71,Schalke 04,Germany,77
+26,3,Manuel,Manuel Lazzari,174,Lazzari,-MR-,Midfielder,706,6.71,Lazio,Italy,67
+30,3,Kevin,Kevin Kampl,178,Kampl,-MC-ML-MR-,Midfielder,707,6.706666666666667,RasenBallsport Leipzig,Germany,66
+28,3,Matt,Matt Doherty,182,Doherty,-DL-DR-MR-,Defender,708,6.706666666666667,Tottenham,England,80
+28,3,Philipp,Philipp Klement,175,Klement,-MC-,Midfielder,709,6.706666666666667,VfB Stuttgart,Germany,72
+21,3,Sebastiaan,Sebastiaan Bornauw,191,Bornauw,-DC-,Defender,710,6.706666666666667,FC Koln,Germany,81
+22,3,Ritsu,Ritsu Doan,172,Doan,-AMC-AML-AMR-,Midfielder,711,6.706666666666666,Arminia Bielefeld,Germany,70
+26,3,Hernani,Hernani,188,Azevedo Júnior,-MC-ML-,Midfielder,712,6.703333333333333,Parma Calcio 1913,Italy,77
+24,3,Mickaël,Mickaël Malsa,178,Malsa,-MC-,Midfielder,713,6.703333333333333,Levante,Spain,69
+28,3,Pedro,Pedro Obiang,185,Obiang,-DMC-,Midfielder,714,6.703333333333333,Sassuolo,Italy,75
+25,3,Ramy,Ramy Bensebaini,186,Bensebaini,-DC-DL-DMC-,Defender,715,6.703333333333333,Borussia M.Gladbach,Germany,82
+30,3,Nicolas,Nicolas Höfler,181,Höfler,-DC-DMC-,Midfielder,716,6.7,Freiburg,Germany,79
+32,2,Tomás,Tomás Rincón,177,Rincón,-MC-MR-,Midfielder,717,6.7,Torino,Italy,76
+30,2,Wojciech,Wojciech Szczesny,195,Szczesny,-GK-,Goalkeeper,718,6.7,Juventus,Italy,90
+19,5,Kephren,Kephren Thuram,192,Thuram-Ulien,-MC-,Midfielder,719,6.697999999999999,Nice,France,80
+31,4,José Ignacio,Nacho,174,Martínez García,-DL-DR-ML-,Defender,720,6.6975,Real Valladolid,Spain,63
+22,3,Christian,Christian Kouamé,185,Kouamé,-AML-FW-,Forward,721,6.696666666666666,Fiorentina,Italy,70
+24,3,Lucas,Lucas Boyé,179,Boyé,-AML-FW-,Forward,722,6.696666666666666,Elche,Spain,81
+25,3,Matt,Matt Targett,183,Targett,-DL-ML-,Defender,723,6.696666666666666,Aston Villa,England,70
+32,5,Pedro,Pedro Mosquera,184,Mosquera,-MC-,Midfielder,724,6.694,SD Huesca,Spain,75
+27,3,Adam,Adam Marusic,185,Marusic,-ML-MR-,Defender,725,6.69,Lazio,Italy,76
+28,1,Edouard,Edouard Mendy,197,Mendy,-GK-,Goalkeeper,726,6.69,Chelsea,England,86
+30,1,Jose Ignacio,Nacho,180,Fernandez Iglesias,-DC-DL-DR-,Defender,727,6.69,Real Madrid,Spain,76
+30,3,Vlad,Vlad Chiriches,184,Chiriches,-DC-DR-,Defender,728,6.69,Sassuolo,Italy,75
+31,2,Paul,Paul Lasne,186,Lasne,-MC-ML-MR-,Midfielder,729,6.6899999999999995,Brest,France,77
+26,3,Charalampos,Charalampos Lykogiannis,190,Lykogiannis,-DL-ML-,Defender,730,6.686666666666667,Cagliari,Italy,82
+22,3,Yann,Yann Karamoh,185,Karamoh,-AML-AMR-FW-,Forward,731,6.6866666666666665,Parma Calcio 1913,Italy,77
+20,2,Giulian,Giulian Biancone,187,Biancone,,Defender,732,6.6850000000000005,Monaco,France,0
+34,4,David,David Silva,173,Silva,-MC-ML-MR-,Midfielder,733,6.685,Real Sociedad,Spain,67
+31,3,César,César Azpilicueta,178,Azpilicueta,-DC-DL-DR-MR-,Defender,734,6.683333333333334,Chelsea,England,76
+24,6,Mehdi,Mehdi Chahiri,180,Chahiri,,Midfielder,735,6.683333333333334,Strasbourg,France,77
+25,3,Saúl,Saúl Ñíguez,184,Ñíguez,-DC-DL-MC-ML-MR-,Midfielder,736,6.683333333333333,Atletico Madrid,Spain,76
+24,4,Joelinton Cássio,Joelinton,186,Apolinário de Lira,-AML-AMR-FW-,Forward,737,6.682500000000001,Newcastle United,England,81
+26,4,Denis,Denis Suárez,176,Suárez,-AMC-AML-AMR-,Midfielder,738,6.6825,Celta Vigo,Spain,69
+29,6,Timothée,Timothée Kolodziejczak,185,Kolodziejczak,-DC-DL-,Defender,739,6.680000000000001,Saint-Etienne,France,75
+22,3,Nordi,Nordi Mukiele,187,Mukiele,-DC-DR-MR-,Defender,740,6.68,RasenBallsport Leipzig,Germany,84
+28,1,Robbie,Robbie Brady,176,Brady,-DL-MC-ML-MR-,Midfielder,741,6.68,Burnley,England,71
+29,1,Rubén,Rubén Peña,170,Peña,-DR-ML-MR-,Midfielder,742,6.68,Villarreal,Spain,65
+28,3,Salvatore,Salvatore Molina,177,Molina,,Midfielder,743,6.68,Crotone,Italy,74
+28,3,Stuart,Stuart Armstrong,183,Armstrong,-AMC-AML-AMR-,Midfielder,744,6.68,Southampton,England,75
+29,3,Manuel,Manuel Prietl,187,Prietl,-MC-,Midfielder,745,6.676666666666667,Arminia Bielefeld,Germany,79
+26,5,Lucas,Lucas Olaza,173,Olaza,-DL-ML-,Defender,746,6.675999999999999,Celta Vigo,Spain,68
+27,4,David,David Soria,192,Soria,-GK-,Goalkeeper,747,6.675,Getafe,Spain,85
+21,2,Mattias,Mattias Svanberg,185,Svanberg,-MC-ML-,Midfielder,748,6.675,Bologna,Italy,75
+23,3,Bartlomiej,Bartlomiej Dragowski,191,Dragowski,-GK-,Goalkeeper,749,6.673333333333333,Fiorentina,Italy,74
+20,6,Mohamed,Mohamed Simakan,187,Simakan,-DC-DR-,Defender,750,6.673333333333333,Strasbourg,France,82
+23,3,Nicolò,Nicolò Barella,175,Barella,-AMC-,Midfielder,751,6.673333333333333,Inter,Italy,68
+33,3,Theodor,Theodor Gebre Selassie,181,Gebre Selassie,-DC-DL-DMC-DR-MR-,Defender,752,6.673333333333333,Werder Bremen,Germany,71
+29,3,Thomas,Thomas Meunier,190,Meunier,-DR-MR-,Midfielder,753,6.673333333333333,Borussia Dortmund,Germany,82
+26,5,Moisés,Moi Gómez,176,Gómez Bardonado,-MC-ML-MR-,Midfielder,754,6.672,Villarreal,Spain,71
+26,3,Corentin,Corentin Tolisso,181,Tolisso,-DR-MC-,Midfielder,755,6.670000000000001,Bayern Munich,Germany,81
+23,3,Jannes,Jannes Horn,186,Horn,-DC-DL-ML-,Defender,756,6.670000000000001,FC Koln,Germany,79
+26,3,Omenuke,Omenuke Mfulu,182,Mfulu,-MC-,Midfielder,757,6.670000000000001,Elche,Spain,76
+29,5,Hugo,Hugo Mallo,173,Mallo,-DC-DR-MR-,Defender,758,6.67,Celta Vigo,Spain,69
+27,1,Mattia,Mattia Perin,188,Perin,-GK-,Goalkeeper,759,6.67,Genoa,Italy,85
+23,1,Rúben Santos,Rúben Dias,186,Gato Alves Dias,-DC-,Defender,760,6.67,Manchester City,England,76
+20,6,Boubacar,Boubacar Kamara,184,Kamara,-DC-DL-DMC-,Defender,761,6.666666666666667,Marseille,France,68
+24,2,Alfonso,Alfonso Pedraza,184,Pedraza,-DL-ML-,Midfielder,762,6.665,Villarreal,Spain,73
+26,6,Opa,Opa Nguette,182,Nguette,-AML-AMR-FW-,Midfielder,763,6.664999999999999,Metz,France,76
+36,3,Makoto,Makoto Hasebe,180,Hasebe,-DC-DR-MC-MR-,Defender,764,6.663333333333334,Eintracht Frankfurt,Germany,72
+22,3,Nikola,Nikola Milenkovic,195,Milenkovic,-DC-DR-,Defender,765,6.663333333333333,Fiorentina,Italy,90
+31,3,Roberto,Roberto Torres,178,Torres,-AMC-AML-AMR-,Midfielder,766,6.663333333333333,Osasuna,Spain,72
+31,4,Gylfi,Gylfi Sigurdsson,186,Sigurdsson,-FW-MC-ML-MR-,Midfielder,767,6.6625,Everton,England,79
+26,5,Issiaga,Issiaga Sylla,180,Sylla,-DL-DR-ML-,Defender,768,6.662000000000001,Lens,France,75
+36,5,Romain,Romain Salin,189,Salin,-GK-,Goalkeeper,769,6.662000000000001,Rennes,France,71
+20,3,Dwight,Dwight McNeil,183,McNeil,-ML-MR-,Midfielder,770,6.66,Burnley,England,68
+30,4,Joaquín,Ximo Navarro,176,Navarro Jiménez,-DC-DR-,Defender,771,6.66,Deportivo Alaves,Spain,75
+23,2,Jordan,Jordan Torunarigha,191,Torunarigha,-DC-DL-,Defender,772,6.66,Hertha Berlin,Germany,80
+21,1,Modibo,Modibo Sagnan,187,Sagnan,,Defender,773,6.66,Real Sociedad,Spain,77
+28,4,Nampalys,Nampalys Mendy,167,Mendy,-MC-,Midfielder,774,6.66,Leicester,England,73
+18,2,Nathanael,Nathanael Mbuku,170,Mbuku,,Forward,775,6.66,Reims,France,74
+22,2,Salvador,Salvador Ferrer,184,Ferrer,,Defender,776,6.66,Spezia,Italy,73
+29,4,James,James McCarthy,180,McCarthy,-MC-,Midfielder,777,6.657500000000001,Crystal Palace,England,72
+33,4,Pedro,Pedro León,183,León,-ML-MR-,Midfielder,778,6.6575,Eibar,Spain,70
+23,6,Yvan,Yvan Neyou,180,Neyou,-DMC-,Midfielder,779,6.656666666666667,Saint-Etienne,France,0
+23,5,Enrique,Kike Pérez,184,Pérez,,Midfielder,780,6.656000000000001,Real Valladolid,Spain,80
+22,2,Borna,Borna Sosa,186,Sosa,-DL-ML-,Defender,781,6.655,VfB Stuttgart,Germany,77
+25,2,Jean-Charles,Jean-Charles Castelletto,186,Castelletto,-DC-,Defender,782,6.654999999999999,Nantes,France,78
+27,3,André Filipe,André Gomes,188,Tavares Gomes,-MC-ML-MR-,Midfielder,783,6.653333333333333,Everton,England,84
+28,3,Thiago Henrique,Thiago Mendes,176,Mendes Ribeiro,-DR-MC-MR-,Midfielder,784,6.653333333333333,Lyon,France,78
+25,4,Callum,Callum Robinson,178,Robinson,-AMC-AML-AMR-FW-,Forward,785,6.6525,West Bromwich Albion,England,75
+28,4,Roberto Antonio,Rober Correa,180,Correa Silva,-DR-,Defender,786,6.6525,Eibar,Spain,71
+28,6,Dennis,Dennis Appiah,179,Appiah,-DL-DR-,Defender,787,6.648333333333333,Nantes,France,68
+28,4,Ander,Ander Capa,175,Capa,-DR-MR-,Defender,788,6.647500000000001,Athletic Bilbao,Spain,75
+32,3,Fabian,Fabian Klos,194,Klos,-FW-,Forward,789,6.646666666666666,Arminia Bielefeld,Germany,93
+25,3,Mijat,Mijat Gacinovic,175,Gacinovic,-MC-ML-MR-,Midfielder,790,6.646666666666666,Hoffenheim,Germany,66
+31,6,Ander,Ander Herrera,182,Herrera,-MC-,Midfielder,791,6.6433333333333335,Paris Saint-Germain,France,71
+28,3,Erik,Erik Lamela,181,Lamela,-AMC-AML-AMR-,Midfielder,792,6.6433333333333335,Tottenham,England,79
+23,4,Jaime,Jaime Seoane,175,Seoane,,Midfielder,793,6.6425,SD Huesca,Spain,73
+30,4,Pedro,Pedro Bigas,181,Bigas,-DC-DL-,Defender,794,6.6425,Eibar,Spain,83
+21,2,Alessandro,Alessandro Bastoni,190,Bastoni,-DC-,Defender,795,6.640000000000001,Inter,Italy,75
+22,6,Jeremy,Jeremy Le Douaron,189,Le Douaron,,Forward,796,6.640000000000001,Brest,France,77
+24,3,Josh,Josh Brownhill,180,Brownhill,-MC-MR-,Midfielder,797,6.640000000000001,Burnley,England,69
+17,4,Yunus,Yunus Musah,0,Musah,,Midfielder,798,6.64,Valencia,Spain,0
+27,6,Jonathan,Jonathan Gradit,178,Gradit,-DC-DR-,Defender,799,6.638333333333333,Lens,France,75
+21,5,Ibrahima,Ibrahima Diallo,179,Diallo,-DMC-,Midfielder,800,6.638,Brest,France,68
+23,5,Pau,Pau Torres,191,Torres,-DC-,Defender,801,6.638,Villarreal,Spain,80
+24,3,Carlos,Carlos Neva,174,Neva,-DL-,Defender,802,6.636666666666667,Granada,Spain,64
+24,3,Georgios,Georgios Kyriakopoulos,178,Kyriakopoulos,-DL-,Defender,803,6.636666666666667,Sassuolo,Italy,74
+32,3,Lorenzo,Lorenzo De Silvestri,186,De Silvestri,-DR-MR-,Defender,804,6.636666666666667,Bologna,Italy,84
+26,3,Miguel,Miguel Almirón,174,Almirón,-AMC-AML-AMR-FW-,Midfielder,805,6.636666666666667,Newcastle United,England,70
+25,3,Antonin,Antonin Barak,190,Barak,-AMC-,Midfielder,806,6.636666666666666,Verona,Italy,86
+28,2,Marcos,Marcos Acuña,172,Acuña,-DL-MC-ML-,Defender,807,6.635,Sevilla,Spain,69
+27,5,Alejandro,Álex Fernández,182,Fernández Iglesias,-AMC-,Midfielder,808,6.634,Cadiz,Spain,72
+35,3,Fernando,Fernandinho,179,Luiz Rosa,-DC-DMC-DR-,Midfielder,809,6.633333333333333,Manchester City,England,67
+26,3,Jamaal,Jamaal Lascelles,188,Lascelles,-DC-,Defender,810,6.633333333333333,Newcastle United,England,89
+17,6,Rayan,Rayan Cherki,176,Cherki,,Midfielder,811,6.633333333333333,Lyon,France,0
+21,5,Randal,Randal Kolo Muani,187,Kolo Muani,-FW-,Forward,812,6.632,Nantes,France,73
+24,4,Che,Che Adams,175,Adams,-AMC-AML-FW-,Forward,813,6.63,Southampton,England,70
+34,1,Fabio,Fabio Pisacane,178,Pisacane,-DC-DL-DR-,Defender,814,6.63,Cagliari,Italy,77
+26,3,Jeremy,Jeremy Toljan,182,Toljan,-DL-DR-ML-MR-,Defender,815,6.63,Sassuolo,Italy,74
+33,6,John,John Boye,184,Boye,-DC-,Defender,816,6.63,Metz,France,73
+28,6,Loïck,Loïck Landre,182,Landre,-DC-,Defender,817,6.63,Nimes,France,75
+23,4,Tanguy,Tanguy Ndombele,181,Ndombele,-DMC-,Midfielder,818,6.6275,Tottenham,England,76
+24,6,Victorien,Victorien Angban,180,Angban,-DMC-,Midfielder,819,6.626666666666666,Metz,France,75
+30,6,Pedro Filipe,Pedro Mendes,186,Teodósio Mendes,-DC-DR-,Defender,820,6.625,Montpellier,France,78
+25,3,Grischa,Grischa Prömel,184,Prömel,-MC-,Midfielder,821,6.623333333333334,Union Berlin,Germany,81
+26,3,Robert,Robert Andrich,187,Andrich,-MC-,Midfielder,822,6.623333333333334,Union Berlin,Germany,83
+36,3,Danilo,Danilo,184,Larangeira,-DC-,Defender,823,6.623333333333332,Bologna,Italy,80
+29,6,Xavier,Xavier Chavalerin,179,Chavalerin,-DMC-,Midfielder,824,6.621666666666667,Reims,France,69
+26,3,Adrien,Adrien Hunou,176,Hunou,-AMC-AML-AMR-FW-,Midfielder,825,6.62,Rennes,France,66
+18,1,Arnaud Kalimuendo,Arnaud Kalimuendo Muinga,175,Muinga,,Forward,826,6.62,Paris Saint-Germain,France,63
+24,1,Arthur Henrique,Arthur,171,Ramos de Oliveira Melo,-DMC-,Midfielder,827,6.62,Juventus,Italy,73
+26,1,Dominik,Dominik Kohr,185,Kohr,-DMC-,Midfielder,828,6.62,Eintracht Frankfurt,Germany,81
+21,2,Jules,Jules Koundé,178,Koundé,-DC-,Defender,829,6.62,Sevilla,Spain,70
+28,2,Kastriot,Kastriot Dermaku,195,Dermaku,-DC-,Defender,830,6.62,Parma Calcio 1913,Italy,73
+28,3,Luis Alberto,Luis Alberto,182,Romero Alconchel,-AMC-AML-FW-,Midfielder,831,6.62,Lazio,Italy,70
+20,2,Mikkel,Mikkel Damsgaard,176,Damsgaard,,Midfielder,832,6.62,Sampdoria,Italy,0
+32,4,Rui Pedro,Rui Patrício,190,dos Santos Patrício,-GK-,Goalkeeper,833,6.62,Wolverhampton Wanderers,England,84
+18,2,Aaron,Aaron Hickey,0,Hickey,,Defender,834,6.619999999999999,Bologna,Italy,0
+25,4,Enis,Enis Bardhi,172,Bardhi,-AMC-AML-,Midfielder,835,6.6175,Levante,Spain,67
+24,3,Andreas,Andreas Christensen,188,Christensen,-DC-DMC-,Defender,836,6.616666666666667,Chelsea,England,78
+20,3,Hugo,Hugo Guillamón,178,Guillamón,-DC-,Defender,837,6.616666666666667,Valencia,Spain,62
+22,3,Julian,Julian Chabot,195,Chabot,-DC-,Defender,838,6.616666666666667,Spezia,Italy,85
+26,2,Joaquín,Joaquín Correa,189,Correa,-AMC-AML-FW-,Midfielder,839,6.615,Lazio,Italy,75
+23,2,Pablo,Pablo Maffeo,172,Maffeo,-DR-MR-,Defender,840,6.615,SD Huesca,Spain,70
+30,5,Álvaro,Álvaro González,182,González,-DC-,Defender,841,6.613999999999999,Marseille,France,75
+34,3,David,David Abraham,188,Abraham,-DC-,Defender,842,6.613333333333333,Eintracht Frankfurt,Germany,83
+24,5,Marcus,Marcus Coco,184,Coco,-AML-AMR-FW-,Forward,843,6.611999999999999,Nantes,France,78
+28,1,Dan,Dan Burn,198,Burn,-DC-DL-,Defender,844,6.61,Brighton,England,87
+20,4,Roberto,Roberto López,179,López,,Forward,845,6.61,Real Sociedad,Spain,70
+31,1,Toby,Toby Alderweireld,187,Alderweireld,-DC-DR-,Defender,846,6.61,Tottenham,England,90
+30,3,Gianluca,Gianluca Lapadula,178,Lapadula,-FW-,Forward,847,6.609999999999999,Benevento,Italy,69
+33,4,Vicente,Vicente Guaita,190,Guaita,-GK-,Goalkeeper,848,6.605,Crystal Palace,England,81
+30,4,Daniel,Dani García,180,García Carrillo,-DMC-,Midfielder,849,6.6049999999999995,Athletic Bilbao,Spain,81
+22,1,Carles,Carles Pérez,173,Pérez,-AMR-,Forward,850,6.6,Roma,Italy,75
+26,2,Edoardo,Edoardo Goldaniga,193,Goldaniga,-DC-,Defender,851,6.6,Genoa,Italy,87
+24,5,Marcos Paulo,Rony Lopes,174,Mesquita Lopes,-AMC-AML-AMR-,Forward,852,6.6,Nice,France,68
+22,4,Moussa,Moussa Djenepo,177,Djenepo,-AML-AMR-,Midfielder,853,6.5975,Southampton,England,65
+32,3,Diego,Diego Costa,188,Da Silva Costa,-FW-,Forward,854,6.596666666666668,Atletico Madrid,Spain,83
+26,6,Jonas,Jonas Omlin,189,Omlin,-GK-,Goalkeeper,855,6.596666666666667,Montpellier,France,80
+33,5,Fouad,Fouad Chafik,183,Chafik,-DL-DR-MR-,Defender,856,6.593999999999999,Dijon,France,72
+21,3,Musa,Musa Barrow,183,Barrow,-AML-FW-,Forward,857,6.593333333333334,Bologna,Italy,77
+27,6,Laurent,Laurent Abergel,170,Abergel,,Midfielder,858,6.591666666666666,Lorient,France,65
+32,4,Adrián,Adrián López,183,López,-FW-MC-ML-MR-,Forward,859,6.59,Osasuna,Spain,73
+24,1,Jonathan,Jonathan Tah,195,Tah,-DC-,Defender,860,6.59,Bayer Leverkusen,Germany,96
+25,2,Milos,Milos Veljkovic,188,Veljkovic,-DC-DMC-,Defender,861,6.59,Werder Bremen,Germany,85
+28,3,Pere,Pere Milla,184,Milla,-AML-,Forward,862,6.59,Elche,Spain,72
+25,1,Saif-Eddine,Saif-Eddine Khaoui,180,Khaoui,-AMC-AMR-,Midfielder,863,6.59,Marseille,France,68
+26,3,Jesús,Suso,177,Fernández Saez,-AMC-AML-AMR-FW-,Midfielder,864,6.586666666666667,Sevilla,Spain,70
+33,3,Pasquale,Pasquale Schiattarella,178,Schiattarella,-DMC-MR-,Midfielder,865,6.586666666666667,Benevento,Italy,68
+29,3,Admir,Admir Mehmedi,183,Mehmedi,-FW-MC-ML-MR-,Midfielder,866,6.586666666666666,Wolfsburg,Germany,78
+24,3,Razvan,Razvan Marin,178,Marin,-DMC-,Midfielder,867,6.586666666666666,Cagliari,Italy,70
+24,2,Mama Samba,Mama Baldé,181,Baldé,-DR-MR-,Midfielder,868,6.585,Dijon,France,75
+28,4,Mehdi,Mehdi Abeid,178,Abeid,-DMC-,Midfielder,869,6.585,Nantes,France,77
+26,2,Soualiho,Soualiho Meité,187,Meité,-AMC-,Midfielder,870,6.585,Torino,Italy,80
+26,3,Daniel Pedro,Dani Calvo,190,Calvo Sanromán,,Defender,871,6.583333333333333,Elche,Spain,82
+17,3,Jamal,Jamal Musiala,0,Musiala,,Midfielder,872,6.583333333333333,Bayern Munich,Germany,0
+25,3,Samir,Samir,189,Caetano de Souza Santos,-DC-DL-,Defender,873,6.583333333333333,Udinese,Italy,73
+26,3,Valerio,Valerio Verre,180,Verre,-AMC-FW-,Midfielder,874,6.583333333333333,Sampdoria,Italy,70
+23,3,Youssef,Youssef En-Nesyri,189,En-Nesyri,-FW-,Forward,875,6.583333333333333,Sevilla,Spain,73
+22,4,Pervis,Pervis Estupiñán,175,Estupiñán,-DL-,Defender,876,6.5825,Villarreal,Spain,73
+25,6,Dylan,Dylan Bronn,186,Bronn,-DC-,Midfielder,877,6.581666666666666,Metz,France,77
+32,3,Ángel,Ángel Montoro,181,Montoro,-DMC-,Midfielder,878,6.580000000000001,Granada,Spain,72
+23,3,James,James Maddison,175,Maddison,-AMC-AML-AMR-,Midfielder,879,6.580000000000001,Leicester,England,73
+34,1,Cristian,Cristian Ansaldi,181,Ansaldi,-DC-DL-DR-MC-ML-MR-,Defender,880,6.58,Torino,Italy,76
+30,2,Nicolas,Nicolas Nkoulou,184,Nkoulou,-DC-,Defender,881,6.58,Torino,Italy,77
+25,1,Rick,Rick Karsdorp,184,Karsdorp,-DR-,Defender,882,6.58,Roma,Italy,80
+21,3,Thierry Rendall,Thierry Correia,176,Correia,-DR-,Defender,883,6.579999999999999,Valencia,Spain,69
+26,4,Andrew,Andrew Robertson,178,Robertson,-DL-ML-,Defender,884,6.577500000000001,Liverpool,England,64
+24,4,Oliver,Oliver McBurnie,188,McBurnie,-AMC-AML-FW-,Forward,885,6.5775,Sheffield United,England,79
+20,3,Mateo,Mateo Klimowicz,179,Klimowicz,,Midfielder,886,6.576666666666667,VfB Stuttgart,Germany,71
+28,3,Wout,Wout Weghorst,197,Weghorst,-FW-,Forward,887,6.576666666666667,Wolfsburg,Germany,84
+32,5,Paul,Paul Baysse,187,Baysse,-DC-DR-,Defender,888,6.5760000000000005,Bordeaux,France,85
+24,6,Predrag,Predrag Rajkovic,191,Rajkovic,-GK-,Goalkeeper,889,6.575,Reims,France,85
+24,2,Youcef,Youcef Atal,175,Atal,-DR-MR-,Defender,890,6.574999999999999,Nice,France,66
+29,4,Íñigo,Íñigo Martínez,182,Martínez,-DC-,Defender,891,6.5725,Athletic Bilbao,Spain,76
+23,2,Diogo José,Diogo Jota,178,Teixeira da Silva,-AMC-AML-FW-,Forward,892,6.57,Liverpool,England,70
+19,6,El Bilal,El Bilal Touré,185,Touré,-FW-,Forward,893,6.57,Reims,France,75
+20,2,Ethan,Ethan Ampadu,183,Ampadu,-DC-,Defender,894,6.57,Sheffield United,England,78
+28,2,Felix,Felix Klaus,179,Klaus,-AMC-AML-AMR-,Midfielder,895,6.57,Wolfsburg,Germany,79
+22,2,Giulio,Giulio Maggiore,184,Maggiore,,Midfielder,896,6.57,Spezia,Italy,69
+26,1,John,John Stones,188,Stones,-DC-DR-,Defender,897,6.57,Manchester City,England,70
+24,2,Patrick,Patrick Burner,170,Burner,-DR-,Defender,898,6.57,Nimes,France,65
+24,4,Robin,Robin Koch,192,Koch,-DC-DMC-,Defender,899,6.57,Leeds,England,83
+18,1,Saidou,Saidou Sow,0,Sow,,Defender,900,6.57,Saint-Etienne,France,0
+32,3,Max,Max Kruse,180,Kruse,-FW-MC-ML-MR-,Forward,901,6.566666666666667,Union Berlin,Germany,76
+25,3,Daley,Daley Sinkgraven,179,Sinkgraven,-DL-MC-ML-,Defender,902,6.566666666666666,Bayer Leverkusen,Germany,66
+24,3,Gabriele,Gabriele Moncini,184,Moncini,-FW-,Forward,903,6.566666666666666,Benevento,Italy,75
+29,5,Rodrigo,Rodrigo Battaglia,187,Battaglia,-MC-,Midfielder,904,6.566,Deportivo Alaves,Spain,79
+33,5,Yunis,Yunis Abdelhamid,190,Abdelhamid,-DC-,Defender,905,6.566,Reims,France,83
+23,3,Maximilian,Maximilian Eggestein,181,Eggestein,-MC-MR-,Midfielder,906,6.5633333333333335,Werder Bremen,Germany,75
+22,4,Houssem,Houssem Aouar,175,Aouar,-MC-ML-,Midfielder,907,6.562500000000001,Lyon,France,70
+32,4,Lucas,Lucas Pérez,180,Pérez,-AMC-AMR-FW-,Forward,908,6.562499999999999,Deportivo Alaves,Spain,82
+24,2,Álvaro,Álvaro Tejero,174,Tejero,-DR-,Defender,909,6.5600000000000005,Eibar,Spain,69
+30,4,Bruno,Bruno González,185,González,-DC-,Defender,910,6.5600000000000005,Real Valladolid,Spain,83
+29,2,Jóan Símun,Jóan Símun Edmundsson,185,Edmundsson,-AMC-AMR-FW-,Midfielder,911,6.5600000000000005,Arminia Bielefeld,Germany,83
+28,3,Cebio,Cebio Soukou,185,Soukou,-AML-AMR-,Midfielder,912,6.56,Arminia Bielefeld,Germany,85
+28,3,Marco,Marco Sportiello,192,Sportiello,-GK-,Goalkeeper,913,6.56,Atalanta,Italy,87
+22,6,Ibrahima,Ibrahima Sissoko,193,Sissoko,-DMC-,Midfielder,914,6.558333333333333,Strasbourg,France,90
+33,2,Gary,Gary Medel,171,Medel,-DC-DMC-,Midfielder,915,6.555,Bologna,Italy,65
+30,2,Jordan,Jordan Henderson,182,Henderson,-MC-ML-MR-,Midfielder,916,6.555,Liverpool,England,67
+34,2,Miguel Luís,Miguel Veloso,180,Pinto Veloso,-MC-,Midfielder,917,6.555,Verona,Italy,79
+32,5,Vicente,Vicente Iborra,190,Iborra,-MC-,Midfielder,918,6.553999999999999,Villarreal,Spain,80
+33,3,Juraj,Juraj Kucka,186,Kucka,-MC-ML-MR-,Midfielder,919,6.553333333333334,Parma Calcio 1913,Italy,86
+25,3,Paulo Otávio,Paulo Otávio,173,Rosa Silva,-DL-ML-,Defender,920,6.553333333333334,Wolfsburg,Germany,68
+28,4,Kevin,Kevin Volland,179,Volland,-AMC-AML-AMR-FW-,Forward,921,6.5525,Monaco,France,83
+32,4,David,David McGoldrick,183,McGoldrick,-AMC-AML-AMR-FW-,Forward,922,6.552499999999999,Sheffield United,England,74
+30,3,Jonathan,Jonathan Schmid,179,Schmid,-DR-ML-MR-,Midfielder,923,6.550000000000001,Freiburg,Germany,80
+20,5,Aurelien,Aurelien Tchouameni,185,Tchouameni,-DMC-,Midfielder,924,6.55,Monaco,France,80
+33,5,Dimitri,Dimitri Payet,175,Payet,-MC-ML-MR-,Midfielder,925,6.55,Marseille,France,77
+23,2,Federico,Federico Bonazzoli,182,Bonazzoli,-FW-,Forward,926,6.55,Sampdoria,Italy,79
+22,3,Gregor,Gregor Kobel,194,Kobel,-GK-,Goalkeeper,927,6.55,VfB Stuttgart,Germany,88
+32,4,Xabier,Xabier Etxeita,186,Etxeita,-DC-,Defender,928,6.55,Getafe,Spain,78
+20,1,Yehvann,Yehvann Diouf,184,Diouf,,Goalkeeper,929,6.55,Reims,France,74
+26,4,Gonzalo,Gonzalo Melero,183,Melero,-AMC-,Midfielder,930,6.5475,Levante,Spain,77
+29,3,Davide,Davide Santon,187,Santon,-DL-DR-,Defender,931,6.546666666666667,Roma,Italy,77
+21,2,Tyler,Tyler Adams,175,Adams,-MC-MR-,Midfielder,932,6.545,RasenBallsport Leipzig,Germany,72
+28,4,José Antonio,Antonio Puertas,183,Rodríguez Díaz,-AML-AMR-,Midfielder,933,6.544999999999999,Granada,Spain,77
+23,5,Kasper,Kasper Dolberg,187,Dolberg,-FW-,Forward,934,6.544,Nice,France,83
+23,3,Florian,Florian Neuhaus,183,Neuhaus,-MC-,Midfielder,935,6.543333333333333,Borussia M.Gladbach,Germany,74
+27,4,Ben,Ben Davies,181,Davies,-DC-DL-ML-,Defender,936,6.5425,Tottenham,England,76
+28,5,Fernando,Fernando Pacheco,186,Pacheco,-GK-,Goalkeeper,937,6.542,Deportivo Alaves,Spain,81
+19,5,Kang-In,Lee Kang-In,173,Lee,,Midfielder,938,6.542,Valencia,Spain,68
+24,6,Adrian,Adrian Grbic,188,Grbic,-FW-,Forward,939,6.541666666666667,Lorient,France,82
+28,5,Alfonso,Alfonso Espino,172,Espino,-DL-,Defender,940,6.540000000000001,Cadiz,Spain,71
+23,1,Igor,Igor Zubeldia,180,Zubeldia,-DC-DMC-,Midfielder,941,6.54,Real Sociedad,Spain,79
+23,3,Jean-Philippe,Jean-Philippe Mateta,192,Mateta,-FW-,Forward,942,6.54,Mainz 05,Germany,88
+29,3,Kevin,Kevin Vogt,194,Vogt,-DC-DR-MC-,Defender,943,6.539999999999999,Hoffenheim,Germany,85
+28,4,Lucas,Lucas Moura,172,Rodrigues Moura da Silva,-AMC-AML-AMR-FW-,Forward,944,6.5375,Tottenham,England,72
+32,3,Romain,Romain Thomas,193,Thomas,-DC-,Defender,945,6.536666666666666,Angers,France,84
+31,3,Sven,Sven Bender,186,Bender,-DC-MC-,Defender,946,6.536666666666666,Bayer Leverkusen,Germany,79
+30,5,Juan,Juan Cala,185,Torres Ruiz,-DC-,Defender,947,6.536000000000001,Cadiz,Spain,78
+32,2,Danilo,Danilo D'Ambrosio,180,D'Ambrosio,-DC-DL-DR-ML-MR-,Defender,948,6.535,Inter,Italy,75
+29,4,Georginio,Georginio Wijnaldum,175,Wijnaldum,-MC-ML-MR-,Midfielder,949,6.535,Liverpool,England,69
+21,4,Imran,Imran Louza,178,Louza,-MC-,Midfielder,950,6.535,Nantes,France,65
+26,4,Okay,Okay Yokuslu,190,Yokuslu,-DC-DMC-,Midfielder,951,6.534999999999999,Celta Vigo,Spain,79
+25,3,Luis,Luis Pérez,173,Pérez,,Defender,952,6.533333333333334,Real Valladolid,Spain,68
+35,3,Mikel,Mikel Rico,179,Rico,-MC-,Midfielder,953,6.533333333333334,SD Huesca,Spain,75
+23,3,Moussa,Moussa Koné,175,Koné,-FW-,Forward,954,6.533333333333334,Nimes,France,68
+24,5,Franck,Franck Honorat,180,Honorat,-MR-,Forward,955,6.530000000000001,Brest,France,70
+29,3,Mehdi,Mehdi Bourabia,183,Bourabia,-MC-,Midfielder,956,6.530000000000001,Sassuolo,Italy,73
+26,1,Francisco Javier,Son,178,Hidalgo,,Defender,957,6.53,Levante,Spain,72
+25,1,Jacob,Jacob Murphy,179,Murphy,-ML-MR-,Midfielder,958,6.53,Newcastle United,England,74
+35,3,Roberto,Roberto Soldado,180,Soldado,-FW-,Forward,959,6.53,Granada,Spain,74
+22,1,Rogerio,Rogerio,178,Oliveira da Silva,-DL-ML-,Defender,960,6.53,Sassuolo,Italy,70
+23,4,Ander,Ander Guevara,180,Guevara,-DMC-,Midfielder,961,6.529999999999999,Real Sociedad,Spain,73
+32,2,Marco,Marco Sau,169,Sau,-AMC-FW-,Forward,962,6.529999999999999,Benevento,Italy,65
+23,4,Gonçalo Manuel,Gonçalo Guedes,179,Ganchinho Guedes,-AML-AMR-FW-,Midfielder,963,6.5275,Valencia,Spain,68
+30,3,Péter,Péter Gulácsi,191,Gulácsi,-GK-,Goalkeeper,964,6.526666666666666,RasenBallsport Leipzig,Germany,86
+18,2,Dilane,Dilane Bakwa,0,Bakwa,,Forward,965,6.525,Bordeaux,France,0
+23,2,Farid,Farid El Melali,168,El Melali,-MR-,Midfielder,966,6.525,Angers,France,65
+28,4,Granit,Granit Xhaka,185,Xhaka,-MC-,Midfielder,967,6.525,Arsenal,England,82
+23,4,Thierry,Thierry Ambrose,178,Ambrose,-AML-AMR-FW-,Forward,968,6.525,Metz,France,75
+22,6,Ludovic,Ludovic Blas,180,Blas,-FW-MC-ML-MR-,Midfielder,969,6.521666666666667,Nantes,France,70
+26,4,Eric,Eric Dier,188,Dier,-DC-DMC-DR-,Midfielder,970,6.5200000000000005,Tottenham,England,88
+31,3,Stefan,Stefan Ilsanker,190,Ilsanker,-DC-DMC-DR-,Midfielder,971,6.5200000000000005,Eintracht Frankfurt,Germany,87
+23,1,Atakan,Atakan Karazor,190,Karazor,-DC-DMC-,Defender,972,6.52,VfB Stuttgart,Germany,76
+27,1,Federico,Federico Barba,185,Barba,-DC-DL-,Defender,973,6.52,Benevento,Italy,77
+30,1,Iago,Iago Falque,174,Falque,-AMC-AML-AMR-FW-,Forward,974,6.52,Benevento,Italy,69
+20,4,Illan,Illan Meslier,193,Meslier,-GK-,Goalkeeper,975,6.52,Leeds,England,74
+22,6,Jonathan,Jonathan Ikoné,175,Ikoné,-AMC-AML-AMR-FW-,Midfielder,976,6.52,Lille,France,67
+30,3,Kyle,Kyle Walker,178,Walker,-DC-DR-MR-,Defender,977,6.52,Manchester City,England,70
+20,6,Jonathan Christian,Jonathan Christian David,177,David,-AMC-FW-,Forward,978,6.5183333333333335,Lille,France,0
+25,3,Davie,Davie Selke,194,Selke,-FW-,Forward,979,6.516666666666667,Werder Bremen,Germany,84
+30,3,Fernando,Fernando Forestieri,172,Forestieri,-AMC-AML-FW-,Forward,980,6.516666666666667,Udinese,Italy,67
+32,5,José María,José Mari,180,Martín-Bejarano Serrano,-DMC-,Midfielder,981,6.514,Cadiz,Spain,69
+25,6,Arbër,Arbër Zeneli,176,Zeneli,-AML-AMR-,Midfielder,982,6.513333333333333,Reims,France,72
+33,3,Gonzalo,Gonzalo Castro,172,Castro,-DL-MC-MR-,Midfielder,983,6.513333333333333,VfB Stuttgart,Germany,72
+18,3,Jan,Jan Thielmann,178,Thielmann,-AMR-,Midfielder,984,6.513333333333333,FC Koln,Germany,72
+33,6,Thomas,Thomas Mangani,183,Mangani,-MC-,Midfielder,985,6.513333333333333,Angers,France,79
+25,4,Iván,Iván Alejo,184,Alejo,-AMR-,Midfielder,986,6.512499999999999,Cadiz,Spain,73
+27,2,Conor,Conor Townsend,168,Townsend,-DL-,Defender,987,6.51,West Bromwich Albion,England,62
+28,2,Davide,Davide Zappacosta,185,Zappacosta,-DR-ML-MR-,Defender,988,6.51,Genoa,Italy,70
+23,1,Nathan,Nathan de Medina,183,de Medina,,Defender,989,6.51,Arminia Bielefeld,Germany,78
+28,1,Santiago,Santiago Arias,178,Arias,-DR-,Defender,990,6.51,Bayer Leverkusen,Germany,72
+28,2,Steven,Steven Fortes,192,Fortes,,Defender,991,6.51,Lens,France,85
+25,5,José,José Gayà,172,Gayà,-DL-,Defender,992,6.508,Valencia,Spain,66
+20,4,Aaron,Aaron Connolly,0,Connolly,-FW-,Forward,993,6.5075,Brighton,England,0
+29,4,Borja,Borja García,175,García,-AMC-AML-,Midfielder,994,6.507499999999999,SD Huesca,Spain,72
+22,3,Dennis,Dennis Geiger,173,Geiger,-MC-,Midfielder,995,6.506666666666668,Hoffenheim,Germany,65
+28,3,Jirí,Jirí Pavlenka,196,Pavlenka,-GK-,Goalkeeper,996,6.506666666666667,Werder Bremen,Germany,81
+21,3,Mert,Mert Müldür,188,Müldür,-DR-,Defender,997,6.506666666666667,Sassuolo,Italy,74
+21,3,Myziane,Myziane Maolida,180,Maolida,-AML-FW-,Forward,998,6.506666666666667,Nice,France,70
+24,3,Waldemar,Waldemar Anton,189,Anton,-DC-DMC-,Defender,999,6.506666666666667,VfB Stuttgart,Germany,75
+32,5,Dimitri,Dimitri Lienard,181,Lienard,-MC-ML-,Midfielder,1000,6.506,Strasbourg,France,77
+27,5,Jens,Jens Jonsson,182,Jonsson,-DC-DMC-,Midfielder,1001,6.506,Cadiz,Spain,78
+23,2,Andrea,Andrea Favilli,191,Favilli,-FW-,Forward,1002,6.505000000000001,Verona,Italy,85
+25,2,Milan,Milan Skriniar,187,Skriniar,-DC-,Defender,1003,6.505000000000001,Inter,Italy,80
+25,2,Daniel,Daniel Amartey,186,Amartey,-DC-DMC-DR-,Defender,1004,6.505,Leicester,England,79
+31,2,Jérémy,Jérémy Pied,174,Pied,-DL-DR-MC-ML-MR-,Defender,1005,6.505,Lille,France,69
+22,2,Julian,Julian Ryerson,183,Ryerson,-DR-MC-MR-,Defender,1006,6.505,Union Berlin,Germany,84
+29,3,Luka,Luka Milivojevic,186,Milivojevic,-DMC-,Midfielder,1007,6.503333333333334,Crystal Palace,England,80
+29,3,Nicola,Nicola Sansone,175,Sansone,-AML-AMR-FW-,Forward,1008,6.503333333333334,Bologna,Italy,68
+29,3,Francis,Francis Coquelin,176,Coquelin,-MC-ML-MR-,Midfielder,1009,6.503333333333333,Villarreal,Spain,74
+20,3,Sandro,Sandro Tonali,181,Tonali,-DMC-,Midfielder,1010,6.503333333333333,AC Milan,Italy,79
+23,4,Ben,Ben White,182,White,-DC-,Defender,1011,6.5024999999999995,Brighton,England,78
+28,4,Aissa,Aissa Mandi,184,Mandi,-DC-DL-DR-,Defender,1012,6.5,Real Betis,Spain,78
+30,3,Ashley,Ashley Westwood,175,Westwood,-DMC-,Midfielder,1013,6.5,Burnley,England,80
+35,3,Ashley,Ashley Young,175,Young,-DL-DR-ML-MR-,Defender,1014,6.5,Inter,Italy,65
+20,1,Ben,Ben Johnson,175,Johnson,,Defender,1015,6.5,West Ham,England,67
+35,1,Christian,Christian Gentner,189,Gentner,-MC-ML-MR-,Midfielder,1016,6.5,Union Berlin,Germany,81
+29,3,Gastón,Gastón Ramírez,183,Ramírez,-AMC-AML-AMR-FW-,Midfielder,1017,6.5,Sampdoria,Italy,78
+24,4,Robert Kenedy,Kenedy,182,Nunes do Nascimento,-DL-ML-,Forward,1018,6.4975000000000005,Granada,Spain,77
+29,3,Antoine,Antoine Griezmann,176,Griezmann,-AMC-AML-AMR-FW-,Forward,1019,6.496666666666667,Barcelona,Spain,73
+26,3,Lucas,Lucas Ocampos,187,Ocampos,-FW-MC-ML-MR-,Midfielder,1020,6.496666666666666,Sevilla,Spain,84
+20,3,Matteo,Matteo Lovato,188,Lovato,,Defender,1021,6.496666666666666,Verona,Italy,0
+28,5,Stéphane,Stéphane Bahoken,185,Bahoken,-FW-,Forward,1022,6.4959999999999996,Angers,France,78
+25,2,Marko,Marko Pjaca,186,Pjaca,-AML-FW-,Forward,1023,6.494999999999999,Genoa,Italy,83
+24,3,Benjamin,Benjamin Pavard,186,Pavard,-DC-DL-DR-,Defender,1024,6.493333333333333,Bayern Munich,Germany,76
+25,3,Luis Rafael,Rafa Soares,177,Soares Alves,-DL-,Defender,1025,6.493333333333333,Eibar,Spain,70
+29,3,Mark,Mark Uth,185,Uth,-AMC-AMR-FW-,Forward,1026,6.493333333333333,Schalke 04,Germany,72
+33,4,Germán,Germán Sánchez,187,Sánchez,-DC-,Defender,1027,6.4925,Granada,Spain,82
+30,1,Ashley,Ashley Barnes,186,Barnes,-AMC-AML-FW-,Forward,1028,6.49,Burnley,England,77
+29,5,Benjamin,Benjamin Lecomte,186,Lecomte,-GK-,Goalkeeper,1029,6.49,Monaco,France,78
+31,1,Jay,Jay Rodriguez,185,Rodriguez,-AMC-AML-AMR-FW-,Forward,1030,6.49,Burnley,England,84
+28,2,Lucas,Lucas Alario,185,Alario,-FW-,Forward,1031,6.49,Bayer Leverkusen,Germany,78
+27,2,Wendell,Wendell,178,Nascimento Borges,-DC-DL-ML-,Defender,1032,6.49,Bayer Leverkusen,Germany,72
+25,3,Giovanni,Giovanni Simeone,180,Simeone,-AMR-FW-,Forward,1033,6.489999999999999,Cagliari,Italy,81
+30,4,Joel,Joel Ward,188,Ward,-DL-DMC-DR-MR-,Defender,1034,6.487500000000001,Crystal Palace,England,83
+28,4,Bernd,Bernd Leno,190,Leno,-GK-,Goalkeeper,1035,6.4875,Arsenal,England,83
+21,3,Daam,Daam Foulon,180,Foulon,,Defender,1036,6.486666666666667,Benevento,Italy,0
+29,6,Kenny,Kenny Lala,178,Lala,-DL-DR-MR-,Defender,1037,6.486666666666667,Strasbourg,France,78
+20,2,Leandro,Leandro Barreiro Martins,174,Barreiro Martins,-DMC-,Midfielder,1038,6.484999999999999,Mainz 05,Germany,65
+27,3,Robin,Robin Quaison,183,Quaison,-FW-MC-ML-MR-,Forward,1039,6.483333333333333,Mainz 05,Germany,77
+26,3,Rúben Miguel,Rúben Vezo,182,Nunes Vezo,-DC-DR-,Defender,1040,6.483333333333333,Levante,Spain,80
+22,4,Aaron,Aaron Ramsdale,188,Ramsdale,-GK-,Goalkeeper,1041,6.482500000000001,Sheffield United,England,77
+34,5,Fabián,Fabián Orellana,170,Orellana,-AMC-AML-AMR-,Midfielder,1042,6.481999999999999,Real Valladolid,Spain,64
+26,6,Didier,Didier Ndong,179,Ndong,-DMC-,Midfielder,1043,6.4816666666666665,Dijon,France,75
+26,1,Bernardo Mota,Bernardo Silva,173,Veiga de Carvalho e Silva,-MC-ML-MR-,Midfielder,1044,6.48,Manchester City,England,64
+30,3,Ciro,Ciro Immobile,185,Immobile,-FW-,Forward,1045,6.48,Lazio,Italy,78
+34,1,Jonathan,Jonathan Delaplace,168,Delaplace,-DMC-,Midfielder,1046,6.48,Lorient,France,67
+30,1,Riccardo,Riccardo Gagliolo,180,Gagliolo,-DC-DL-,Defender,1047,6.48,Parma Calcio 1913,Italy,75
+22,4,Sander,Sander Berge,195,Berge,-DMC-,Midfielder,1048,6.48,Sheffield United,England,96
+28,5,Karl,Karl Toko Ekambi,185,Toko Ekambi,-AML-AMR-FW-,Forward,1049,6.4799999999999995,Lyon,France,74
+23,4,Rúben Diogo,Rúben Neves,180,da Silva Neves,-DMC-,Midfielder,1050,6.477500000000001,Wolverhampton Wanderers,England,72
+23,4,Henry,Henry Onyekuru,175,Onyekuru,-AML-AMR-FW-,Forward,1051,6.4775,Monaco,France,70
+26,4,Rodrigo,Rodrigo Ely,188,Ely,-DC-,Defender,1052,6.4775,Deportivo Alaves,Spain,83
+22,3,Mamadou,Mamadou Fofana,186,Fofana,-DC-DMC-,Midfielder,1053,6.476666666666667,Metz,France,75
+25,2,Baptiste,Baptiste Santamaría,183,Santamaría,-DMC-,Midfielder,1054,6.475,Freiburg,Germany,73
+22,5,Moreto,Moreto Cassamã,165,Moro Cassamã,-DMC-,Midfielder,1055,6.473999999999999,Reims,France,63
+24,4,Bersant,Bersant Celina,177,Celina,-AMC-AML-AMR-FW-,Midfielder,1056,6.4725,Dijon,France,60
+20,2,Bosko,Bosko Sutalo,188,Sutalo,,Defender,1057,6.470000000000001,Atalanta,Italy,72
+28,4,Nikola,Nikola Vukcevic,184,Vukcevic,-DMC-,Midfielder,1058,6.470000000000001,Levante,Spain,76
+28,3,Bryan,Bryan Dabo,187,Dabo,-DR-MC-MR-,Midfielder,1059,6.47,Benevento,Italy,75
+30,1,Miguel Ángel,Cifu,174,Garrido Cifuentes,,Defender,1060,6.47,Elche,Spain,66
+21,2,Ronald,Ronald Araújo,188,Araújo,,Defender,1061,6.47,Barcelona,Spain,79
+32,3,Miguel Alfonso,Míchel,182,Herrero Javaloyas,-MC-MR-,Midfielder,1062,6.469999999999999,Real Valladolid,Spain,68
+29,4,Virgil,Virgil van Dijk,193,van Dijk,-DC-,Defender,1063,6.4675,Liverpool,England,92
+21,6,Josh,Josh Maja,180,Maja,-FW-,Forward,1064,6.466666666666666,Bordeaux,France,74
+24,4,Antonio,Antonio Sanabria,180,Sanabria,-FW-,Forward,1065,6.4625,Real Betis,Spain,70
+35,6,Jean-Louis,Jean-Louis Leca,180,Leca,-GK-,Goalkeeper,1066,6.461666666666667,Lens,France,75
+30,4,Alex,Alex McCarthy,193,McCarthy,-GK-,Goalkeeper,1067,6.460000000000001,Southampton,England,79
+24,2,Joaquín,Joaquín Fernández,190,Fernández,-DC-DMC-,Midfielder,1068,6.460000000000001,Real Valladolid,Spain,72
+26,2,Eugeni,Eugeni Valderrama,182,Valderrama,,Midfielder,1069,6.46,SD Huesca,Spain,73
+33,6,Fabien,Fabien Lemoine,175,Lemoine,-MC-,Midfielder,1070,6.46,Lorient,France,71
+20,2,Ian,Ian Poveda-Ocampo,0,Poveda-Ocampo,,Forward,1071,6.46,Leeds,England,0
+22,4,Jon,Jon Moncayola,189,Moncayola,-DMC-,Midfielder,1072,6.46,Osasuna,Spain,86
+25,1,Marius,Marius Wolf,188,Wolf,-DR-MC-ML-MR-,Forward,1073,6.46,FC Koln,Germany,81
+31,1,Matt,Matt Ritchie,172,Ritchie,-DL-MC-ML-MR-,Midfielder,1074,6.46,Newcastle United,England,76
+21,4,Tyrick,Tyrick Mitchell,0,Mitchell,-DL-,Defender,1075,6.46,Crystal Palace,England,0
+21,3,Moussa,Moussa Diaby,170,Diaby,-ML-MR-,Forward,1076,6.456666666666667,Bayer Leverkusen,Germany,67
+22,3,Marcus,Marcus Rashford,180,Rashford,-AML-AMR-FW-,Forward,1077,6.456666666666666,Manchester United,England,70
+25,4,Brendan,Brendan Chardonnet,181,Chardonnet,-DC-,Defender,1078,6.455,Brest,France,74
+27,2,Jack,Jack Robinson,168,Robinson,-DC-DL-ML-,Defender,1079,6.455,Sheffield United,England,64
+25,2,Mergim,Mergim Vojvoda,187,Vojvoda,-DR-,Defender,1080,6.455,Torino,Italy,78
+21,2,Rúben Gonçalo,Rúben Vinagre,174,Silva Nascimento Vinagre,-ML-,Defender,1081,6.455,Wolverhampton Wanderers,England,64
+26,2,Ryan,Ryan Fraser,163,Fraser,-MC-ML-MR-,Midfielder,1082,6.455,Newcastle United,England,70
+28,3,Alexander,Alexander Schwolow,190,Schwolow,-GK-,Goalkeeper,1083,6.453333333333333,Hertha Berlin,Germany,84
+26,4,Rui Tiago,Rui Silva,191,Dantas da Silva,-GK-,Goalkeeper,1084,6.452500000000001,Granada,Spain,91
+24,3,Darnell,Darnell Furlong,183,Furlong,-DC-DR-MR-,Defender,1085,6.45,West Bromwich Albion,England,76
+25,1,Kenny,Kenny Tete,180,Tete,-DR-MR-,Defender,1086,6.45,Lyon,France,71
+35,3,Phil,Phil Bardsley,180,Bardsley,-DL-DR-,Defender,1087,6.45,Burnley,England,74
+29,4,Jordan,Jordan Ayew,182,Ayew,-AMC-AML-AMR-FW-,Forward,1088,6.449999999999999,Crystal Palace,England,80
+19,6,Éric,Éric Ebimbe,183,Ebimbe,,Midfielder,1089,6.446666666666668,Dijon,France,0
+30,6,Vincent,Vincent Le Goff,177,Le Goff,-DL-,Defender,1090,6.446666666666668,Lorient,France,69
+24,3,Nico,Nico Elvedi,189,Elvedi,-DC-DL-DR-,Defender,1091,6.446666666666666,Borussia M.Gladbach,Germany,78
+26,2,Haris,Haris Duljevic,185,Duljevic,-AMC-AML-FW-,Forward,1092,6.445,Nimes,France,82
+32,2,Jonny,Jonny Evans,188,Evans,-DC-DL-,Defender,1093,6.445,Leicester,England,77
+27,5,Flavien,Flavien Tait,175,Tait,-AMC-AML-AMR-,Midfielder,1094,6.444,Rennes,France,70
+27,3,Rafael,Fali,186,Jiménez Jarque,,Defender,1095,6.443333333333334,Cadiz,Spain,84
+28,6,Jordan,Jordan Ferri,173,Ferri,-MC-,Midfielder,1096,6.4433333333333325,Montpellier,France,73
+23,3,José Raúl,Raúl Guti,177,Gutiérrez Parejo,,Midfielder,1097,6.4433333333333325,Elche,Spain,74
+22,4,Wout,Wout Faes,187,Faes,-DC-,Defender,1098,6.442500000000001,Reims,France,82
+27,4,Conor,Conor Coady,185,Coady,-DC-DMC-DR-,Defender,1099,6.4425,Wolverhampton Wanderers,England,73
+30,5,Víctor,Víctor Laguardia,185,Laguardia,-DC-,Defender,1100,6.442,Deportivo Alaves,Spain,80
+26,3,Jean-Paul,Jean-Paul Boëtius,178,Boëtius,-AMC-AML-,Midfielder,1101,6.44,Mainz 05,Germany,76
+38,3,Jorge,Jorge Molina,188,Molina,-FW-,Forward,1102,6.44,Granada,Spain,72
+21,5,Alexander,Alexander Isak,190,Isak,-FW-,Forward,1103,6.4399999999999995,Real Sociedad,Spain,70
+33,4,Kasper,Kasper Schmeichel,189,Schmeichel,-GK-,Goalkeeper,1104,6.4399999999999995,Leicester,England,89
+30,3,Dominick,Dominick Drexler,183,Drexler,-AMC-AML-AMR-,Midfielder,1105,6.436666666666667,FC Koln,Germany,71
+30,3,Danny,Danny Latza,179,Latza,-DMC-,Midfielder,1106,6.4366666666666665,Mainz 05,Germany,76
+22,5,Axel,Axel Disasi,190,Disasi,-DC-,Defender,1107,6.436,Monaco,France,86
+31,5,Sergio,Sergio Asenjo,189,Asenjo,-GK-,Goalkeeper,1108,6.436,Villarreal,Spain,87
+26,2,Miha,Miha Zajc,180,Zajc,-AMC-FW-,Midfielder,1109,6.4350000000000005,Genoa,Italy,76
+22,2,Óscar,Óscar Rodríguez,174,Rodríguez,-AMC-AMR-,Midfielder,1110,6.4350000000000005,Sevilla,Spain,67
+38,3,Bruno Eduardo,Bruno Alves,189,Regufe Alves,-DC-,Defender,1111,6.433333333333334,Parma Calcio 1913,Italy,83
+20,3,Fabrizio,Fabrizio Caligara,180,Caligara,,Midfielder,1112,6.433333333333334,Cagliari,Italy,74
+27,3,Marcelo,Marcelo Brozovic,181,Brozovic,-MC-MR-,Midfielder,1113,6.433333333333334,Inter,Italy,68
+28,4,Manuel,Manu Trigueros,178,Trigueros Muñoz,-MC-,Midfielder,1114,6.4325,Villarreal,Spain,75
+26,3,Emmanuel,Emmanuel Gyasi,181,Gyasi,,Forward,1115,6.43,Spezia,Italy,70
+23,3,Enrique,Kike Barja,178,Barja Alfonso,,Forward,1116,6.43,Osasuna,Spain,69
+25,2,Florian,Florian Grillitsch,187,Grillitsch,-DC-DMC-ML-,Midfielder,1117,6.43,Hoffenheim,Germany,77
+20,1,Jens Petter,Jens Petter Hauge,183,Hauge,,Midfielder,1118,6.43,AC Milan,Italy,0
+25,3,Krzysztof,Krzysztof Piatek,183,Piatek,-FW-,Forward,1119,6.43,Hertha Berlin,Germany,77
+21,1,Luca,Luca Kilian,192,Kilian,-DC-,Defender,1120,6.43,Mainz 05,Germany,91
+30,6,Anthony,Anthony Lopes,184,Lopes,-GK-,Goalkeeper,1121,6.428333333333334,Lyon,France,81
+20,6,Enzo,Enzo Le Fée,170,Le Fée,,Midfielder,1122,6.428333333333334,Lorient,France,0
+27,4,Anthony,Anthony Lozano,185,Lozano,-FW-,Forward,1123,6.4275,Cadiz,Spain,74
+19,3,Aïmen,Aïmen Moueffek,179,Moueffek,,Midfielder,1124,6.426666666666667,Saint-Etienne,France,0
+23,3,Joseph,Joe Gomez,188,Gomez,-DC-DL-DR-,Defender,1125,6.426666666666667,Liverpool,England,77
+19,3,Roberto,Roberto Massimo,184,Massimo,-MR-,Midfielder,1126,6.426666666666667,VfB Stuttgart,Germany,75
+24,3,Sidy,Sidy Sarr,196,Sarr,-DMC-,Midfielder,1127,6.426666666666667,Nimes,France,86
+23,5,Kévin,Kévin Zohi,177,Zohi,-AML-,Forward,1128,6.426,Strasbourg,France,70
+21,5,Samuel,Samuel Chukwueze,172,Chukwueze,-AMC-AMR-,Midfielder,1129,6.425999999999999,Villarreal,Spain,70
+27,4,George,George Baldock,178,Baldock,-DR-MR-,Defender,1130,6.425000000000001,Sheffield United,England,71
+21,2,Gianluca,Gianluca Frabotta,176,Frabotta,,Defender,1131,6.425,Juventus,Italy,70
+24,3,Alex,Alex Iwobi,180,Iwobi,-AMC-AML-AMR-,Forward,1132,6.423333333333333,Everton,England,75
+24,3,Florian,Florian Miguel,179,Miguel,-DC-DL-,Defender,1133,6.423333333333333,Nimes,France,70
+22,3,Jean Lucas,Jean Lucas,181,de Souza Oliveira,-MC-,Midfielder,1134,6.423333333333333,Lyon,France,78
+27,3,Paolo,Paolo Faragò,187,Faragò,-DMC-DR-MR-,Midfielder,1135,6.423333333333333,Cagliari,Italy,80
+23,5,Rafael,Rafa Mir,191,Mir Vicente,,Forward,1136,6.422,SD Huesca,Spain,86
+35,6,Yannick,Yannick Cahuzac,178,Cahuzac,-DMC-,Midfielder,1137,6.421666666666667,Lens,France,70
+27,3,Alphonse,Alphonse Areola,195,Areola,-GK-,Goalkeeper,1138,6.420000000000001,Fulham,England,94
+21,4,Boubakary,Boubakary Soumaré,188,Soumaré,-DMC-,Midfielder,1139,6.420000000000001,Lille,France,70
+21,3,Woo-Yeong,Woo-Yeong Jeong,179,Jeong,,Midfielder,1140,6.420000000000001,Freiburg,Germany,69
+25,2,Harrison,Harrison Reed,181,Reed,-DR-MC-MR-,Midfielder,1141,6.42,Fulham,England,72
+31,3,Alfred,Alfred Finnbogason,184,Finnbogason,-FW-,Forward,1142,6.419999999999999,Augsburg,Germany,80
+23,5,Manuel Javier,Manu Vallejo,167,Vallejo Galván,,Forward,1143,6.417999999999999,Valencia,Spain,72
+31,3,Albin,Albin Ekdal,186,Ekdal,-MC-,Midfielder,1144,6.416666666666667,Sampdoria,Italy,82
+28,3,Francisco Román,Isco,176,Alarcón Suárez,-AMC-AML-AMR-FW-,Midfielder,1145,6.416666666666667,Real Madrid,Spain,79
+30,3,Kevin,Kevin Strootman,186,Strootman,-DMC-,Midfielder,1146,6.416666666666667,Marseille,France,78
+27,3,Lisandro,Lisandro Magallán,185,Magallán,-DC-,Defender,1147,6.416666666666667,Crotone,Italy,79
+25,3,Thomas,Thomas Strakosha,186,Strakosha,-GK-,Goalkeeper,1148,6.416666666666667,Lazio,Italy,78
+20,2,Charles,Charles Abi,71,Abi,-FW-,Forward,1149,6.415,Saint-Etienne,France,187
+18,2,Chrislain,Chrislain Matsima,192,Matsima,,Defender,1150,6.415,Monaco,France,0
+22,2,Luka,Luka Jovic,182,Jovic,-FW-,Forward,1151,6.415,Real Madrid,Spain,85
+28,2,Nemanja,Nemanja Gudelj,187,Gudelj,-MC-,Midfielder,1152,6.415,Sevilla,Spain,81
+25,2,Ngonda,Ngonda Muzinga,172,Muzinga,-DL-,Defender,1153,6.415,Dijon,France,76
+26,2,Victor,Victor Lindelöf,187,Lindelöf,-DC-DR-,Defender,1154,6.415,Manchester United,England,80
+29,3,Junior,Junior Messias,174,Messias,,Forward,1155,6.41,Crotone,Italy,68
+21,2,Kevin,Kevin Agudelo,178,Agudelo,-AMC-,Midfielder,1156,6.41,Spezia,Italy,0
+23,5,Mouctar,Mouctar Diakhaby,189,Diakhaby,-DC-,Defender,1157,6.4079999999999995,Valencia,Spain,78
+30,3,Lorenzo,Lorenzo Tonelli,183,Tonelli,-DC-,Defender,1158,6.406666666666667,Sampdoria,Italy,78
+29,2,Simone,Simone Zaza,186,Zaza,-FW-,Forward,1159,6.405,Torino,Italy,84
+26,2,Nathan,Nathan Redmond,173,Redmond,-AMC-AML-AMR-FW-,Midfielder,1160,6.404999999999999,Southampton,England,69
+32,2,Nemanja,Nemanja Matic,194,Matic,-DMC-,Midfielder,1161,6.404999999999999,Manchester United,England,85
+29,2,Roman,Roman Bürki,187,Bürki,-GK-,Goalkeeper,1162,6.404999999999999,Borussia Dortmund,Germany,85
+35,4,Álvaro,Álvaro Negredo,186,Negredo,-FW-,Forward,1163,6.4025,Cadiz,Spain,71
+31,4,Jorge,Jorge Miramón,175,Miramón,-DR-MR-,Defender,1164,6.4025,Levante,Spain,74
+27,5,Pere,Pere Pons,177,Pons,-DMC-,Midfielder,1165,6.401999999999999,Deportivo Alaves,Spain,70
+22,6,Jean-Ricner,Jean-Ricner Bellegarde,172,Bellegarde,-DMC-,Midfielder,1166,6.401666666666667,Strasbourg,France,70
+24,1,Mohamed,Mohamed Fares,186,Fares,-DL-ML-,Midfielder,1167,6.4,Lazio,Italy,75
+26,1,Saturnin,Saturnin Allagbe,187,Allagbe,,Goalkeeper,1168,6.4,Dijon,France,71
+25,1,Yeray,Yeray Álvarez,182,Álvarez,-DC-,Defender,1169,6.4,Athletic Bilbao,Spain,78
+21,5,Mounir,Mounir Chouiar,177,Chouiar,-AMC-AML-,Forward,1170,6.397999999999999,Dijon,France,75
+25,3,Robin,Robin Zentner,194,Zentner,-GK-,Goalkeeper,1171,6.396666666666667,Mainz 05,Germany,96
+22,3,Sam,Sam Field,185,Field,-DMC-,Midfielder,1172,6.396666666666667,West Bromwich Albion,England,65
+22,3,Marco,Marco Friedl,187,Friedl,-DC-DL-ML-,Defender,1173,6.396666666666666,Werder Bremen,Germany,82
+33,2,Gervais,Gervinho,179,Kouassi,-FW-ML-MR-,Forward,1174,6.395,Parma Calcio 1913,Italy,66
+30,2,Salif,Salif Sané,196,Sané,-DC-DMC-,Defender,1175,6.395,Schalke 04,Germany,85
+24,5,Eduardo,Edu Expósito,178,Expósito,-DMC-,Midfielder,1176,6.394,Eibar,Spain,68
+32,3,Daniel,Daniel Brosinski,178,Brosinski,-DL-DR-ML-MR-,Defender,1177,6.3933333333333335,Mainz 05,Germany,70
+21,3,Mamadou,Mamadou Coulibaly,183,Coulibaly,-MC-,Midfielder,1178,6.3933333333333335,Udinese,Italy,75
+26,3,Sanjin,Sanjin Prcic,181,Prcic,-MC-,Midfielder,1179,6.3933333333333335,Strasbourg,France,75
+29,1,Lucas,Lucas Vázquez,173,Vázquez,-DR-MR-,Midfielder,1180,6.39,Real Madrid,Spain,70
+32,2,Maya,Maya Yoshida,189,Yoshida,-DC-DR-,Defender,1181,6.39,Sampdoria,Italy,78
+24,6,Moussa,Moussa Dembele,183,Dembele,-FW-,Forward,1182,6.388333333333333,Lyon,France,73
+33,4,Hugo,Hugo Lloris,188,Lloris,-GK-,Goalkeeper,1183,6.387499999999999,Tottenham,England,82
+34,4,João Filipe Iria,João Moutinho,170,Santos Moutinho,-MC-,Midfielder,1184,6.387499999999999,Wolverhampton Wanderers,England,61
+30,6,Abdoulaye,Abdoulaye Bamba,182,Bamba,-DL-DR-MR-,Defender,1185,6.386666666666667,Angers,France,72
+20,5,Papa Ndiaga,Papa Ndiaga Yade,185,Yade,,Midfielder,1186,6.386000000000001,Metz,France,76
+35,5,Raúl,Raúl Albiol,187,Albiol,-DC-,Defender,1187,6.386000000000001,Villarreal,Spain,74
+24,3,Harry,Harry Winks,178,Winks,-DMC-,Midfielder,1188,6.383333333333333,Tottenham,England,65
+27,3,Jérôme,Jérôme Roussillon,175,Roussillon,-DL-ML-,Defender,1189,6.383333333333333,Wolfsburg,Germany,80
+27,2,Andreas,Andreas Cornelius,193,Cornelius,-FW-,Forward,1190,6.380000000000001,Parma Calcio 1913,Italy,91
+29,2,Daniel,Daniel Ginczek,191,Ginczek,-AMR-FW-,Forward,1191,6.380000000000001,Wolfsburg,Germany,85
+29,2,Bartolomeu,Bastos,184,Jacinto Quissanga,-DC-,Defender,1192,6.38,Lazio,Italy,77
+22,1,Christian,Christian Pulisic,172,Pulisic,-MC-ML-MR-,Midfielder,1193,6.38,Chelsea,England,69
+35,2,Marco,Marco Parolo,184,Parolo,-MC-,Midfielder,1194,6.38,Lazio,Italy,75
+25,3,Mattia,Mattia Zaccagni,177,Zaccagni,-AMC-FW-,Midfielder,1195,6.38,Verona,Italy,63
+24,6,Salomon,Junior Sambia,185,Sambia,-MC-MR-,Midfielder,1196,6.38,Montpellier,France,73
+27,1,Thorgan,Thorgan Hazard,175,Hazard,-FW-MC-ML-MR-,Midfielder,1197,6.38,Borussia Dortmund,Germany,71
+24,5,Simon,Simon Banza,189,Banza,,Forward,1198,6.378,Lens,France,77
+25,3,Kingsley,Kingsley Ehizibue,189,Ehizibue,-DR-MR-,Defender,1199,6.376666666666666,FC Koln,Germany,78
+25,3,Nathan,Nathan Aké,180,Aké,-DC-DL-DMC-,Defender,1200,6.376666666666666,Manchester City,England,75
+21,4,Dario,Dario Maresic,183,Maresic,,Defender,1201,6.375,Reims,France,74
+26,4,Iñaki,Iñaki Williams,186,Williams,-AMC-AML-AMR-FW-,Forward,1202,6.375,Athletic Bilbao,Spain,78
+32,2,Ivan,Ivan Radovanovic,186,Radovanovic,-DMC-,Midfielder,1203,6.375,Genoa,Italy,80
+18,2,Kays,Kays Ruiz-Atil,0,Ruiz-Atil,,Midfielder,1204,6.375,Paris Saint-Germain,France,0
+23,4,Quentin,Quentin Boisgard,174,Boisgard,-AMC-,Midfielder,1205,6.375,Lorient,France,75
+29,5,Deyverson Brum,Deyverson,185,Silva Acosta,-FW-,Forward,1206,6.374,Deportivo Alaves,Spain,78
+27,3,Patricio,Patric,184,Gabarrón Gil,-DC-DR-MR-,Defender,1207,6.373333333333334,Lazio,Italy,72
+30,3,Rafael,Rafael Czichos,187,Czichos,-DC-,Defender,1208,6.373333333333334,FC Koln,Germany,86
+29,4,Rodrigo,Rodrigo Moreno,182,Moreno,-FW-MC-ML-MR-,Forward,1209,6.370000000000001,Leeds,England,77
+30,1,Vasco,Vasco Regini,185,Regini,-DC-DL-,Defender,1210,6.37,Sampdoria,Italy,79
+25,2,Alessandro,Alessandro Deiola,189,Deiola,-MC-,Midfielder,1211,6.369999999999999,Spezia,Italy,85
+28,6,Ui-Jo,Hwang Ui-Jo,184,Hwang,-AMC-AML-AMR-,Forward,1212,6.368333333333333,Bordeaux,France,73
+29,3,Roger,Roger Martí,179,Martí,-FW-,Forward,1213,6.366666666666667,Levante,Spain,74
+19,5,Takefusa,Takefusa Kubo,173,Kubo,-AMC-AMR-,Midfielder,1214,6.366,Villarreal,Spain,67
+24,6,Lassana,Lassana Coulibaly,183,Coulibaly,-MC-,Midfielder,1215,6.364999999999999,Angers,France,77
+23,4,Pape Cheikh,Pape Cheikh Diop Gueye,180,Diop Gueye,-DMC-,Midfielder,1216,6.364999999999999,Dijon,France,68
+26,4,Javier,Javier Manquillo,178,Manquillo,-DL-DR-MR-,Defender,1217,6.3625,Newcastle United,England,76
+25,1,Kasim,Kasim Adams,190,Adams,-DC-,Defender,1218,6.36,Hoffenheim,Germany,86
+31,1,Sergio,Sergio León,178,León,-FW-,Forward,1219,6.36,Levante,Spain,73
+32,5,Takashi,Takashi Inui,169,Inui,-AMC-AML-AMR-,Midfielder,1220,6.36,Eibar,Spain,59
+25,2,Bryan,Bryan Cristante,186,Cristante,-MC-,Midfielder,1221,6.359999999999999,Roma,Italy,80
+27,3,Paul,Paul Pogba,191,Pogba,-MC-,Midfielder,1222,6.359999999999999,Manchester United,England,84
+31,3,Stefano,Stefano Okaka,186,Okaka,-FW-,Forward,1223,6.359999999999999,Udinese,Italy,82
+27,3,Timo,Timo Horn,192,Horn,-GK-,Goalkeeper,1224,6.359999999999999,FC Koln,Germany,90
+22,3,Tom,Tom Davies,180,Davies,-MC-,Midfielder,1225,6.359999999999999,Everton,England,70
+30,5,Valère,Valère Germain,180,Germain,-AML-AMR-FW-,Forward,1226,6.359999999999999,Marseille,France,73
+26,5,Julien,Julien Laporte,185,Laporte,-DC-,Defender,1227,6.358,Lorient,France,82
+27,3,Alireza,Alireza Jahanbakhsh,180,Jahanbakhsh,-AMC-AML-AMR-,Forward,1228,6.3566666666666665,Brighton,England,76
+30,3,Lukás,Lukás Hrádecky,192,Hrádecky,-GK-,Goalkeeper,1229,6.3566666666666665,Bayer Leverkusen,Germany,82
+23,5,Federico,Fede San Emeterio,174,San Emeterio Díaz,-DMC-,Midfielder,1230,6.356,Real Valladolid,Spain,68
+30,5,Stefan,Stefan Mitrovic,189,Mitrovic,-DC-,Defender,1231,6.356,Strasbourg,France,84
+21,4,Eddie,Eddie Nketiah,175,Nketiah,-FW-,Forward,1232,6.355,Arsenal,England,72
+25,4,Ignacio,Nacho Vidal,180,Vidal Miralles,-DR-,Defender,1233,6.355,Osasuna,Spain,75
+26,2,Jack,Jack O'Connell,190,O'Connell,-DC-,Defender,1234,6.355,Sheffield United,England,85
+19,3,Sinaly,Sinaly Diomande,0,Diomande,,Defender,1235,6.353333333333334,Lyon,France,0
+27,4,Sam,Sam Johnstone,193,Johnstone,-GK-,Goalkeeper,1236,6.352499999999999,West Bromwich Albion,England,85
+23,3,Jeremiah,Jeremiah St. Juste,184,St. Juste,-DC-DMC-DR-,Defender,1237,6.3500000000000005,Mainz 05,Germany,74
+27,3,Rade,Rade Krunic,184,Krunic,-AMC-,Midfielder,1238,6.3500000000000005,AC Milan,Italy,74
+23,2,Alpha,Alpha Sissoko,178,Sissoko,,Defender,1239,6.35,Saint-Etienne,France,68
+19,1,Bryan,Bryan Gil,175,Gil,,Forward,1240,6.35,Sevilla,Spain,60
+23,2,Issa,Issa Diop,194,Diop,-DC-,Defender,1241,6.35,West Ham,England,92
+26,4,Ivan,Ivan Cavaleiro,175,Cavaleiro,-AMC-AML-AMR-FW-,Forward,1242,6.35,Fulham,England,73
+25,2,Jacob,Jacob Laursen,179,Laursen,,Defender,1243,6.35,Arminia Bielefeld,Germany,76
+28,4,Jeison,Jeison Murillo,182,Murillo,-DC-,Defender,1244,6.35,Celta Vigo,Spain,78
+21,1,Nassim,Nassim Boujellab,182,Boujellab,-AMC-,Midfielder,1245,6.35,Schalke 04,Germany,77
+25,3,Ellyes,Ellyes Skhiri,185,Skhiri,-DMC-,Midfielder,1246,6.349999999999999,FC Koln,Germany,73
+30,6,Damien,Damien Le Tallec,187,Le Tallec,-DC-DMC-,Midfielder,1247,6.348333333333333,Montpellier,France,80
+21,4,Dara,Dara O'Shea,188,O'Shea,-DC-DR-,Defender,1248,6.3475,West Bromwich Albion,England,0
+26,4,John,John Lundstram,181,Lundstram,-DMC-,Midfielder,1249,6.347499999999999,Sheffield United,England,74
+24,3,Joachim,Joachim Andersen,192,Andersen,-DC-,Defender,1250,6.346666666666667,Lyon,France,90
+25,3,Luke,Luke Shaw,185,Shaw,-DC-DL-ML-,Defender,1251,6.346666666666667,Manchester United,England,75
+33,2,Salvatore,Salvatore Sirigu,192,Sirigu,-GK-,Goalkeeper,1252,6.345,Torino,Italy,80
+18,5,Ander,Ander Barrenetxea,178,Barrenetxea,-AML-,Forward,1253,6.344000000000001,Real Sociedad,Spain,75
+26,6,Alexander,Alexander Djiku,182,Djiku,-DC-DMC-DR-,Defender,1254,6.343333333333334,Strasbourg,France,81
+26,6,Haris,Haris Belkebla,177,Belkebla,-DMC-,Midfielder,1255,6.343333333333334,Brest,France,68
+29,3,Thomas,Thomas Monconduit,184,Monconduit,-DMC-,Midfielder,1256,6.343333333333334,Lorient,France,83
+26,3,Yannick,Yannick Gerhardt,184,Gerhardt,-DL-MC-ML-,Midfielder,1257,6.343333333333334,Wolfsburg,Germany,81
+27,4,Bobby,Bobby De Cordova-Reid,170,De Cordova-Reid,-FW-MC-ML-,Forward,1258,6.342499999999999,Fulham,England,68
+22,2,Aaron,Aaron Wan-Bissaka,183,Wan-Bissaka,-DR-MR-,Defender,1259,6.34,Manchester United,England,72
+30,3,Alessandro,Alessandro Tuia,185,Tuia,,Defender,1260,6.34,Benevento,Italy,78
+26,1,Gastón,Gastón Silva,185,Silva,-DC-DL-ML-,Defender,1261,6.34,SD Huesca,Spain,74
+26,2,Ross,Ross Barkley,189,Barkley,-MC-ML-MR-,Midfielder,1262,6.34,Chelsea,England,76
+19,2,Tanguy,Tanguy Coulibaly,175,Coulibaly,,Midfielder,1263,6.34,VfB Stuttgart,Germany,72
+29,1,Thiago,Thiago,174,Alcántara do Nascimento,-MC-,Midfielder,1264,6.34,Liverpool,England,70
+27,3,Davy,Davy Klaassen,179,Klaassen,-MC-ML-,Midfielder,1265,6.336666666666667,Werder Bremen,Germany,70
+23,3,Fredrik,Fredrik Jensen,183,Jensen,-AMC-,Midfielder,1266,6.336666666666666,Augsburg,Germany,81
+25,3,Niklas,Niklas Stark,190,Stark,-DC-DMC-,Defender,1267,6.336666666666666,Hertha Berlin,Germany,88
+25,2,Alejandro,Alex Berenguer,175,Berenguer Remiro,-DL-DR-FW-MC-ML-,Forward,1268,6.335,Torino,Italy,73
+19,2,Ivan,Ivan Ilic,185,Ilic,,Midfielder,1269,6.335,Verona,Italy,78
+24,2,Juan,Juan Ramos,180,Ramos,,Defender,1270,6.335,Spezia,Italy,72
+23,5,Iván,Iván Villar,183,Villar,-GK-,Goalkeeper,1271,6.333999999999999,Celta Vigo,Spain,76
+20,3,Dusan,Dusan Vlahovic,190,Vlahovic,-FW-,Forward,1272,6.333333333333333,Fiorentina,Italy,75
+33,3,Lucas Pezzini,Lucas Leiva,179,Leiva,-DC-MC-,Midfielder,1273,6.333333333333333,Lazio,Italy,74
+31,3,Marco,Marco Reus,180,Reus,-FW-MC-ML-MR-,Forward,1274,6.333333333333333,Borussia Dortmund,Germany,71
+29,4,Marcos Mauro,Marcos Mauro,190,López Gutiérrez,,Defender,1275,6.3325,Cadiz,Spain,84
+21,3,Reece,Reece Oxford,190,Oxford,-DC-DMC-,Midfielder,1276,6.330000000000001,Augsburg,Germany,86
+27,1,Álvaro,Álvaro Morata,190,Morata,-AML-FW-,Forward,1277,6.33,Juventus,Italy,84
+26,1,Aymeric,Aymeric Laporte,191,Laporte,-DC-DL-,Defender,1278,6.33,Manchester City,England,86
+19,5,Jonathan,Jonathan Panzo,185,Panzo,-DC-,Defender,1279,6.33,Dijon,France,0
+25,4,Naby,Naby Keita,172,Keita,-MC-,Midfielder,1280,6.33,Liverpool,England,64
+30,1,Petar,Petar Skuletic,192,Skuletic,-FW-,Forward,1281,6.33,Montpellier,France,89
+26,2,Riccardo,Riccardo Improta,179,Improta,,Forward,1282,6.33,Benevento,Italy,73
+31,3,Ivan,Ivan Perisic,186,Perisic,-AMC-AML-AMR-,Midfielder,1283,6.326666666666667,Inter,Italy,80
+29,3,John,John Fleck,170,Fleck,-MC-,Midfielder,1284,6.326666666666667,Sheffield United,England,72
+24,5,Tinotenda,Tinotenda Kadewere,183,Kadewere,-FW-,Forward,1285,6.3260000000000005,Lyon,France,72
+28,3,Carlos,Carlos Clerc,182,Clerc,-DL-ML-,Defender,1286,6.323333333333333,Levante,Spain,72
+27,3,Charlie,Charlie Taylor,176,Taylor,-DL-ML-,Defender,1287,6.323333333333333,Burnley,England,70
+29,3,Tom,Tom Cairney,186,Cairney,-MC-MR-,Midfielder,1288,6.323333333333333,Fulham,England,84
+23,2,Amadou,Amadou Diawara,183,Diawara,-DMC-,Midfielder,1289,6.32,Roma,Italy,75
+21,1,Andrea,Andrea Danzi,175,Danzi,-MC-,Midfielder,1290,6.32,Verona,Italy,0
+23,4,Anthony,Anthony Caci,186,Caci,-DC-DL-ML-,Defender,1291,6.32,Strasbourg,France,74
+23,3,Brais,Brais Méndez,187,Méndez,-AMC-AMR-,Midfielder,1292,6.32,Celta Vigo,Spain,76
+22,2,Fabian,Fabian Kunze,190,Kunze,,Midfielder,1293,6.32,Arminia Bielefeld,Germany,76
+22,1,Kevin,Kevin Rüegg,173,Rüegg,,Midfielder,1294,6.32,Verona,Italy,77
+21,1,Lucas,Tuta,184,Silva Melo,,Defender,1295,6.32,Eintracht Frankfurt,Germany,75
+30,3,Matteo,Matteo Darmian,182,Darmian,-DC-DL-DR-ML-MR-,Defender,1296,6.32,Parma Calcio 1913,Italy,70
+26,4,Sébastien,Sébastien Haller,190,Haller,-FW-,Forward,1297,6.32,West Ham,England,82
+23,4,Bingourou,Bingourou Kamara,196,Kamara,-GK-,Goalkeeper,1298,6.317500000000001,Strasbourg,France,92
+27,3,Juan,Juan Bernat,177,Bernat,-DL-MC-ML-,Defender,1299,6.316666666666666,Paris Saint-Germain,France,67
+27,2,Joseph Alfred,Joseph Alfred Duncan,178,Duncan,-DMC-,Midfielder,1300,6.3149999999999995,Fiorentina,Italy,78
+22,5,Colin,Colin Dagba,170,Dagba,-DR-,Defender,1301,6.314,Paris Saint-Germain,France,62
+29,5,Lionel,Lionel Carole,182,Carole,-DL-ML-,Defender,1302,6.314,Strasbourg,France,79
+24,5,Aníbal,Aníbal Chalá,178,Chalá,,Defender,1303,6.313999999999999,Dijon,France,70
+19,5,Willem,Willem Geubbels,185,Geubbels,,Forward,1304,6.312,Monaco,France,72
+41,2,Alberto,Alberto Cifuentes,189,Cifuentes,,Goalkeeper,1305,6.3100000000000005,Cadiz,Spain,80
+28,2,Bouna,Bouna Sarr,177,Sarr,-DR-MC-ML-MR-,Defender,1306,6.3100000000000005,Marseille,France,65
+30,2,Marvin,Marvin Zeegelaar,186,Zeegelaar,-DL-ML-,Defender,1307,6.3100000000000005,Udinese,Italy,84
+29,1,Álvaro,Álvaro Giménez,183,Giménez,-FW-,Forward,1308,6.31,Cadiz,Spain,83
+28,3,Federico,Federico Ceccherini,186,Ceccherini,-DC-,Defender,1309,6.31,Fiorentina,Italy,72
+33,3,Martín,Martín Cáceres,180,Cáceres,-DC-DL-DR-MR-,Defender,1310,6.31,Fiorentina,Italy,78
+22,6,Dereck,Dereck Kutesa,176,Kutesa,-AMR-,Midfielder,1311,6.308333333333334,Reims,France,67
+32,4,Adam,Adam Lallana,172,Lallana,-AMC-AML-AMR-,Midfielder,1312,6.3075,Brighton,England,73
+20,6,Andy,Andy Pelmard,180,Pelmard,-DC-,Defender,1313,6.3066666666666675,Nice,France,69
+23,3,Javier,Javier Ontiveros,170,Ontiveros,-AML-AMR-,Midfielder,1314,6.3066666666666675,SD Huesca,Spain,75
+23,3,Jesús,Jesús Vallejo,184,Vallejo,-DC-,Defender,1315,6.3066666666666675,Granada,Spain,79
+22,2,Dimitris,Dimitris Limnios,180,Limnios,-AMR-,Midfielder,1316,6.305,FC Koln,Germany,71
+23,2,Iñigo,Iñigo Córdoba,180,Córdoba,-AML-,Midfielder,1317,6.305,Athletic Bilbao,Spain,76
+30,3,Artur,Artur Ionita,186,Ionita,-AMC-,Midfielder,1318,6.303333333333334,Benevento,Italy,75
+25,3,Kaan,Kaan Ayhan,184,Ayhan,-DC-DMC-,Defender,1319,6.303333333333334,Sassuolo,Italy,84
+23,3,Sam,Sam Lammers,189,Lammers,-FW-,Forward,1320,6.303333333333334,Atalanta,Italy,77
+22,4,Eberechi,Eberechi Eze,0,Eze,-AMC-AML-AMR-,Midfielder,1321,6.3025,Crystal Palace,England,0
+32,3,Kamil,Kamil Glik,190,Glik,-DC-,Defender,1322,6.300000000000001,Benevento,Italy,80
+23,3,Ainsley,Ainsley Maitland-Niles,177,Maitland-Niles,-DL-DR-MC-ML-MR-,Midfielder,1323,6.3,Arsenal,England,71
+28,1,Fabian,Fabian Schär,188,Schär,-DC-,Defender,1324,6.3,Newcastle United,England,84
+17,3,Pedro,Pedri,174,González,,Midfielder,1325,6.3,Barcelona,Spain,60
+24,3,Philipp,Philipp Lienhart,189,Lienhart,-DC-,Defender,1326,6.3,Freiburg,Germany,83
+26,3,Tommaso,Tommaso Augello,180,Augello,-DL-,Defender,1327,6.3,Sampdoria,Italy,70
+29,5,Sergio,Sergi Guardiola,184,Guardiola Navarro,-FW-,Forward,1328,6.298,Real Valladolid,Spain,78
+27,4,Iker,Iker Muniain,170,Muniain,-AMC-AML-AMR-,Forward,1329,6.2975,Athletic Bilbao,Spain,65
+24,3,Nahitan,Nahitan Nández,172,Nández,-DMC-MR-,Midfielder,1330,6.296666666666667,Cagliari,Italy,70
+21,5,Zaydou,Zaydou Youssouf,182,Youssouf,-AMC-AMR-,Midfielder,1331,6.296,Saint-Etienne,France,81
+23,2,Rodrigo,Rodrigo Bentancur,187,Bentancur,-MC-,Midfielder,1332,6.295,Juventus,Italy,72
+30,2,Sergi,Sergi Enrich,181,Enrich,-FW-,Forward,1333,6.295,Eibar,Spain,77
+30,2,Tolgay,Tolgay Arslan,180,Arslan,-MC-,Midfielder,1334,6.295,Udinese,Italy,77
+21,3,Francisco,Fran Beltrán,170,Beltrán,-DMC-,Midfielder,1335,6.293333333333333,Celta Vigo,Spain,66
+24,3,Lukas,Lukas Klostermann,187,Klostermann,-DC-DL-DR-MR-,Defender,1336,6.293333333333333,RasenBallsport Leipzig,Germany,88
+34,3,Manuel,Manuel Neuer,193,Neuer,-GK-,Goalkeeper,1337,6.293333333333333,Bayern Munich,Germany,92
+33,5,Andrés,Andrés Fernández,187,Fernández,-GK-,Goalkeeper,1338,6.292,SD Huesca,Spain,82
+29,5,Ambroise,Ambroise Oyongo,176,Oyongo,-DL-DR-ML-,Defender,1339,6.290000000000001,Montpellier,France,70
+28,3,Bartosz,Bartosz Bereszynski,183,Bereszynski,-DC-DR-,Defender,1340,6.29,Sampdoria,Italy,77
+27,4,Dimitri,Dimitri Foulquier,183,Foulquier,-DL-DR-MR-,Defender,1341,6.29,Granada,Spain,72
+29,3,Luigi,Luigi Sepe,191,Sepe,-GK-,Goalkeeper,1342,6.29,Parma Calcio 1913,Italy,90
+20,1,Marvin Olawale,Marvin Park,0,Akinlabi Park,,Midfielder,1343,6.29,Real Madrid,Spain,0
+28,5,Renaud,Renaud Emond,185,Emond,-FW-,Forward,1344,6.287999999999999,Nantes,France,76
+23,2,Enock,Enock Kwateng,183,Kwateng,-DR-MR-,Defender,1345,6.285,Bordeaux,France,75
+18,2,Ki-Jana,Ki-Jana Hoever,180,Hoever,,Defender,1346,6.285,Wolverhampton Wanderers,England,65
+36,2,Thiago Emiliano,Thiago Silva,183,da Silva,-DC-,Defender,1347,6.285,Chelsea,England,79
+26,6,Abdoul Kader,Abdoul Kader Bamba,0,Bamba,-AML-AMR-,Forward,1348,6.283333333333332,Nantes,France,0
+32,4,Iñigo,Iñigo Pérez,178,Pérez,-DL-MC-ML-,Midfielder,1349,6.282500000000001,Osasuna,Spain,74
+23,4,Javier,Javi Sánchez,186,Sánchez de Felipe,-DC-,Defender,1350,6.282500000000001,Real Valladolid,Spain,71
+26,1,Alan,Alan Empereur,186,Empereur,-DC-,Defender,1351,6.28,Verona,Italy,82
+19,3,Borja,Borja Sainz,178,Sainz,,Midfielder,1352,6.28,Deportivo Alaves,Spain,75
+30,6,Jonas,Jonas Martin,184,Martin,-MC-ML-,Midfielder,1353,6.28,Rennes,France,77
+24,1,Leonardo,Léo Duarte,183,Campos Duarte da Silva,-DC-,Defender,1354,6.28,AC Milan,Italy,76
+22,2,Ridle,Ridle Baku,176,Baku,-DMC-DR-MR-,Midfielder,1355,6.28,Mainz 05,Germany,72
+27,1,Sead,Sead Kolasinac,183,Kolasinac,-DC-DL-ML-,Defender,1356,6.28,Arsenal,England,85
+28,3,Yoshinori,Yoshinori Muto,178,Muto,-FW-,Forward,1357,6.28,Eibar,Spain,72
+23,5,Mathieu,Mathieu Cafaro,170,Cafaro,-AMC-AML-AMR-,Midfielder,1358,6.276000000000001,Reims,France,60
+29,2,Jonathan,Jony,179,Rodríguez Menéndez,-ML-MR-,Forward,1359,6.275,Osasuna,Spain,76
+27,2,Stefano,Stefano Denswil,188,Denswil,-DC-DL-,Defender,1360,6.275,Bologna,Italy,81
+30,5,Darío,Darío Benedetto,177,Benedetto,-FW-,Forward,1361,6.274000000000001,Marseille,France,75
+27,5,Filip,Filip Malbasic,182,Malbasic,,Forward,1362,6.274,Cadiz,Spain,79
+27,3,Christian,Christian Günter,185,Günter,-DL-ML-,Defender,1363,6.273333333333333,Freiburg,Germany,86
+19,3,Mason,Mason Greenwood,181,Greenwood,-AMR-FW-,Forward,1364,6.273333333333333,Manchester United,England,70
+29,5,Jordan,Jordan Marié,177,Marié,-DMC-,Midfielder,1365,6.272,Dijon,France,73
+20,6,Ismael,Ismael Boura,173,Boura,,Defender,1366,6.271666666666667,Lens,France,68
+27,6,Valon,Valon Berisha,176,Berisha,-AMC-,Midfielder,1367,6.271666666666667,Reims,France,70
+26,6,Paul,Paul Nardi,187,Nardi,-GK-,Goalkeeper,1368,6.271666666666666,Lorient,France,77
+23,1,Aarón,Aarón Martín,178,Martín,-DL-ML-,Defender,1369,6.27,Mainz 05,Germany,68
+34,1,Christian,Christian Fuchs,187,Fuchs,-DC-DL-ML-,Defender,1370,6.27,Leicester,England,89
+24,2,Hee-Chan,Hee-Chan Hwang,177,Hwang,-AML-FW-,Forward,1371,6.27,RasenBallsport Leipzig,Germany,77
+23,3,Marcos André,Marcos de Sousa,184,de Sousa Mendonça,,Forward,1372,6.27,Real Valladolid,Spain,78
+30,2,Miralem,Miralem Pjanic,178,Pjanic,-MC-,Midfielder,1373,6.27,Barcelona,Spain,72
+29,4,Néstor,Néstor Araújo,188,Araújo,-DC-,Defender,1374,6.27,Celta Vigo,Spain,87
+18,1,Nick,Nick Woltemade,198,Woltemade,,Forward,1375,6.27,Werder Bremen,Germany,75
+23,1,Ousmane,Ousmane Dembélé,178,Dembélé,-AMC-AML-AMR-,Forward,1376,6.27,Barcelona,Spain,67
+32,1,Radja,Radja Nainggolan,176,Nainggolan,-MC-,Midfielder,1377,6.27,Inter,Italy,65
+25,3,Stefano,Stefano Sensi,168,Sensi,-AMC-,Midfielder,1378,6.27,Inter,Italy,62
+34,4,Roberto,Roberto Jiménez,192,Jiménez,-GK-,Goalkeeper,1379,6.2675,Real Valladolid,Spain,94
+22,3,Aymen,Aymen Barkok,188,Barkok,-AMC-,Midfielder,1380,6.266666666666667,Eintracht Frankfurt,Germany,78
+29,3,Lukasz,Lukasz Skorupski,187,Skorupski,-GK-,Goalkeeper,1381,6.266666666666667,Bologna,Italy,84
+24,2,Dele,Dele Alli,188,Alli,-FW-MC-ML-,Midfielder,1382,6.265000000000001,Tottenham,England,76
+25,4,Nicolas,Nicolas Pépé,183,Pépé,-AMR-FW-,Forward,1383,6.262499999999999,Arsenal,England,73
+36,6,Jérémy,Jérémy Morel,172,Morel,-DC-DL-,Defender,1384,6.261666666666667,Lorient,France,71
+28,3,Cristiano,Cristiano Biraghi,185,Biraghi,-DL-ML-,Defender,1385,6.260000000000001,Fiorentina,Italy,78
+30,3,Kevin,Kevin Long,188,Long,-DC-,Defender,1386,6.260000000000001,Burnley,England,83
+21,3,Vicente,Vicente Esquerdo,182,Esquerdo,,Midfielder,1387,6.260000000000001,Valencia,Spain,75
+17,1,Alkhaly Momo,Alkhaly Momo Cissé,178,Cissé,,Midfielder,1388,6.26,VfB Stuttgart,Germany,64
+24,1,Christian,Christian Oliva,178,Oliva,,Midfielder,1389,6.26,Cagliari,Italy,77
+28,2,Jacopo,Jacopo Sala,181,Sala,-DL-DR-MC-MR-,Defender,1390,6.26,Spezia,Italy,75
+27,1,Mattia,Mattia De Sciglio,182,De Sciglio,-DL-DR-ML-MR-,Defender,1391,6.26,Juventus,Italy,78
+27,2,Omar,Omar Mascarell,181,Mascarell,-DMC-,Midfielder,1392,6.26,Schalke 04,Germany,76
+31,2,Romain,Romain Amalfitano,175,Amalfitano,-MC-MR-,Midfielder,1393,6.26,Dijon,France,71
+20,2,Vitor,Vitinha,172,Machado Ferreira,,Midfielder,1394,6.26,Wolverhampton Wanderers,England,64
+26,5,Thomas,Thomas Foket,177,Foket,-DR-MR-,Defender,1395,6.258,Reims,France,72
+25,3,Franklin,Franklin Wadja,185,Wadja,,Midfielder,1396,6.256666666666667,Lorient,France,83
+22,2,Mehdi,Mehdi Léris,186,Léris,-MC-MR-,Midfielder,1397,6.255,Sampdoria,Italy,78
+28,3,Simeon Tochukwu,Simy,198,Nwankwo,-FW-,Forward,1398,6.253333333333334,Crotone,Italy,84
+28,3,Juan Cruz,Juan Cruz,180,Álvaro Armado,,Defender,1399,6.253333333333333,Osasuna,Spain,79
+29,4,Kyle,Kyle Bartley,185,Bartley,-DC-,Defender,1400,6.2525,West Bromwich Albion,England,70
+34,4,Augusto,Augusto Fernández,177,Fernández,-MC-MR-,Midfielder,1401,6.25,Cadiz,Spain,73
+26,3,Ben,Ben Osborn,176,Osborn,-DL-MC-ML-MR-,Midfielder,1402,6.25,Sheffield United,England,75
+22,1,Keinan,Keinan Davis,191,Davis,-FW-,Forward,1403,6.25,Aston Villa,England,68
+29,1,Martín,Martín Montoya,175,Montoya,-DL-DR-MR-,Defender,1404,6.25,Real Betis,Spain,73
+27,1,Nico,Nico Schulz,181,Schulz,-DL-ML-,Defender,1405,6.25,Borussia Dortmund,Germany,83
+29,3,Pascal,Pascal Groß,181,Groß,-FW-MC-MR-,Midfielder,1406,6.25,Brighton,England,78
+27,1,Ryder,Ryder,182,Matos Santos,-AMC-AML-AMR-FW-,Forward,1407,6.25,Udinese,Italy,79
+24,1,Thomas,Thomas Lemar,171,Lemar,-AMC-AML-AMR-,Midfielder,1408,6.25,Atletico Madrid,Spain,63
+34,2,Yuto,Yuto Nagatomo,170,Nagatomo,-DL-DR-ML-MR-,Defender,1409,6.25,Marseille,France,68
+27,4,Nemanja,Nemanja Radoja,186,Radoja,-DMC-,Midfielder,1410,6.2475000000000005,Levante,Spain,77
+30,4,David,David Timor,185,Timor,-DC-MC-,Midfielder,1411,6.2475,Getafe,Spain,80
+29,3,Dedryck,Dedryck Boyata,188,Boyata,-DC-,Defender,1412,6.246666666666667,Hertha Berlin,Germany,84
+23,3,Donny,Donny van de Beek,184,van de Beek,-MC-,Midfielder,1413,6.246666666666666,Manchester United,England,74
+20,3,Ferran,Ferran Torres,184,Torres,-AMR-,Forward,1414,6.246666666666666,Manchester City,England,77
+24,2,Aitor,Aitor Ruibal,176,Ruibal,-MR-,Forward,1415,6.245,Real Betis,Spain,74
+26,2,Jean Eudes,Jean Eudes Aholou,186,Aholou,-DMC-,Midfielder,1416,6.245,Monaco,France,71
+28,6,Pablo,Pablo Sarabia,174,Sarabia,-DL-FW-MC-ML-MR-,Midfielder,1417,6.245,Paris Saint-Germain,France,70
+31,2,Marco,Marco Höger,182,Höger,-DC-DR-MC-,Midfielder,1418,6.244999999999999,FC Koln,Germany,83
+26,5,Tony,Tony Mauricio,169,Mauricio,,Midfielder,1419,6.244,Lens,France,67
+22,3,Alexis,Alexis Claude Maurice,174,Claude Maurice,-AMC-AML-,Forward,1420,6.243333333333333,Nice,France,62
+35,6,Jimmy,Jimmy Briand,181,Briand,-FW-ML-MR-,Forward,1421,6.243333333333333,Bordeaux,France,84
+27,5,Pablo,Pablo Hervías,174,Hervías,-AMR-,Midfielder,1422,6.242,Real Valladolid,Spain,67
+30,1,Bruno,Bruno Peres,178,da Silva Peres,-DL-DR-ML-MR-,Defender,1423,6.24,Roma,Italy,72
+23,1,Jacopo,Jacopo Segre,185,Segre,,Midfielder,1424,6.24,Torino,Italy,0
+21,1,Nicolas,Nicolas Cozza,178,Cozza,-DC-,Defender,1425,6.24,Montpellier,France,72
+28,1,Riccardo,Riccardo Saponara,184,Saponara,-AMC-,Midfielder,1426,6.24,Fiorentina,Italy,73
+25,1,Seko,Seko Fofana,183,Fofana,-MC-,Midfielder,1427,6.24,Lens,France,74
+26,4,David,Jason,178,Remeseiro Salgueiro,-MR-,Midfielder,1428,6.239999999999999,Valencia,Spain,65
+24,3,Julian,Julian Brandt,185,Brandt,-FW-MC-ML-MR-,Midfielder,1429,6.239999999999999,Borussia Dortmund,Germany,83
+35,4,Lukasz,Lukasz Fabianski,190,Fabianski,-GK-,Goalkeeper,1430,6.2375,West Ham,England,83
+27,3,Ayoze,Ayoze Pérez,178,Pérez,-AMC-AML-AMR-FW-,Forward,1431,6.236666666666667,Leicester,England,72
+35,2,Borja,Borja Valero,175,Valero,-MC-ML-,Midfielder,1432,6.235,Fiorentina,Italy,73
+28,4,Cristian,Cristian Battocchio,169,Battocchio,-DMC-,Midfielder,1433,6.235,Brest,France,64
+22,4,Jon,Jon Morcillo,183,Morcillo,,Midfielder,1434,6.235,Athletic Bilbao,Spain,72
+29,3,Marcos,Marcos Alonso,188,Alonso,-DC-DL-ML-,Defender,1435,6.233333333333334,Chelsea,England,84
+31,4,Jaime,Jaime Mata,185,Mata,-FW-,Forward,1436,6.23,Getafe,Spain,79
+34,3,James,James Milner,175,Milner,-DL-DR-MC-ML-MR-,Midfielder,1437,6.23,Liverpool,England,70
+32,1,Jaume,Jaume Costa,171,Costa,-DL-DR-ML-,Defender,1438,6.23,Villarreal,Spain,62
+24,2,Kelechi,Kelechi Iheanacho,185,Iheanacho,-AMC-FW-,Forward,1439,6.23,Leicester,England,82
+24,1,Ruben,Ruben Loftus-Cheek,191,Loftus-Cheek,-MC-ML-MR-,Midfielder,1440,6.23,Chelsea,England,88
+25,6,Corentin,Corentin Jean,170,Jean,-AML-AMR-FW-,Forward,1441,6.228333333333333,Lens,France,65
+24,5,Nemanja,Nemanja Radonjic,185,Radonjic,-AML-AMR-,Midfielder,1442,6.228,Marseille,France,77
+25,4,Adam,Adam Webster,191,Webster,-DC-,Defender,1443,6.227499999999999,Brighton,England,75
+22,3,Deyovaisio,Deyovaisio Zeefuik,177,Zeefuik,-DR-,Defender,1444,6.226666666666667,Hertha Berlin,Germany,76
+19,2,Joshua,Joshua Zirkzee,193,Zirkzee,,Forward,1445,6.225,Bayern Munich,Germany,84
+28,4,Lewis,Lewis Dunk,192,Dunk,-DC-,Defender,1446,6.225,Brighton,England,88
+30,5,Stevan,Stevan Jovetic,183,Jovetic,-AMC-AML-FW-,Forward,1447,6.224000000000001,Monaco,France,79
+26,3,Leandro,Leandro Paredes,180,Paredes,-DMC-,Midfielder,1448,6.223333333333333,Paris Saint-Germain,France,75
+26,4,Jordan,Jordan Pickford,185,Pickford,-GK-,Goalkeeper,1449,6.2225,Everton,England,77
+23,5,Irvin,Irvin Cardona,185,Cardona,-AML-FW-,Forward,1450,6.220000000000001,Brest,France,76
+30,2,Maxime,Maxime Le Marchand,185,Le Marchand,-DC-DL-,Defender,1451,6.220000000000001,Fulham,England,78
+19,1,Jacob,Jacob Ramsey,0,Ramsey,-MC-,Midfielder,1452,6.22,Aston Villa,England,0
+28,1,Manolo,Manolo Gabbiadini,181,Gabbiadini,-AMC-AML-AMR-FW-,Forward,1453,6.22,Sampdoria,Italy,75
+19,1,Marco,Marco Ludivin Majouga,182,Ludivin Majouga,,Forward,1454,6.22,Nimes,France,78
+32,2,Tomás,Tomás Pina,184,Pina,-MC-,Midfielder,1455,6.22,Deportivo Alaves,Spain,78
+21,4,Eddy,Eddy Sylvestre,174,Sylvestre,,Midfielder,1456,6.2175,Nice,France,69
+34,3,Manuel Alejandro,Manu García,182,García Sánchez,-DMC-,Midfielder,1457,6.216666666666666,Deportivo Alaves,Spain,74
+30,3,Tobias,Tobias Strobl,188,Strobl,-DC-DMC-DR-,Midfielder,1458,6.216666666666666,Augsburg,Germany,77
+18,2,Lorenzo,Lorenzo Colombo,183,Colombo,,Forward,1459,6.215,AC Milan,Italy,74
+22,2,Ragnar,Ragnar Ache,182,Ache,-FW-,Forward,1460,6.215,Eintracht Frankfurt,Germany,77
+33,3,David,David Luiz,189,Luiz Moreira Marinho,-DC-DMC-,Defender,1461,6.213333333333334,Arsenal,England,84
+28,3,Matej,Matej Vydra,180,Vydra,-AMC-AML-FW-,Forward,1462,6.213333333333334,Burnley,England,71
+24,3,Rodrigo,Rodrigo Becão,191,Nascimiento Franca,-DC-,Defender,1463,6.213333333333334,Udinese,Italy,79
+25,4,Domingos de Sousa,Domingos Duarte,192,Coutinho Meneses Duarte,-DC-,Defender,1464,6.2125,Granada,Spain,80
+24,2,Alexander,Alexander Sørloth,195,Sørloth,-FW-,Forward,1465,6.21,RasenBallsport Leipzig,Germany,90
+20,1,Batista,Batista Mendy,191,Mendy,,Defender,1466,6.21,Nantes,France,82
+27,2,Frederico,Fred,169,Rodrigues de Paula Santos,-MC-,Midfielder,1467,6.21,Manchester United,England,64
+30,1,Héctor,Héctor Herrera,185,Herrera,-MC-,Midfielder,1468,6.21,Atletico Madrid,Spain,80
+17,4,Lucas,Lucas Gourna-Douath,185,Gourna-Douath,,Midfielder,1469,6.21,Saint-Etienne,France,0
+27,1,Mario,Mario Lemina,184,Lemina,-DMC-,Midfielder,1470,6.21,Fulham,England,85
+21,1,Matteo,Matteo Ahlinvi,183,Ahlinvi,,Midfielder,1471,6.21,Nimes,France,68
+22,1,Robson,Robson Bambu,186,Alves de Barros,-DC-,Defender,1472,6.21,Nice,France,74
+24,2,Sasa,Sasa Lukic,183,Lukic,-MC-,Midfielder,1473,6.21,Torino,Italy,77
+30,2,Sebastian,Sebastian Rudy,180,Rudy,-DR-MC-MR-,Midfielder,1474,6.21,Schalke 04,Germany,74
+29,5,Juan Carlos,Juan Carlos Real,183,Real,,Midfielder,1475,6.208,SD Huesca,Spain,73
+19,3,Evann,Evann Guessand,185,Guessand,,Forward,1476,6.206666666666667,Nice,France,0
+24,5,Marshall,Marshall Munetsi,187,Munetsi,-DMC-,Midfielder,1477,6.206,Reims,France,83
+24,2,Milos,Milos Vulic,183,Vulic,,Midfielder,1478,6.205,Crotone,Italy,0
+30,3,Ilija,Ilija Nestorovski,183,Nestorovski,-FW-,Forward,1479,6.203333333333333,Udinese,Italy,74
+27,3,Jean-Daniel,Jean-Daniel Akpa Akpro,180,Akpa Akpro,-DR-MC-ML-MR-,Midfielder,1480,6.203333333333333,Lazio,Italy,70
+22,4,Jamal,Jamal Lewis,178,Lewis,-DL-ML-,Defender,1481,6.2025,Newcastle United,England,70
+30,1,Darko,Darko Lazovic,181,Lazovic,-ML-MR-,Midfielder,1482,6.2,Verona,Italy,66
+20,3,Jonathan,Jonathan Burkardt,181,Burkardt,,Forward,1483,6.2,Mainz 05,Germany,76
+25,1,Lorenzo,Lorenzo Venuti,176,Venuti,-DC-DL-DR-MR-,Defender,1484,6.2,Fiorentina,Italy,65
+19,3,Marley,Marley Aké,0,Aké,,Midfielder,1485,6.2,Marseille,France,0
+21,1,Trevoh,Trevoh Chalobah,190,Chalobah,-DMC-DR-,Midfielder,1486,6.2,Lorient,France,75
+34,3,Ragnar,Ragnar Klavan,187,Klavan,-DC-,Defender,1487,6.196666666666668,Cagliari,Italy,85
+23,6,Pedro,Pedro Chirivella,178,Chirivella,-DMC-,Midfielder,1488,6.196666666666665,Nantes,France,66
+28,4,Romaine,Romaine Sawyers,175,Sawyers,-MC-ML-,Midfielder,1489,6.195,West Bromwich Albion,England,67
+21,4,Tyler,Tyler Roberts,180,Roberts,-AMC-FW-,Forward,1490,6.195,Leeds,England,75
+19,2,Yann,Yann Gboho,0,Gboho,,Midfielder,1491,6.195,Rennes,France,0
+21,5,Stéphane,Stéphane Diarra,173,Diarra,,Midfielder,1492,6.194000000000001,Lorient,France,58
+25,3,Alberto,Alberto Grassi,183,Grassi,-MC-,Midfielder,1493,6.1933333333333325,Parma Calcio 1913,Italy,75
+25,4,Jon,Jon Bautista,180,Bautista,-FW-,Forward,1494,6.1925,Real Sociedad,Spain,72
+24,4,Umut,Umut Bozok,178,Bozok,-FW-,Forward,1495,6.1925,Lorient,France,70
+18,1,Enzo,Enzo Millot,173,Millot,,Forward,1496,6.19,Monaco,France,0
+20,3,Francisco António,Trincão,184,Machado Trincão,-AMR-,Forward,1497,6.19,Barcelona,Spain,70
+20,1,José Manuel,José Manuel Fontán,0,Fontán,,Defender,1498,6.19,Celta Vigo,Spain,0
+28,3,Karim,Karim Onisiwo,188,Onisiwo,-AML-AMR-FW-,Forward,1499,6.19,Mainz 05,Germany,85
+19,2,Bandiougou,Bandiougou Fadiga,0,Fadiga,,Midfielder,1500,6.1899999999999995,Paris Saint-Germain,France,0
+25,2,Youssouf,Youssouf Kone,174,Kone,-DL-,Defender,1501,6.1899999999999995,Elche,Spain,71
+22,3,Martin,Martin Erlic,192,Erlic,,Defender,1502,6.186666666666667,Spezia,Italy,78
+30,4,Jake,Jake Livermore,181,Livermore,-DC-DMC-,Midfielder,1503,6.1850000000000005,West Bromwich Albion,England,91
+25,2,Karol,Karol Linetty,176,Linetty,-MC-ML-MR-,Midfielder,1504,6.1850000000000005,Torino,Italy,73
+30,2,Víctor,Vitolo,185,Machín Pérez,-FW-MC-ML-MR-,Midfielder,1505,6.1850000000000005,Atletico Madrid,Spain,80
+22,4,Aurelien,Aurelien Scheidler,192,Scheidler,,Forward,1506,6.185,Dijon,France,89
+25,2,Stanislav,Stanislav Lobotka,170,Lobotka,-DMC-,Midfielder,1507,6.185,Napoli,Italy,64
+23,3,Steven,Steven Bergwijn,178,Bergwijn,-AMC-AML-AMR-FW-,Forward,1508,6.183333333333334,Tottenham,England,78
+20,4,Hianga'a,Hianga'a M'Bock,186,M'Bock,,Midfielder,1509,6.1825,Brest,France,82
+26,3,Abdoulaye,Abdoulaye Touré,188,Touré,-DMC-,Midfielder,1510,6.18,Nantes,France,84
+21,2,Arne,Arne Maier,186,Maier,-DMC-,Midfielder,1511,6.18,Hertha Berlin,Germany,82
+23,1,Breel,Breel Embolo,187,Embolo,-AMC-AMR-FW-,Forward,1512,6.18,Borussia M.Gladbach,Germany,88
+27,2,Filip,Filip Kostic,184,Kostic,-FW-ML-MR-,Midfielder,1513,6.18,Eintracht Frankfurt,Germany,82
+19,3,Flavius,Flavius Daniliuc,188,Daniliuc,,Defender,1514,6.18,Nice,France,0
+21,1,Jamie,Jamie Shackleton,168,Shackleton,-DMC-,Midfielder,1515,6.18,Leeds,England,65
+28,2,Jawad,Jawad El Yamiq,190,El Yamiq,-DC-,Defender,1516,6.18,Real Valladolid,Spain,83
+28,3,Kevin,Kevin Lasagna,185,Lasagna,-AML-FW-,Forward,1517,6.18,Udinese,Italy,80
+19,1,Niklas,Niklas Tauer,182,Tauer,,Midfielder,1518,6.18,Mainz 05,Germany,73
+29,2,Oliver,Oliver Norwood,180,Norwood,-MC-,Midfielder,1519,6.18,Sheffield United,England,75
+34,1,Olivier,Olivier Giroud,192,Giroud,-FW-,Forward,1520,6.18,Chelsea,England,93
+31,3,Sven,Sven Schipplock,186,Schipplock,-FW-,Forward,1521,6.18,Arminia Bielefeld,Germany,84
+21,3,Hannes,Hannes Wolf,179,Wolf,-AMC-,Midfielder,1522,6.176666666666667,Borussia M.Gladbach,Germany,68
+29,3,Patrick,Patrick Herrmann,179,Herrmann,-FW-ML-MR-,Forward,1523,6.176666666666667,Borussia M.Gladbach,Germany,70
+24,2,Daniele,Daniele Verde,168,Verde,-AML-AMR-,Forward,1524,6.175000000000001,Spezia,Italy,64
+21,5,Pape Alassane,Pape Alassane Gueye,183,Gueye,,Midfielder,1525,6.1739999999999995,Marseille,France,65
+26,3,Gonçalo,Gonçalo Paciência,184,Mendes Paciência,-FW-,Forward,1526,6.173333333333333,Schalke 04,Germany,70
+31,4,Sergio,Sergio Postigo,184,Postigo,-DC-,Defender,1527,6.1725,Levante,Spain,78
+27,4,Borja,Borja Iglesias,187,Iglesias,-FW-,Forward,1528,6.172499999999999,Real Betis,Spain,86
+30,1,Fabian,Fabian Delph,174,Delph,-DL-MC-ML-,Midfielder,1529,6.17,Everton,England,60
+27,1,Rodrigue Casimir,Casimir Ninga,186,Ninga,-AML-AMR-FW-,Forward,1530,6.17,Angers,France,81
+28,1,Yunus,Yunus Malli,179,Malli,-AMC-AML-AMR-FW-,Midfielder,1531,6.17,Wolfsburg,Germany,72
+27,3,Gonzalo,Gonzalo Escalante,182,Escalante,-DMC-,Midfielder,1532,6.169999999999999,Lazio,Italy,76
+25,3,Ondrej,Ondrej Duda,181,Duda,-AMC-FW-,Midfielder,1533,6.166666666666667,FC Koln,Germany,75
+21,3,Riccardo,Riccardo Sottil,180,Sottil,-AMR-,Forward,1534,6.166666666666667,Cagliari,Italy,75
+25,2,Bertrand,Bertrand Traoré,181,Traoré,-AMR-FW-,Forward,1535,6.165,Aston Villa,England,73
+30,2,Douglas Costa,Douglas Costa,172,de Souza,-MC-ML-MR-,Forward,1536,6.165,Juventus,Italy,70
+23,2,Suat,Suat Serdar,184,Serdar,-MC-,Midfielder,1537,6.165,Schalke 04,Germany,75
+0,2,Wilitty,Wilitty Younoussa,170,Younoussa,,Midfielder,1538,6.165,Dijon,France,65
+19,6,Dan,Dan Ndoye,183,Ndoye,,Forward,1539,6.163333333333334,Nice,France,78
+27,1,Íñigo,Íñigo Lekue,180,Lekue,-DL-DR-ML-MR-,Defender,1540,6.16,Athletic Bilbao,Spain,70
+24,1,Mahmoud,Mahmoud Dahoud,178,Dahoud,-MC-,Midfielder,1541,6.16,Borussia Dortmund,Germany,68
+26,2,Marvelous,Marvelous Nakamba,178,Nakamba,-DMC-,Midfielder,1542,6.16,Aston Villa,England,71
+25,3,Óliver,Óliver Torres,178,Torres,-MC-ML-MR-,Midfielder,1543,6.16,Sevilla,Spain,70
+19,1,Sergiño,Sergiño Dest,175,Dest,-DR-,Defender,1544,6.16,Barcelona,Spain,62
+24,2,Thilo,Thilo Kehrer,186,Kehrer,-DC-DR-MR-,Defender,1545,6.16,Paris Saint-Germain,France,76
+22,4,Maxime,Maxime Lopez,167,Lopez,-MC-MR-,Midfielder,1546,6.159999999999999,Marseille,France,58
+21,4,Yassine,Yassine Benrahou,0,Benrahou,-AMC-,Midfielder,1547,6.159999999999999,Nimes,France,0
+37,2,Goran,Goran Pandev,184,Pandev,-FW-MC-MR-,Forward,1548,6.154999999999999,Genoa,Italy,75
+26,4,Luis,Luis Rioja,175,Rioja,-ML-,Forward,1549,6.1525,Deportivo Alaves,Spain,68
+19,2,Alexis,Alexis Trouillet,175,Trouillet,,Midfielder,1550,6.15,Nice,France,65
+23,2,Cedric,Cedric Teuchert,182,Teuchert,-AMR-FW-,Forward,1551,6.15,Union Berlin,Germany,80
+25,2,Clément,Clément Lenglet,186,Lenglet,-DC-,Defender,1552,6.15,Barcelona,Spain,81
+26,2,Federico,Fede Vico,176,Vico Villegas,-MC-ML-,Midfielder,1553,6.15,Granada,Spain,70
+31,1,Franco,Franco Vázquez,187,Vázquez,-AMC-AML-AMR-FW-,Midfielder,1554,6.15,Sevilla,Spain,82
+26,2,Jack,Jack Stephens,185,Stephens,-DC-,Defender,1555,6.15,Southampton,England,75
+29,4,José Luis,Recio,183,García del Pozo,-MC-,Midfielder,1556,6.15,Eibar,Spain,74
+22,1,Merih,Merih Demiral,192,Demiral,-DC-,Defender,1557,6.15,Juventus,Italy,86
+28,4,Neeskens,Neeskens Kebano,170,Kebano,-AML-AMR-,Midfielder,1558,6.15,Fulham,England,65
+20,1,Radoslaw,Radoslaw Majecki,194,Majecki,,Goalkeeper,1559,6.15,Monaco,France,75
+29,2,Thomas,Thomas Delaney,182,Delaney,-DMC-,Midfielder,1560,6.15,Borussia Dortmund,Germany,79
+23,3,Benjamin,Benjamin Henrichs,183,Henrichs,-DL-DMC-DR-MR-,Defender,1561,6.1499999999999995,RasenBallsport Leipzig,Germany,79
+21,3,Martin,Martin Ødegaard,178,Ødegaard,-AMC-AMR-,Midfielder,1562,6.1499999999999995,Real Madrid,Spain,68
+25,3,Takumi,Takumi Minamino,174,Minamino,-AMC-FW-,Forward,1563,6.146666666666667,Liverpool,England,68
+19,5,Joris,Joris Chotard,179,Chotard,-DMC-,Midfielder,1564,6.146,Montpellier,France,70
+34,4,Sylvain,Sylvain Marveaux,172,Marveaux,-AMC-AML-AMR-FW-,Midfielder,1565,6.1450000000000005,Lorient,France,69
+24,2,Anastasios,Anastasios Donis,178,Donis,-AMC-AMR-FW-,Forward,1566,6.145,Reims,France,76
+20,2,Hamed Junior,Hamed Junior Traore,184,Traore,-AMC-AML-,Midfielder,1567,6.145,Sassuolo,Italy,77
+16,4,Mohamed,Mohamed Ali-Cho,0,Ali-Cho,,Midfielder,1568,6.145,Angers,France,0
+32,2,Samuel,Samuel Di Carmine,187,Di Carmine,-FW-,Forward,1569,6.145,Verona,Italy,78
+23,4,Jorge,Jorge de Frutos,173,de Frutos,,Midfielder,1570,6.140000000000001,Levante,Spain,72
+27,2,Keagan,Keagan Dolly,170,Dolly,-AMC-AML-,Midfielder,1571,6.140000000000001,Montpellier,France,70
+18,1,Lazar,Lazar Samardzic,184,Samardzic,,Midfielder,1572,6.14,RasenBallsport Leipzig,Germany,79
+22,1,Ridle,Ridle Baku,176,Baku,-DMC-DR-MR-,Midfielder,1573,6.14,Wolfsburg,Germany,72
+18,5,Maxence,Maxence Rivera,0,Rivera,,Forward,1574,6.138,Saint-Etienne,France,0
+28,3,Maxime,Maxime Poundjé,180,Poundjé,-DL-,Defender,1575,6.136666666666667,Bordeaux,France,74
+23,3,Nadiem,Nadiem Amiri,180,Amiri,-MC-ML-MR-,Midfielder,1576,6.136666666666667,Bayer Leverkusen,Germany,73
+20,5,Miguel,Miguel Baeza,0,Baeza,,Midfielder,1577,6.136,Celta Vigo,Spain,0
+29,5,Óscar,Óscar Plano,180,Plano,-AMC-AML-AMR-FW-,Forward,1578,6.136,Real Valladolid,Spain,72
+28,2,Simone,Simone Verdi,171,Verdi,-AMC-AML-AMR-FW-,Forward,1579,6.135,Torino,Italy,62
+32,3,Denis,Denis Odoi,178,Odoi,-DC-DL-DR-,Defender,1580,6.133333333333333,Fulham,England,72
+22,6,Houboulang,Houboulang Mendes,184,Mendes,-DR-,Defender,1581,6.133333333333333,Lorient,France,73
+32,3,Kévin,Kévin Monnet-Paquet,184,Monnet-Paquet,-FW-MC-ML-MR-,Forward,1582,6.133333333333333,Saint-Etienne,France,81
+22,2,Salih,Salih Özcan,182,Özcan,-AMC-,Midfielder,1583,6.130000000000001,FC Koln,Germany,74
+26,1,Federico,Federico Ricci,175,Ricci,-AML-AMR-,Midfielder,1584,6.13,Sassuolo,Italy,63
+26,2,Guillermo,Guillermo Maripán,193,Maripán,-DC-,Defender,1585,6.13,Monaco,France,84
+22,2,Lubomir,Lubomir Tupta,180,Tupta,,Forward,1586,6.13,Verona,Italy,72
+23,3,Enes,Enes Ünal,187,Ünal,-FW-,Forward,1587,6.126666666666666,Getafe,Spain,78
+27,2,Danny,Danny da Costa,187,da Costa,-DR-MR-,Defender,1588,6.125,Eintracht Frankfurt,Germany,85
+32,4,Nolan,Nolan Roux,182,Roux,-AML-AMR-FW-,Forward,1589,6.125,Nimes,France,81
+22,3,Mihai-Alexandru,Mihai-Alexandru Dobre,178,Dobre,,Midfielder,1590,6.123333333333334,Dijon,France,71
+33,3,Shane,Shane Long,178,Long,-AMR-FW-,Forward,1591,6.123333333333334,Southampton,England,81
+22,1,Antonio,Toni Lato,171,Latorre,-DL-,Defender,1592,6.12,Valencia,Spain,64
+26,2,Danilo,Danilo Cataldi,180,Cataldi,-MC-,Midfielder,1593,6.12,Lazio,Italy,70
+31,1,Jon Ander,Jon Ander Garrido,185,Garrido,,Midfielder,1594,6.12,Cadiz,Spain,80
+21,2,Nathan,Nathan Tella,0,Tella,,Midfielder,1595,6.119999999999999,Southampton,England,0
+34,5,Shinji,Shinji Okazaki,174,Okazaki,-AMC-AML-AMR-FW-,Forward,1596,6.118,SD Huesca,Spain,70
+20,4,Oihan,Oihan Sancet,188,Sancet,-AMC-,Midfielder,1597,6.1175,Athletic Bilbao,Spain,73
+19,2,Ahmad Toure,Ahmad Toure Ngouyamsa Nounchil,176,Ngouyamsa Nounchil,,Defender,1598,6.115,Dijon,France,75
+30,2,Diego,Diego Farias,172,Farias,-AMC-AML-AMR-FW-,Forward,1599,6.115,Spezia,Italy,63
+20,2,Ebrima,Ebrima Colley,0,Colley,,Forward,1600,6.115,Verona,Italy,0
+18,2,Reinier Jesus,Reinier,185,Carvalho,-AMC-,Midfielder,1601,6.115,Borussia Dortmund,Germany,78
+28,3,Ezgjan,Ezgjan Alioski,173,Alioski,-DL-ML-MR-,Midfielder,1602,6.113333333333333,Leeds,England,63
+23,5,Yusuf,Yusuf Yazici,183,Yazici,-MC-ML-MR-,Midfielder,1603,6.112,Lille,France,74
+25,1,Alejandro,Alex Berenguer,175,Berenguer Remiro,-DL-DR-FW-MC-ML-,Forward,1604,6.11,Athletic Bilbao,Spain,73
+18,1,Joscha,Joscha Wosz,0,Wosz,,Midfielder,1605,6.11,RasenBallsport Leipzig,Germany,0
+34,1,Ludovic,Ludovic Baal,176,Baal,-DL-ML-,Defender,1606,6.11,Brest,France,75
+27,1,Sofian,Sofian Chakla,186,Chakla,,Defender,1607,6.11,Villarreal,Spain,77
+33,3,Mark,Mark Noble,180,Noble,-MC-,Midfielder,1608,6.109999999999999,West Ham,England,70
+24,3,Thomas,Thomas Ouwejan,178,Ouwejan,-DL-,Defender,1609,6.1066666666666665,Udinese,Italy,72
+21,2,Alejandro,Álex Blanco,175,Blanco,,Forward,1610,6.105,Valencia,Spain,70
+34,2,Enrique,Enric Gallego,190,Gallego Puigsech,-FW-,Forward,1611,6.105,Osasuna,Spain,79
+22,2,Hugo,Hugo Magnetti,180,Magnetti,,Midfielder,1612,6.105,Brest,France,75
+20,2,Sergio,Sergio Gómez,171,Gómez,,Midfielder,1613,6.105,SD Huesca,Spain,68
+36,2,Vedad,Vedad Ibisevic,188,Ibisevic,-FW-,Forward,1614,6.105,Schalke 04,Germany,83
+30,2,Yuya,Yuya Osako,182,Osako,-AMC-AML-AMR-FW-,Forward,1615,6.105,Werder Bremen,Germany,71
+27,4,Lois,Lois Diony,183,Diony,-AML-FW-,Forward,1616,6.1049999999999995,Angers,France,82
+36,3,Samir,Samir Handanovic,193,Handanovic,-GK-,Goalkeeper,1617,6.103333333333334,Inter,Italy,92
+23,6,Gautier,Gautier Larsonneur,181,Larsonneur,-GK-,Goalkeeper,1618,6.1000000000000005,Brest,France,70
+33,3,Perparim,Perparim Hetemaj,175,Hetemaj,-MC-ML-,Midfielder,1619,6.1000000000000005,Benevento,Italy,76
+28,2,Christian,Christian Eriksen,182,Eriksen,-MC-ML-MR-,Midfielder,1620,6.1,Inter,Italy,76
+29,1,Faouzi,Faouzi Ghoulam,186,Ghoulam,-DL-,Defender,1621,6.1,Napoli,Italy,80
+23,1,Hamza,Hamza Choudhury,178,Choudhury,-DMC-,Midfielder,1622,6.1,Leicester,England,64
+28,2,Ishak,Ishak Belfodil,192,Belfodil,-AML-AMR-FW-,Forward,1623,6.1,Hoffenheim,Germany,86
+35,2,Luís Carlos,Luisinho,171,Correia Pinto,-DL-ML-,Defender,1624,6.1,SD Huesca,Spain,66
+30,2,Marc,Marc Albrighton,175,Albrighton,-ML-MR-,Midfielder,1625,6.1,Leicester,England,74
+27,2,Rubén,Rubén Pardo,181,Pardo,-MC-,Midfielder,1626,6.1,Bordeaux,France,69
+23,1,Yan,Yan Eteki,180,Eteki,-DMC-,Midfielder,1627,6.1,Granada,Spain,70
+19,4,Rayan,Rayan Philippe,182,Philippe,,Midfielder,1628,6.097499999999999,Dijon,France,76
+25,3,Yann,Yann Bodiger,188,Bodiger,-DMC-,Midfielder,1629,6.096666666666668,Cadiz,Spain,80
+22,3,Florian,Florian Müller,190,Müller,-GK-,Goalkeeper,1630,6.096666666666667,Freiburg,Germany,85
+21,3,Tommaso,Tommaso Pobega,188,Pobega,,Midfielder,1631,6.096666666666667,Spezia,Italy,75
+18,2,Isaac,Isaac Lihadji,177,Lihadji,,Forward,1632,6.095000000000001,Lille,France,0
+30,2,Jonas,Jonas Hector,185,Hector,-DL-DMC-ML-,Midfielder,1633,6.095000000000001,FC Koln,Germany,75
+25,2,Samuel,Samu Castillejo,182,Castillejo Azuaga,-AMC-AML-AMR-,Midfielder,1634,6.095000000000001,AC Milan,Italy,67
+26,6,Adrien,Adrien Thomasson,177,Thomasson,-MC-ML-MR-,Midfielder,1635,6.094999999999999,Strasbourg,France,72
+23,3,Oliver,Oliver Burke,188,Burke,-AML-AMR-FW-,Midfielder,1636,6.093333333333334,Sheffield United,England,74
+33,1,Ahmed Eissa,Ahmed El Mohamady,183,El Mohamady Abdel Fattah,-DR-MR-,Defender,1637,6.09,Aston Villa,England,75
+26,1,Christian,Christian Gebauer,187,Gebauer,,Midfielder,1638,6.09,Arminia Bielefeld,Germany,74
+23,2,Heriberto Moreno,Heriberto Tavares,181,Borges Tavares,-AMC-AML-AMR-FW-,Forward,1639,6.09,Brest,France,74
+20,1,Matteo,Matteo Tramoni,175,Tramoni,,Midfielder,1640,6.09,Cagliari,Italy,0
+26,1,Mattia,Mattia Caldara,187,Caldara,-DC-,Defender,1641,6.09,Atalanta,Italy,80
+27,1,Mattia,Mattia Sprocati,178,Sprocati,,Midfielder,1642,6.09,Parma Calcio 1913,Italy,70
+21,1,Michaël,Michaël Cuisance,181,Cuisance,-AMC-,Midfielder,1643,6.09,Bayern Munich,Germany,74
+29,3,Thomas,Thomas Fontaine,184,Fontaine,-DC-,Defender,1644,6.09,Lorient,France,78
+30,1,Yann,Yann M'Vila,182,M'Vila,-MC-,Midfielder,1645,6.09,Saint-Etienne,France,80
+33,6,Wesley,Wesley Lautoa,182,Lautoa,-DC-DMC-,Defender,1646,6.086666666666667,Dijon,France,87
+30,3,Joel,Joel Robles,195,Robles,-GK-,Goalkeeper,1647,6.086666666666666,Real Betis,Spain,78
+26,2,Roberto,Roberto Insigne,172,Insigne,,Forward,1648,6.085000000000001,Benevento,Italy,65
+22,2,Johannes,Johannes Eggestein,183,Eggestein,-AMR-FW-,Midfielder,1649,6.085,Werder Bremen,Germany,75
+22,2,Paul,Paul Akouokou,190,Akouokou,,Midfielder,1650,6.085,Real Betis,Spain,0
+33,3,Kevin,Kevin Gameiro,172,Gameiro,-FW-,Forward,1651,6.083333333333333,Valencia,Spain,70
+20,4,Timothy,Timothy Weah,185,Weah,,Forward,1652,6.0825000000000005,Lille,France,66
+43,4,Vitorino Hilton,Hilton,180,Da Silva,-DC-,Defender,1653,6.0825000000000005,Montpellier,France,78
+22,5,Stephy,Stephy Mavididi,182,Mavididi,-AML-FW-,Forward,1654,6.082,Montpellier,France,71
+20,3,Tahith,Tahith Chong,185,Chong,,Midfielder,1655,6.080000000000001,Werder Bremen,Germany,75
+20,1,Abdallahi,Abdallahi Mahmoud,0,Mahmoud,,Midfielder,1656,6.08,Deportivo Alaves,Spain,0
+23,1,Djibril,Djibril Sow,184,Sow,-DMC-,Midfielder,1657,6.08,Eintracht Frankfurt,Germany,77
+21,2,Leonardo,Leonardo Balerdi,187,Balerdi,-DC-,Defender,1658,6.08,Marseille,France,76
+30,2,Timothy,Timothy Chandler,186,Chandler,-DR-ML-MR-,Midfielder,1659,6.08,Eintracht Frankfurt,Germany,84
+21,3,Joaquín,Joaquín Muñoz,173,Muñoz,,Forward,1660,6.079999999999999,SD Huesca,Spain,60
+23,3,Hidde,Hidde ter Avest,182,ter Avest,-DR-MR-,Defender,1661,6.076666666666667,Udinese,Italy,78
+19,2,Curtis,Curtis Jones,185,Jones,-MC-,Midfielder,1662,6.075,Liverpool,England,75
+22,4,Kaj,Kaj Sierhuis,180,Sierhuis,-FW-,Forward,1663,6.075,Reims,France,74
+20,2,Vincenzo,Vincenzo Millico,173,Millico,,Forward,1664,6.075,Torino,Italy,68
+28,3,Johan,Johan Mojica,185,Mojica,-DL-ML-,Defender,1665,6.073333333333333,Atalanta,Italy,66
+21,5,Youssouf,Youssouf Fofana,178,Fofana,-MC-,Midfielder,1666,6.072,Monaco,France,0
+26,2,Davide,Davide Biraschi,182,Biraschi,-DC-DR-MR-,Defender,1667,6.07,Genoa,Italy,73
+32,2,Julian,Julian Baumgartlinger,184,Baumgartlinger,-DMC-,Midfielder,1668,6.07,Bayer Leverkusen,Germany,84
+23,1,Kiril,Kiril Despodov,178,Despodov,,Forward,1669,6.07,Cagliari,Italy,69
+23,3,Riccardo,Riccardo Orsolini,183,Orsolini,-AMR-,Forward,1670,6.07,Bologna,Italy,73
+28,2,Rubén,Rubén Sobrino,185,Sobrino,-AMR-FW-,Forward,1671,6.07,Valencia,Spain,73
+19,1,Unai,Unai Vencedor,176,Vencedor,,Midfielder,1672,6.07,Athletic Bilbao,Spain,71
+28,5,Florent,Florent Mollet,170,Mollet,-AMC-AML-,Midfielder,1673,6.066000000000001,Montpellier,France,67
+28,6,Idriss,Idriss Saadi,185,Saadi,-FW-,Forward,1674,6.065,Strasbourg,France,85
+20,2,Sacha,Sacha Boey,166,Boey,,Defender,1675,6.065,Rennes,France,0
+27,2,Felipe Anderson,Felipe Anderson,175,Pereira Gomes,-FW-MC-ML-MR-,Midfielder,1676,6.0649999999999995,West Ham,England,70
+25,4,Habib,Habib Diallo,186,Diallo,-FW-,Forward,1677,6.0649999999999995,Metz,France,79
+34,2,Oscar,Oscar Wendt,181,Wendt,-DL-ML-,Defender,1678,6.0649999999999995,Borussia M.Gladbach,Germany,82
+22,2,Pedro Miguel,Pedro Pereira,182,Lopes Pereira,-DR-MR-,Defender,1679,6.0649999999999995,Crotone,Italy,77
+33,3,Tim,Tim Ream,186,Ream,-DC-DL-DMC-,Defender,1680,6.0633333333333335,Fulham,England,80
+34,3,Billy,Billy Sharp,175,Sharp,-FW-,Forward,1681,6.063333333333333,Sheffield United,England,70
+27,2,Alexander,Alexander Hack,193,Hack,-DC-,Defender,1682,6.0600000000000005,Mainz 05,Germany,88
+20,2,Emanuel,Emanuel Vignato,175,Vignato,-AMC-,Midfielder,1683,6.0600000000000005,Bologna,Italy,70
+31,2,Leonardo,Leonardo Pavoletti,188,Pavoletti,-FW-,Forward,1684,6.0600000000000005,Cagliari,Italy,80
+18,1,Daniel,Daniel Maldini,181,Maldini,,Forward,1685,6.06,AC Milan,Italy,0
+34,6,Frédéric,Frédéric Sammaritano,162,Sammaritano,-AMC-AML-AMR-,Midfielder,1686,6.06,Dijon,France,64
+21,1,Lennart,Lennart Czyborra,181,Czyborra,-DL-,Defender,1687,6.06,Genoa,Italy,72
+24,1,Ola,Ola Aina,184,Aina,-DL-DR-ML-MR-,Defender,1688,6.06,Fulham,England,82
+20,1,Samy,Samy Benchama,185,Benchama,,Midfielder,1689,6.06,Montpellier,France,71
+29,4,Manuel,Manuel Perez,180,Perez,,Midfielder,1690,6.0575,Lens,France,71
+25,4,Waldo,Waldo Rubio,181,Rubio,-AML-,Forward,1691,6.0575,Real Valladolid,Spain,80
+25,3,Marc,Marc Cardona,183,Cardona,-FW-,Forward,1692,6.0566666666666675,Osasuna,Spain,70
+37,2,Eiji,Eiji Kawashima,185,Kawashima,-GK-,Goalkeeper,1693,6.055,Strasbourg,France,82
+30,1,Amir,Amir Abrashi,170,Abrashi,-DMC-,Midfielder,1694,6.05,Freiburg,Germany,74
+24,1,Carlos,Carlos Fernández,185,Fernández,-AMC-FW-,Forward,1695,6.05,Sevilla,Spain,72
+21,2,Filippo,Filippo Melegoni,186,Melegoni,,Midfielder,1696,6.05,Genoa,Italy,74
+31,1,Óscar,Óscar De Marcos,182,De Marcos,-DL-DR-MC-MR-,Defender,1697,6.05,Athletic Bilbao,Spain,77
+27,2,Ramón,Ramón Azeez,169,Azeez,-MC-,Midfielder,1698,6.05,Granada,Spain,67
+28,1,Roberto,Roberto Inglese,187,Inglese,-FW-,Forward,1699,6.05,Parma Calcio 1913,Italy,85
+28,3,Michael,Michael Hector,193,Hector,-DC-DMC-,Defender,1700,6.046666666666667,Fulham,England,82
+22,2,Sean,Sean Longstaff,180,Longstaff,-DMC-,Midfielder,1701,6.045,Newcastle United,England,65
+20,2,William,William Smallbone,0,Smallbone,,Midfielder,1702,6.045,Southampton,England,0
+29,3,Manuel,Manuel Gulde,184,Gulde,-DC-,Defender,1703,6.043333333333333,Freiburg,Germany,80
+23,4,Asier,Asier Villalibre,184,Villalibre,-FW-,Forward,1704,6.0424999999999995,Athletic Bilbao,Spain,86
+25,1,Andrea,Andrea Petagna,190,Petagna,-FW-,Forward,1705,6.04,Napoli,Italy,85
+23,1,Cengiz,Cengiz Ünder,173,Ünder,-AML-AMR-,Midfielder,1706,6.04,Leicester,England,66
+29,1,Christian,Christian Benteke,190,Benteke,-FW-,Forward,1707,6.04,Crystal Palace,England,83
+28,2,Jacopo,Jacopo Dezi,178,Dezi,,Midfielder,1708,6.04,Parma Calcio 1913,Italy,69
+26,1,Joel,Joel Pohjanpalo,186,Pohjanpalo,-FW-,Forward,1709,6.04,Bayer Leverkusen,Germany,84
+30,3,Mamadou,Mamadou Sakho,187,Sakho,-DC-,Defender,1710,6.04,Crystal Palace,England,83
+23,1,Mathias,Mathias Pereira Lage,180,Pereira Lage,-MC-ML-,Midfielder,1711,6.04,Angers,France,67
+27,2,Michy,Michy Batshuayi,184,Batshuayi,-FW-,Forward,1712,6.04,Crystal Palace,England,74
+22,4,Warren,Warren Tchimbembé,180,Tchimbembé,,Midfielder,1713,6.039999999999999,Metz,France,74
+34,2,Javier,Javi Moyano,180,Moyano Lujano,-DR-,Defender,1714,6.035,Real Valladolid,Spain,71
+32,2,Mikel,Mikel Balenziaga,177,Balenziaga,-DL-,Defender,1715,6.035,Athletic Bilbao,Spain,76
+24,4,Shon,Shon Weissman,174,Weissman,-FW-,Forward,1716,6.035,Real Valladolid,Spain,72
+31,3,Paolo,Paolo Bartolomei,183,Bartolomei,,Midfielder,1717,6.033333333333334,Spezia,Italy,76
+32,3,Andrea,Andrea Rispoli,188,Rispoli,-DR-MR-,Defender,1718,6.03,Crotone,Italy,75
+23,2,Fabio,Fabio Depaoli,178,Depaoli,-DMC-DR-MR-,Defender,1719,6.03,Sampdoria,Italy,71
+30,1,Francisco,Francisco Portillo,169,Portillo,-MC-ML-MR-,Midfielder,1720,6.03,Getafe,Spain,60
+26,1,Gennaro,Gennaro Acampora,174,Acampora,,Midfielder,1721,6.03,Spezia,Italy,74
+29,1,Jóhann,Jóhann Gudmundsson,186,Gudmundsson,-AMC-AML-AMR-,Midfielder,1722,6.03,Burnley,England,78
+22,3,Kyle,Kyle Edwards,172,Edwards,-AML-,Midfielder,1723,6.03,West Bromwich Albion,England,64
+19,1,Urko,Urko Gonzalez,0,Gonzalez,,Defender,1724,6.03,Real Sociedad,Spain,0
+29,2,Federico,Federico Santander,187,Santander,-FW-,Forward,1725,6.029999999999999,Bologna,Italy,79
+30,2,Hamadi,Hamadi Al Ghaddioui,193,Al Ghaddioui,-FW-,Forward,1726,6.029999999999999,VfB Stuttgart,Germany,90
+24,4,Santiago,Santi Mina,181,Mina Lorenzo,-AML-AMR-FW-,Forward,1727,6.0275,Celta Vigo,Spain,77
+27,3,Ederson,Ederson,188,Santana de Moraes,-GK-,Goalkeeper,1728,6.026666666666667,Manchester City,England,86
+23,2,Jean-Phillipe,Jean-Phillipe Krasso,187,Krasso,,Forward,1729,6.025,Saint-Etienne,France,80
+32,2,Luca,Luca Mora,183,Mora,-MC-,Midfielder,1730,6.025,Spezia,Italy,80
+29,2,Ramiro,Ramiro Funes Mori,186,Funes Mori,-DC-DMC-,Defender,1731,6.025,Villarreal,Spain,79
+21,2,Sergi,Sergi García,0,García,,Midfielder,1732,6.025,Deportivo Alaves,Spain,0
+29,5,Abdul Majeed,Majeed Waris,172,Waris,-AML-AMR-FW-,Forward,1733,6.0200000000000005,Strasbourg,France,73
+21,3,Fraser,Fraser Hornby,195,Hornby,,Forward,1734,6.0200000000000005,Reims,France,85
+22,1,Daniel,Daniel James,171,James,-AML-AMR-FW-,Midfielder,1735,6.02,Manchester United,England,76
+40,2,Juan Francisco,Nino,169,Martinez Modesto,-AMC-,Forward,1736,6.02,Elche,Spain,68
+29,2,Matt,Matt Phillips,185,Phillips,-FW-MC-ML-MR-,Midfielder,1737,6.02,West Bromwich Albion,England,75
+22,1,Nicolás,Nicolás Domínguez,179,Domínguez,-DMC-,Midfielder,1738,6.02,Bologna,Italy,73
+22,1,Oskar,Oskar Buur,178,Buur,,Defender,1739,6.02,Wolverhampton Wanderers,England,65
+23,2,Pol,Pol Lirola,183,Lirola,-DR-ML-MR-,Defender,1740,6.02,Fiorentina,Italy,70
+31,2,Vincent,Vincent Laurini,173,Laurini,-DR-,Defender,1741,6.02,Parma Calcio 1913,Italy,72
+21,4,Enzo,Enzo Ebosse,185,Ebosse,,Defender,1742,6.0175,Angers,France,0
+20,3,Gabriele,Gabriele Zappa,0,Zappa,,Defender,1743,6.016666666666667,Cagliari,Italy,0
+21,2,Alessandro,Alessandro Tripaldelli,182,Tripaldelli,,Defender,1744,6.015000000000001,Cagliari,Italy,77
+32,2,Luca,Luca Siligardi,180,Siligardi,-AML-AMR-FW-,Forward,1745,6.015000000000001,Parma Calcio 1913,Italy,72
+30,4,Mateo,Mateo Pavlovic,196,Pavlovic,-DC-,Defender,1746,6.015000000000001,Angers,France,94
+35,2,Niklas,Niklas Moisander,183,Moisander,-DC-,Defender,1747,6.015000000000001,Werder Bremen,Germany,75
+19,2,Toluwalase Emmanuel,Tolu Arokodare,197,Arokodare,,Forward,1748,6.015000000000001,FC Koln,Germany,0
+28,3,Frederik,Frederik Sörensen,194,Sörensen,-DC-DR-,Defender,1749,6.013333333333333,FC Koln,Germany,80
+31,2,Christian,Christian Groß,182,Groß,-DC-,Defender,1750,6.01,Werder Bremen,Germany,75
+28,4,Damian,Damian Kadzior,175,Kadzior,,Forward,1751,6.01,Eibar,Spain,74
+28,2,David,David Alaba,180,Alaba,-DC-DL-MC-,Defender,1752,6.01,Bayern Munich,Germany,78
+22,1,Issah,Issah Abass,173,Abass,-FW-,Forward,1753,6.01,Mainz 05,Germany,67
+30,1,Juan,Juan Sánchez Miño,177,Sánchez Miño,-DL-MC-ML-,Defender,1754,6.01,Elche,Spain,78
+23,1,Keven,Keven Schlotterbeck,189,Schlotterbeck,-DC-,Defender,1755,6.01,Freiburg,Germany,84
+35,1,Pablo,Pablo Hernández,173,Hernández Domínguez,-MC-ML-MR-,Midfielder,1756,6.01,Leeds,England,64
+25,1,Roberto,Rober Pier,182,Suárez Pier,-DC-DMC-,Defender,1757,6.01,Levante,Spain,74
+32,1,Romain,Romain Philippoteaux,170,Philippoteaux,-AML-AMR-,Midfielder,1758,6.01,Brest,France,67
+25,2,Tomislav,Tomislav Gomelt,185,Gomelt,,Midfielder,1759,6.01,Crotone,Italy,74
+28,3,Luis Miguel,Luismi,180,Sánchez Benítez,,Midfielder,1760,6.006666666666668,Elche,Spain,73
+30,3,Enrique,Quique González,177,González Casín,,Forward,1761,6.006666666666667,Eibar,Spain,78
+18,3,Javier,Javier López,184,López,,Defender,1762,6.006666666666667,Deportivo Alaves,Spain,0
+20,3,Sebastian,Sebastian Walukiewicz,188,Walukiewicz,-DC-,Defender,1763,6.006666666666667,Cagliari,Italy,0
+24,2,Jakub,Jakub Jankto,184,Jankto,-AMC-AML-,Midfielder,1764,6.005000000000001,Sampdoria,Italy,74
+22,2,Gonzalo,Gonzalo Villar,181,Villar,,Midfielder,1765,6.005,Roma,Italy,73
+29,1,Aleksandar,Aleksandar Dragovic,186,Dragovic,-DC-,Defender,1766,6.0,Bayer Leverkusen,Germany,84
+34,1,Andrés,Andrés Guardado,169,Guardado,-DL-MC-ML-,Midfielder,1767,6.0,Real Betis,Spain,60
+30,2,Andriy,Andriy Yarmolenko,189,Yarmolenko,-AMR-,Forward,1768,6.0,West Ham,England,81
+23,1,Assane,Assane Dioussé,175,Dioussé,-DMC-,Midfielder,1769,6.0,Saint-Etienne,France,68
+23,1,Boubakar,Kiki Kouyate,193,Kouyate,,Defender,1770,6.0,Metz,France,78
+19,1,Daishawn,Daishawn Redan,176,Redan,,Forward,1771,6.0,Hertha Berlin,Germany,76
+26,1,David,David Juncà,175,Juncà,-DL-,Defender,1772,6.0,Celta Vigo,Spain,67
+20,1,Diego,Diego Lainez,168,Lainez,,Midfielder,1773,6.0,Real Betis,Spain,58
+22,1,Ermedin,Ermedin Demirovic,185,Demirovic,,Forward,1774,6.0,Freiburg,Germany,80
+36,1,Federico,Federico Peluso,187,Peluso,-DC-DL-ML-,Defender,1775,6.0,Sassuolo,Italy,82
+19,1,Fernando,Fernando Niño,0,Niño,,Forward,1776,6.0,Villarreal,Spain,0
+18,1,Georginio,Georginio Rutter,182,Rutter,,Forward,1777,6.0,Rennes,France,0
+32,1,Javier,Javi Martínez,192,Martínez Aguinaga,-DC-MC-,Midfielder,1778,6.0,Bayern Munich,Germany,86
+25,1,Jorge,Koke Vegas,188,Ruiz Ojeda,,Goalkeeper,1779,6.0,Levante,Spain,88
+26,1,Joshua,Joshua Brenet,181,Brenet,-DL-DR-MR-,Defender,1780,6.0,Hoffenheim,Germany,74
+24,1,Joshua,Joshua Mees,180,Mees,-AMC-AML-,Midfielder,1781,6.0,Union Berlin,Germany,76
+22,1,Lamine,Lamine Gueye,178,Gueye,,Forward,1782,6.0,Metz,France,74
+22,1,Lucas,Lucas Buades,181,Buades,,Forward,1783,6.0,Nimes,France,73
+22,1,Luis,Luis Suárez,185,Suárez,,Forward,1784,6.0,Granada,Spain,74
+32,1,Marek,Marek Suchy,184,Suchy,-DC-,Defender,1785,6.0,Augsburg,Germany,81
+21,1,Miguel Ángel,Miguel Ángel Atienza,186,Atienza,,Midfielder,1786,6.0,Eibar,Spain,0
+24,1,Patrick,Patrick Burner,170,Burner,-DR-,Defender,1787,6.0,Nice,France,65
+25,1,Pawel,Pawel Dawidowicz,189,Dawidowicz,-DC-,Defender,1788,6.0,Verona,Italy,80
+31,1,Ramón,Ramón Folch,182,Folch,,Midfielder,1789,6.0,Elche,Spain,78
+19,1,Sergio,Sergio Arribas,0,Arribas Calvo,,Midfielder,1790,6.0,Real Madrid,Spain,0
+36,1,Wes,Wes Morgan,186,Morgan,-DC-,Defender,1791,6.0,Leicester,England,101
+22,2,Youssef,Youssef Maziz,175,Maziz,,Midfielder,1792,6.0,Metz,France,0
+21,2,Justin,Justin Kluivert,171,Kluivert,-AML-AMR-,Forward,1793,5.995,Roma,Italy,66
+20,2,Moise,Moise Kean,183,Kean,-FW-,Forward,1794,5.995,Everton,England,67
+22,2,Wilfried,Wilfried Kanga,185,Kanga,-FW-,Forward,1795,5.995,Angers,France,76
+24,4,Abdou,Abdou Diallo,187,Diallo,-DC-DL-,Defender,1796,5.99,Paris Saint-Germain,France,79
+29,4,Aitor,Aitor Fernández,182,Fernández,-GK-,Goalkeeper,1797,5.99,Levante,Spain,78
+20,1,Ante,Ante Palaversa,187,Palaversa,,Midfielder,1798,5.99,Getafe,Spain,77
+19,1,Kristoffer,Kristoffer Askildsen,0,Askildsen,,Midfielder,1799,5.99,Sampdoria,Italy,0
+28,1,Marvin,Marvin Plattenhardt,181,Plattenhardt,-DL-ML-,Defender,1800,5.99,Hertha Berlin,Germany,78
+20,1,Michael,Michael Obafemi,169,Obafemi,-FW-,Forward,1801,5.99,Southampton,England,71
+25,1,Pierre Kunde,Pierre Kunde Malong,180,Malong,-DMC-,Midfielder,1802,5.99,Mainz 05,Germany,79
+20,1,Rekeem,Rekeem Harper,188,Harper,-MC-,Midfielder,1803,5.99,West Bromwich Albion,England,81
+22,1,Sofiane,Sofiane Alakouch,175,Alakouch,-DR-,Defender,1804,5.99,Nimes,France,66
+30,3,Sebastian,Sebastian Griesbeck,189,Griesbeck,-DMC-,Midfielder,1805,5.989999999999999,Union Berlin,Germany,85
+26,3,Juan,Juan Musso,191,Musso,-GK-,Goalkeeper,1806,5.986666666666667,Udinese,Italy,93
+34,2,Carlos,Carlos Bacca,181,Bacca,-FW-,Forward,1807,5.98,Villarreal,Spain,77
+23,1,Carlos,Carlos Soler,180,Soler,-MC-ML-MR-,Midfielder,1808,5.98,Valencia,Spain,76
+22,1,Keita,Keita Endo,175,Endo,,Forward,1809,5.98,Union Berlin,Germany,66
+28,1,Reinhold,Reinhold Yabo,176,Yabo,-FW-MC-,Midfielder,1810,5.98,Arminia Bielefeld,Germany,83
+21,1,Unai,Unai Arietaleanizbeaskoa,175,Arietaleanizbeaskoa,,Forward,1811,5.98,Eibar,Spain,70
+26,3,Mateo,Mateo Kovacic,178,Kovacic,-MC-ML-,Midfielder,1812,5.976666666666667,Chelsea,England,78
+18,2,Gabriel,Gabriel Veiga,0,Veiga,,Midfielder,1813,5.975,Celta Vigo,Spain,0
+35,2,Valon,Valon Behrami,185,Behrami,-MC-,Midfielder,1814,5.975,Genoa,Italy,78
+23,2,Leon,Leon Bailey,178,Bailey,-ML-MR-,Forward,1815,5.970000000000001,Bayer Leverkusen,Germany,77
+18,2,Fábio Daniel,Fábio Silva,185,Soares Silva,,Forward,1816,5.97,Wolverhampton Wanderers,England,75
+32,1,Ibrahima,Ibrahima Traoré,171,Traoré,-AML-AMR-,Forward,1817,5.97,Borussia M.Gladbach,Germany,61
+29,1,Joel,Joel Matip,195,Matip,-DC-,Defender,1818,5.97,Liverpool,England,90
+22,1,Kelechi,Kelechi Nwakali,181,Nwakali,,Midfielder,1819,5.97,SD Huesca,Spain,76
+23,1,Sergio,Sergio González,184,González,,Defender,1820,5.97,Cadiz,Spain,0
+23,4,Unai,Unai Simón,190,Simón,-GK-,Goalkeeper,1821,5.965000000000001,Athletic Bilbao,Spain,88
+28,2,John,John Guidetti,185,Guidetti,-FW-,Forward,1822,5.965,Deportivo Alaves,Spain,79
+21,2,Mehdi,Mehdi Zerkane,175,Zerkane,,Midfielder,1823,5.965,Bordeaux,France,75
+31,3,Hal,Hal Robson-Kanu,183,Robson-Kanu,-AML-AMR-FW-,Forward,1824,5.963333333333334,West Bromwich Albion,England,83
+23,2,Borja,Borja Mayoral,182,Mayoral,-FW-,Forward,1825,5.960000000000001,Real Madrid,Spain,74
+19,1,Eddie Anthony,Eddie Salcedo,178,Salcedo Mora,-FW-,Forward,1826,5.96,Verona,Italy,0
+23,2,Josh,Josh Onomah,185,Onomah,-MC-ML-,Midfielder,1827,5.96,Fulham,England,70
+25,1,M'Baye,M'Baye Niang,184,Niang,-AML-AMR-FW-,Forward,1828,5.96,Rennes,France,75
+27,3,Juan Miguel,Juanmi,172,Jiménez López,-AMC-AML-AMR-FW-,Forward,1829,5.956666666666667,Real Betis,Spain,69
+20,2,Bridge,Bridge Ndilu,186,Ndilu,,Forward,1830,5.955,Nantes,France,0
+18,3,Paul,Paul Nebel,169,Nebel,,Midfielder,1831,5.953333333333333,Mainz 05,Germany,67
+24,1,Antonio,Antonio Palumbo,182,Palumbo,,Midfielder,1832,5.95,Sampdoria,Italy,76
+21,1,Cheick Tidiane,Cheick Tidiane Sabaly,168,Sabaly,,Forward,1833,5.95,Metz,France,56
+25,2,Erick,Erick Cabaco,185,Cabaco,-DC-,Defender,1834,5.95,Getafe,Spain,84
+24,1,Samuel,Samuel Moutoussamy,176,Moutoussamy,-MC-ML-,Midfielder,1835,5.95,Nantes,France,72
+25,4,Aboubakar,Aboubakar Kamara,177,Kamara,-AMR-FW-,Forward,1836,5.9475,Fulham,England,81
+29,3,Vladimir,Vladimir Golemic,192,Golemic,-DC-,Defender,1837,5.946666666666666,Crotone,Italy,83
+29,1,Eliaquim,Eliaquim Mangala,188,Mangala,-DC-,Defender,1838,5.94,Valencia,Spain,84
+26,1,Jean Eudes,Jean Eudes Aholou,186,Aholou,-DMC-,Midfielder,1839,5.94,Strasbourg,France,71
+17,1,Liam,Liam Delap,0,Delap,,Forward,1840,5.94,Manchester City,England,0
+27,1,Steven,Steven Skrzybski,175,Skrzybski,-AMC-AML-AMR-FW-,Forward,1841,5.94,Schalke 04,Germany,70
+31,1,Víctor,Víctor Rodríguez,170,Rodríguez,-AMC-AML-AMR-,Midfielder,1842,5.94,Elche,Spain,70
+19,2,Pietro,Pietro Pellegri,196,Pellegri,,Forward,1843,5.9399999999999995,Monaco,France,78
+22,1,Christopher,Christopher Rocchia,172,Rocchia,,Defender,1844,5.93,Marseille,France,0
+21,1,Florentino Ibrain,Florentino Luís,183,Morris Luís,-MC-,Midfielder,1845,5.93,Monaco,France,73
+22,3,Patrick,Patrick Cutrone,183,Cutrone,-FW-,Forward,1846,5.926666666666667,Fiorentina,Italy,75
+26,2,Jimmy,Jimmy Cabot,164,Cabot,-AML-AMR-,Midfielder,1847,5.925,Angers,France,65
+27,2,Kenan,Kenan Kodro,190,Kodro,-FW-,Forward,1848,5.925,Athletic Bilbao,Spain,80
+32,3,Víctor,Víctor Díaz,184,Díaz,-DC-DR-,Defender,1849,5.923333333333333,Granada,Spain,71
+22,2,Daniel,Dani Escriche,178,Escriche,,Forward,1850,5.92,SD Huesca,Spain,75
+28,1,Edouard,Edouard Mendy,197,Mendy,-GK-,Goalkeeper,1851,5.92,Rennes,France,86
+25,1,Nicola,Nicola Murru,180,Murru,-DL-ML-,Defender,1852,5.92,Torino,Italy,74
+29,1,Tristan,Tristan Dingome,174,Dingome,-MC-,Midfielder,1853,5.92,Reims,France,71
+24,2,Jairo,Jairo Riedewald,182,Riedewald,-DC-DL-DMC-,Midfielder,1854,5.915,Crystal Palace,England,79
+25,1,Filip,Filip Krovinovic,175,Krovinovic,-AMC-,Midfielder,1855,5.91,West Bromwich Albion,England,70
+19,1,Noah,Noah Katterbach,180,Katterbach,-DL-,Defender,1856,5.91,FC Koln,Germany,73
+21,3,Denis,Denis Dragus,180,Dragus,,Forward,1857,5.906666666666666,Crotone,Italy,74
+27,2,Mikel,Mikel Vesga,191,Vesga,-DMC-,Midfielder,1858,5.904999999999999,Athletic Bilbao,Spain,83
+30,1,Antonio,Toño,179,García Aranda,-DL-ML-,Defender,1859,5.9,Levante,Spain,69
+27,1,Jesé,Jesé,178,Rodríguez,-AML-AMR-FW-,Forward,1860,5.9,Paris Saint-Germain,France,72
+28,2,Lukas,Lukas Kübler,182,Kübler,-DR-MR-,Defender,1861,5.9,Freiburg,Germany,74
+19,1,Tyrone,Tyrone Tormin,0,Tormin,,Midfielder,1862,5.9,Saint-Etienne,France,0
+24,3,Anthony,Anthony Martial,181,Martial,-AML-AMR-FW-,Forward,1863,5.8999999999999995,Manchester United,England,76
+26,3,Benjamin,Benjamin Mendy,185,Mendy,-DL-DMC-ML-,Defender,1864,5.8933333333333335,Manchester City,England,85
+18,1,Abdoulaye,Abdoulaye Sidibé,0,Sidibé,,Forward,1865,5.89,Saint-Etienne,France,0
+18,1,Eliot,Eliot Matazo,0,Matazo,,Midfielder,1866,5.89,Monaco,France,0
+31,3,Yann,Yann Sommer,183,Sommer,-GK-,Goalkeeper,1867,5.886666666666667,Borussia M.Gladbach,Germany,79
+27,3,John,John Egan,185,Egan,-DC-,Defender,1868,5.883333333333333,Sheffield United,England,75
+25,1,Djavan,Djavan Anderson,174,Anderson,-DR-,Defender,1869,5.88,Lazio,Italy,70
+29,1,Kalifa,Kalifa Coulibaly,197,Coulibaly,-FW-,Forward,1870,5.88,Nantes,France,84
+23,1,Timo,Timo Becker,186,Becker,,Defender,1871,5.88,Schalke 04,Germany,81
+28,1,Willian José,Willian José,189,Da Silva,-FW-,Forward,1872,5.88,Real Sociedad,Spain,93
+24,3,Lorenzo,Lorenzo Montipò,191,Montipò,,Goalkeeper,1873,5.876666666666668,Benevento,Italy,82
+25,2,Benito,Benito Raman,172,Raman,-AML-AMR-FW-,Forward,1874,5.87,Schalke 04,Germany,67
+22,3,Daniel,Dani Gómez,178,Gómez Alcón,,Forward,1875,5.87,Levante,Spain,69
+33,1,Jorge,Coke,182,Andújar Moreno,-DC-DL-DR-MR-,Defender,1876,5.87,Levante,Spain,78
+24,1,Martín,Martín Aguirregabiria,178,Aguirregabiria,-DR-MR-,Defender,1877,5.87,Deportivo Alaves,Spain,69
+27,1,Sergio,Sergio Rico,195,Rico,-GK-,Goalkeeper,1878,5.87,Paris Saint-Germain,France,90
+31,1,Theo,Theo Walcott,176,Walcott,-FW-MC-ML-MR-,Forward,1879,5.87,Everton,England,68
+26,2,Lorenzo,Loren Morón,188,Morón,-FW-,Forward,1880,5.869999999999999,Real Betis,Spain,66
+29,3,David,David de Gea,192,de Gea,-GK-,Goalkeeper,1881,5.866666666666667,Manchester United,England,76
+31,3,Bastian,Bastian Oczipka,185,Oczipka,-DC-DL-ML-,Defender,1882,5.866666666666666,Schalke 04,Germany,85
+34,3,Papakouly,Papakouly Diop,180,Diop,-MC-,Midfielder,1883,5.866666666666666,Eibar,Spain,77
+31,2,Óscar,Óscar Duarte,186,Duarte,-DC-DMC-,Defender,1884,5.865,Levante,Spain,81
+26,1,David,David Gil,186,Gil,,Goalkeeper,1885,5.86,Cadiz,Spain,81
+20,1,Leif,Leif Davis,166,Davis,,Defender,1886,5.86,Leeds,England,0
+17,1,Miguel,Miguel Rodriguez,0,Rodriguez,,Forward,1887,5.86,Celta Vigo,Spain,0
+31,1,Vincent,Vincent Manceau,176,Manceau,-DL-DR-,Defender,1888,5.85,Angers,France,70
+18,1,Martin,Martin Palumbo,0,Palumbo,,Midfielder,1889,5.84,Udinese,Italy,0
+25,3,Nabil,Nabil Bentaleb,187,Bentaleb,-MC-,Midfielder,1890,5.836666666666666,Schalke 04,Germany,78
+25,2,Adrien,Adrien Rabiot,188,Rabiot,-DMC-,Midfielder,1891,5.83,Juventus,Italy,71
+21,1,Augustus,Augustus Kargbo,172,Kargbo,,Forward,1892,5.83,Crotone,Italy,0
+20,1,Andrea,Andrea Adorante,184,Adorante,,Forward,1893,5.82,Parma Calcio 1913,Italy,0
+32,1,Raúl,Raúl Navas,186,Rodríguez Navas,-DC-,Defender,1894,5.82,Osasuna,Spain,84
+24,2,Levin,Levin Öztunali,184,Öztunali,-AMC-AML-AMR-,Midfielder,1895,5.8100000000000005,Mainz 05,Germany,80
+27,2,Lukas,Lukas Lerager,185,Lerager,-MC-,Midfielder,1896,5.81,Genoa,Italy,80
+22,1,Riccardo,Riccardo Marchizza,185,Marchizza,,Defender,1897,5.81,Spezia,Italy,80
+26,2,Reinildo Isnard,Reinildo,180,Mandava,-DL-ML-,Defender,1898,5.805,Lille,France,73
+34,1,Andrea,Andrea Masiello,185,Masiello,-DC-DR-,Defender,1899,5.8,Genoa,Italy,75
+30,3,Benjamin,Benjamin Stambouli,180,Stambouli,-DC-MC-,Defender,1900,5.8,Schalke 04,Germany,82
+22,2,Niccolò,Niccolò Zanellato,178,Zanellato,,Midfielder,1901,5.79,Crotone,Italy,74
+25,2,Arkadiusz,Arkadiusz Reca,187,Reca,-DL-ML-,Defender,1902,5.785,Crotone,Italy,81
+26,1,Philipp,Philipp Mwene,172,Mwene,-DR-MR-,Defender,1903,5.77,Mainz 05,Germany,68
+23,1,Taiwo,Taiwo Awoniyi,185,Awoniyi,-FW-,Forward,1904,5.77,Union Berlin,Germany,84
+28,4,Mat,Mat Ryan,184,Ryan,-GK-,Goalkeeper,1905,5.762499999999999,Brighton,England,82
+23,1,Amine,Amine Harit,180,Harit,-AMC-AML-AMR-,Midfielder,1906,5.76,Schalke 04,Germany,67
+31,1,Antonio,Antonio Mazzotta,183,Mazzotta,-ML-,Defender,1907,5.76,Crotone,Italy,73
+24,1,Kingsley,Kingsley Coman,179,Coman,-AML-AMR-FW-,Forward,1908,5.76,Bayern Munich,Germany,75
+21,1,Luca,Luca Pellegrini,178,Pellegrini,-DL-ML-,Midfielder,1909,5.76,Genoa,Italy,72
+26,4,Semi,Semi Ajayi,193,Ajayi,-DC-DMC-,Defender,1910,5.757499999999999,West Bromwich Albion,England,83
+26,3,Roger,Roger Assalé,167,Assalé,-FW-,Forward,1911,5.756666666666667,Dijon,France,65
+19,1,Roberto,Roberto Piccoli,187,Piccoli,,Forward,1912,5.75,Spezia,Italy,78
+33,2,Simone,Simone Iacoponi,180,Iacoponi,-DC-DR-,Defender,1913,5.75,Parma Calcio 1913,Italy,73
+31,1,Odion,Odion Ighalo,181,Ighalo,-AMC-FW-,Forward,1914,5.74,Manchester United,England,73
+31,2,Lamine,Lamine Koné,189,Koné,-DC-,Defender,1915,5.735,Strasbourg,France,90
+32,1,Erik,Erik Pieters,183,Pieters,-DL-ML-,Defender,1916,5.73,Burnley,England,84
+27,3,Harry,Harry Maguire,194,Maguire,-DC-,Defender,1917,5.726666666666667,Manchester United,England,100
+37,3,Alex,Alex Cordaz,188,Cordaz,-GK-,Goalkeeper,1918,5.710000000000001,Crotone,Italy,83
+38,1,Christian,Christian Maggio,184,Maggio,-DR-MR-,Defender,1919,5.71,Benevento,Italy,79
+26,2,Alessandro,Alessandro Schöpf,178,Schöpf,-MC-ML-MR-,Midfielder,1920,5.705,Schalke 04,Germany,74
+21,1,Alberto,Alberto Soro,173,Soro,,Midfielder,1921,5.7,Granada,Spain,64
+28,2,Layvin,Layvin Kurzawa,182,Kurzawa,-DL-ML-,Defender,1922,5.695,Paris Saint-Germain,France,74
+28,1,Marcin,Marcin Kaminski,192,Kaminski,-DC-,Defender,1923,5.69,VfB Stuttgart,Germany,84
+26,3,Chang-Hoon,Chang-Hoon Kwon,173,Kwon,-AMC-AMR-,Midfielder,1924,5.686666666666667,Freiburg,Germany,71
+19,1,Eric,Eric García,182,García,-DC-,Defender,1925,5.65,Manchester City,England,0
+23,1,Marek,Marek Rodák,194,Rodák,-GK-,Goalkeeper,1926,5.65,Fulham,England,81
+19,1,Can,Can Bozdogan,174,Bozdogan,,Midfielder,1927,5.64,Schalke 04,Germany,72
+36,1,Claudio,Claudio Terzi,182,Terzi,-DC-,Defender,1928,5.61,Spezia,Italy,73
+24,2,Moussa,Moussa Niakhaté,190,Niakhaté,-DC-,Defender,1929,5.574999999999999,Mainz 05,Germany,82
+24,1,Pascal,Pascal Stenzel,182,Stenzel,-DC-DR-MR-,Defender,1930,5.57,VfB Stuttgart,Germany,73
+21,1,Marcin,Marcin Bulka,199,Bulka,,Goalkeeper,1931,5.55,Paris Saint-Germain,France,0
+25,2,Eduardo Henrique,Eduardo Henrique,184,da Silva,-MC-,Midfielder,1932,5.545,Crotone,Italy,73
+21,1,Eñaut,Eñaut Mendía,0,Mendía,,Midfielder,1933,5.53,Eibar,Spain,0
+29,2,Jeroen,Jeroen Zoet,189,Zoet,-GK-,Goalkeeper,1934,5.53,Spezia,Italy,88
+26,2,Eric,Eric Bailly,187,Bailly,-DC-DR-,Defender,1935,5.515000000000001,Manchester United,England,77
+37,1,Federico,Federico Marchetti,188,Marchetti,-GK-,Goalkeeper,1936,5.5,Genoa,Italy,76
+30,3,Luca,Luca Marrone,186,Marrone,-DC-DMC-,Defender,1937,5.496666666666667,Crotone,Italy,75
+28,3,Nick,Nick Pope,191,Pope,-GK-,Goalkeeper,1938,5.4799999999999995,Burnley,England,76
+39,1,Willy,Willy Caballero,186,Caballero,-GK-,Goalkeeper,1939,5.41,Chelsea,England,81
+26,1,Cristian,Cristian Dell'Orco,183,Dell'Orco,-DC-DL-,Defender,1940,5.4,Spezia,Italy,75
+26,2,Kepa,Kepa Arrizabalaga,189,Arrizabalaga,-GK-,Goalkeeper,1941,5.385,Chelsea,England,84
+31,2,Kieran,Kieran Gibbs,181,Gibbs,-DL-ML-,Defender,1942,5.38,West Bromwich Albion,England,73
+20,1,Rabbi,Rabbi Matondo,175,Matondo,-FW-,Forward,1943,5.37,Schalke 04,Germany,66
+31,1,Jordi,Jordi Masip,180,Masip,-GK-,Goalkeeper,1944,5.32,Real Valladolid,Spain,76
+32,3,Ralf,Ralf Fährmann,197,Fährmann,-GK-,Goalkeeper,1945,5.296666666666667,Schalke 04,Germany,98
+29,1,Niko,Niko Gießelmann,182,Gießelmann,-DC-DL-ML-,Defender,1946,5.24,Union Berlin,Germany,75
+20,2,Ozan,Ozan Kabak,186,Kabak,-DC-,Defender,1947,5.085,Schalke 04,Germany,86
+27,1,Matija,Matija Nastasic,188,Nastasic,-DC-,Defender,1948,5.02,Schalke 04,Germany,83
+27,1,Mitchell,Mitchell Dijks,194,Dijks,-DL-ML-,Defender,1949,4.98,Bologna,Italy,93
+27,1,Carlos,Carlos Akapo,179,Akapo,-DL-,Defender,1950,4.94,Cadiz,Spain,70
+29,1,Wahbi,Wahbi Khazri,182,Khazri,-FW-MC-ML-MR-,Forward,1951,4.93,Saint-Etienne,France,76
+33,1,Adrián,Adrián,190,San Miguel del Castillo,-GK-,Goalkeeper,1952,3.83,Liverpool,England,80
